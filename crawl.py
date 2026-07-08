@@ -177,7 +177,217 @@ def process_tamquoc_tv():
         away = item.get("awayClub", {})
         commentator = item.get("commentator", {})
         blv_name = commentator.get("name", "Chính")
-        stream_url = (
-            commentator.get("streamSourceFhd") or
-            commentator.get("streamSourceHd") or
-            commentator.get("streamSourceSd")
+        
+        # Viết trên 1 dòng để tránh lỗi SyntaxError unclosed parenthesis
+        stream_url = commentator.get("streamSourceFhd") or commentator.get("streamSourceHd") or commentator.get("streamSourceSd")
+        
+        if not stream_url or ".m3u8" not in stream_url:
+            continue
+        out.append({
+            "time": dt,
+            "group": "TAM QUOC TV",
+            "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
+            "logo": home.get("logoUrl", ""),
+            "url": stream_url,
+            "blv": blv_name
+        })
+    return out
+
+# ================= LUONG SON TV / QUE CHOA TV =================
+def process_quechoa_tv(url, group_name="QUECHOA TV"):
+    out = []
+    data = fetch_json(url)
+    for group in data.get("groups", []):
+        for ch in group.get("channels", []):
+            dt = datetime.now()
+            logo = ch.get("image", {}).get("url", "")
+            title = ch.get("name", "")
+            for src in ch.get("sources", []):
+                blv_name = src.get("name", "Chính")
+                for content in src.get("contents", []):
+                    for stream in content.get("streams", []):
+                        links = stream.get("stream_links", [])
+                        if links:
+                            stream_url = links[0].get("url")
+                            out.append({
+                                "time": dt,
+                                "group": group_name,
+                                "title": title,
+                                "logo": logo,
+                                "url": stream_url,
+                                "blv": blv_name
+                            })
+    return out
+
+# ================= LOAD FPT SPORT =================
+def load_fpt_sport(url, group_name="FPT SPORT"):
+    out = []
+    try:
+        r = session.get(url, timeout=15)
+        lines = r.text.splitlines()
+        title = ""
+        for line in lines:
+            if line.startswith("#EXTINF"):
+                title = line.split(",")[-1].strip()
+            elif line.startswith("http"):
+                out.append({
+                    "time": datetime.now(),
+                    "group": group_name,
+                    "title": title if title else group_name,
+                    "logo": "",
+                    "url": line.strip(),
+                    "blv": "FPT"
+                })
+    except Exception as e:
+        print(f"Error loading FPT Sport: {e}")
+    return out
+
+# ================= WRITE FILE =================
+def write_files(data):
+    seen = set()
+    tv = "#EXTM3U\n"
+    full = "#EXTM3U\n"
+    live_items = []
+    items = []
+    
+    for item in data:
+        url = item["url"]
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        
+        # Viết trên 1 dòng để tránh lỗi SyntaxError unclosed parenthesis
+        extinf = f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n'
+        items.append((extinf, url, item))
+        
+    for extinf, url, item in items:
+        full += extinf + f"{url}\n\n"
+        
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = {}
+        for extinf, url, item in items:
+            if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV", "GIỜ VÀNG", "QUÊ CHOA"]:
+                tv += extinf + f"{url}\n\n"
+                live_items.append(item)
+            else:
+                futures[executor.submit(check_stream, url)] = (extinf, url, item)
+                
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                extinf, url, item = futures[future]
+                tv += extinf + f"{url}\n\n"
+                live_items.append(item)
+                
+    with open("tv.m3u", "w", encoding="utf-8") as f:
+        f.write(tv)
+    with open("full.m3u", "w", encoding="utf-8") as f:
+        f.write(full)
+        
+    print("DONE PRO MAX++ ✔")
+    print(f"TV Channels: {tv.count('#EXTINF')}")
+    print(f"FULL Channels: {full.count('#EXTINF')}")
+    return live_items
+
+# ================= CONVERT TO JSON =================
+def write_json(data):
+    output = {
+        "id": "tonghop",
+        "url": "https://hoangcon.io.vn",
+        "name": "HoangConTV",
+        "color": "#1cb57a",
+        "grid_number": 3,
+        "image": {
+            "type": "cover",
+            "url": "https://kaytee1012.github.io/hoiquan_logo.png"
+        },
+        "notice": {
+            "closeable": True,
+            "icon": "https://kaytee1012.github.io/pngegg.png",
+            "id": "notice",
+            "link": "https://t.me/",
+            "text": "Nhóm Tele"
+        },
+        "groups": []
+    }
+    
+    groups_map = {}
+    for item in data:
+        group_id = item["group"]
+        if group_id not in groups_map:
+            groups_map[group_id] = {
+                "id": group_id.lower().replace(" ", "-"),
+                "name": f"🔴 {group_id}",
+                "display": "vertical",
+                "grid_number": 2,
+                "enable_detail": False,
+                "channels": []
+            }
+        label_text = "● Live" if item.get("url") else "⏳ Chưa live"
+        label_color = "#ff0000" if item.get("url") else "#d54f1a"
+        blv_real_name = item.get("blv", "F")
+        channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
+        channel = {
+            "id": channel_id,
+            "name": f'⚽ {item["title"]}',
+            "type": "single",
+            "display": "thumbnail-only",
+            "enable_detail": False,
+            "image": {
+                "padding": 1,
+                "background_color": "#ececec",
+                "display": "contain",
+                "url": item["logo"],
+                "width": 1600,
+                "height": 1200
+            },
+            "labels": [{
+                "text": label_text,
+                "position": "top-left",
+                "color": "#00ffffff",
+                "text_color": label_color
+            }],
+            "sources": [{
+                "id": channel_id,
+                "name": group_id,
+                "contents": [{
+                    "id": channel_id,
+                    "name": item["title"],
+                    "streams": [{
+                        "id": channel_id,
+                        "name": blv_real_name,
+                        "stream_links": [{
+                            "id": "lnk-1",
+                            "name": "Link 1",
+                            "type": "hls",
+                            "default": True,
+                            "url": item["url"]
+                        }] if item.get("url") else []
+                    }]
+                }]
+            }]
+        }
+        groups_map[group_id]["channels"].append(channel)
+        
+    output["groups"] = list(groups_map.values())
+    with open("channels.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("JSON file channels.json đã được tạo ✔")
+
+# ================= MAIN =================
+if __name__ == "__main__":
+    data = []
+    print("Đang tải dữ liệu từ các nguồn...")
+    data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
+    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json", "HỘI QUÁN 2")
+    data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
+    data += process_standard("https://sv.xaycontv.xyz/api/v1/external/fixtures/unfinished", "XAY CON")
+    data += process_vongcam()
+    data += process_cala_tv()
+    data += process_tamquoc_tv()
+    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
+    data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL.json", "QUÊ CHOA")
+    data += load_fpt_sport("https://raw.githubusercontent.com/Bacbenny/testtieulam/refs/heads/main/output/iptv.m3u", "TIẾU LÂM TV")
+    
+    live_data = write_files(data)
+    write_json(data)
