@@ -96,7 +96,13 @@ def process_hoiquan2(url, group_name="HỘI QUÁN 2"):
     for group in data.get("groups", []):
         for ch in group.get("channels", []):
             dt = datetime.now()
-            streams = ch.get("sources", [])[0].get("contents", [])[0].get("streams", [])
+            sources = ch.get("sources", [])
+            if not sources:
+                continue
+            contents = sources[0].get("contents", [])
+            if not contents:
+                continue
+            streams = contents[0].get("streams", [])
             stream_url = None
             if streams:
                 links = streams[0].get("stream_links", [])
@@ -265,12 +271,10 @@ def write_files(data):
         extinf = f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n'
         items.append((extinf, url, item))
 
-    # Xử lý list full (không check live) và gắn User-Agent
     for extinf, url, item in items:
         monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         full += extinf + f"{monplayer_url}\n\n"
 
-    # Xử lý check live đa luồng cho list TV
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {}
         for extinf, url, item in items:
@@ -294,7 +298,6 @@ def write_files(data):
     with open("full.m3u", "w", encoding="utf-8") as f:
         f.write(full)
         
-    print("DONE PRO MAX++ ✔")
     print(f"TV Channels: {tv.count('#EXTINF')}")
     print(f"FULL Channels: {full.count('#EXTINF')}")
     return live_items
@@ -315,14 +318,14 @@ def write_json(data):
             "closeable": True,
             "icon": "https://kaytee1012.github.io/pngegg.png",
             "id": "notice",
-            "link": "https://t.me/", # Link trỏ tới Telegram Bot/Group của bạn
+            "link": "https://t.me/", 
             "text": "Nhóm Telegram"
         },
         "groups": []
     }
     
     groups_map = {}
-    for item in data:
+    for idx, item in enumerate(data):
         group_id = item["group"]
         if group_id not in groups_map:
             groups_map[group_id] = {
@@ -337,7 +340,14 @@ def write_json(data):
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
         blv_real_name = item.get("blv", "F")
-        channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
+        
+        # Thêm idx để tránh trùng lặp ID khi nhiều trận đấu diễn ra cùng giờ
+        channel_id = f'{group_id.lower().replace(" ", "-")}-{item["time"].strftime("%H%M%S")}-{idx}'
+        
+        stream_url = ""
+        if item.get("url"):
+            # Gắn trực tiếp định dạng chuỗi User-Agent vào URL thay vì bọc trong block Object headers
+            stream_url = f"{item['url']}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         
         channel = {
             "id": channel_id,
@@ -373,11 +383,8 @@ def write_json(data):
                             "name": "Link 1",
                             "type": "hls",
                             "default": True,
-                            "url": item["url"],
-                            "headers": {
-                                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-                            }
-                        }] if item.get("url") else []
+                            "url": stream_url
+                        }] if stream_url else []
                     }]
                 }]
             }]
@@ -385,13 +392,12 @@ def write_json(data):
         groups_map[group_id]["channels"].append(channel)
         
     output["groups"] = list(groups_map.values())
-    with open("channels.json", "w", encoding="utf-8") as f:
+    with open("channel.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print("JSON file channels.json đã được tạo ✔")
+    print("JSON file channel.json chuẩn MonPlayer đã được tạo ✔")
 
-# ================= TRANG ĐÍCH 1-CLICK MONPLAYER (CYBERPUNK UI) =================
+# ================= TRANG ĐÍCH 1-CLICK MONPLAYER =================
 def write_html():
-    # Thay đổi URL https://hoangcon.io.vn/channels.json bằng endpoint thực tế deploy của bạn
     html = """<!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -409,8 +415,7 @@ def write_html():
             text-transform: uppercase; text-decoration: none;
             box-shadow: 0 0 10px #0ff, inset 0 0 10px #0ff;
             text-shadow: 0 0 5px #0ff; transition: 0.3s; position: relative;
-            cursor: pointer;
-            border-radius: 4px;
+            cursor: pointer; border-radius: 4px;
         }
         .cyber-btn:hover {
             background: #0ff; color: #000; box-shadow: 0 0 25px #0ff, inset 0 0 20px #0ff;
@@ -445,3 +450,4 @@ if __name__ == "__main__":
     live_data = write_files(data)
     write_json(data)
     write_html()
+    print("DONE PRO MAX++ ✔")
