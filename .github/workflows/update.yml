@@ -4,14 +4,14 @@ on:
   repository_dispatch:
     types: [trigger-football-crawl]
   workflow_dispatch:
-  # Tùy chọn: Tự động chạy dự phòng mỗi 3 tiếng một lần
   schedule:
+    # Tự động chạy dự phòng mỗi 3 tiếng một lần
     - cron: '0 */3 * * *'
 
 permissions:
   contents: write
 
-# Nâng cao: Tự động hủy luồng đang chạy dở nếu có tín hiệu mới gửi tới, tránh sung đột Git
+# Nâng cao: Tự động hủy luồng đang chạy dở nếu có tín hiệu mới gửi tới, tránh xung đột Git
 concurrency:
   group: update-football-group
   cancel-in-progress: true
@@ -47,7 +47,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add tv.m3u full.m3u channels.json
+          # Gom tất cả các file output vào hàng đợi (bổ sung index.html nếu có tạo)
+          git add tv.m3u full.m3u channels.json index.html 2>/dev/null || git add tv.m3u full.m3u channels.json
           
           # Kiểm tra nếu thực sự có thay đổi mới thực hiện commit và push
           if ! git diff --cached --quiet; then
