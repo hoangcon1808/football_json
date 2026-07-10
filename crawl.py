@@ -1,11 +1,11 @@
 import requests
 import re
+import json
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import json
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
 # ================= HTTP =================
@@ -70,12 +70,14 @@ def process_standard(url, group):
                 dt = datetime.strptime(item["startTime"][:19], "%Y-%m-%dT%H:%M:%S") + timedelta(hours=7)
             except:
                 pass
+        
         for c in item.get("fixtureCommentators", []):
             comm = c.get("commentator", {})
             blv_name = comm.get("name", "Chính")
             stream = pick_stream(comm.get("streams", []))
             if not stream:
                 continue
+            
             out.append({
                 "time": dt,
                 "group": group,
@@ -100,6 +102,7 @@ def process_hoiquan2(url, group_name="HỘI QUÁN 2"):
                 links = streams[0].get("stream_links", [])
                 if links:
                     stream_url = links[0].get("url")
+            
             out.append({
                 "time": dt,
                 "group": group_name,
@@ -119,6 +122,7 @@ def process_vongcam():
         blv_name = item.get("commentator", {}).get("name", "Chính")
         if not url or ".m3u8" not in url:
             continue
+            
         out.append({
             "time": datetime.now(),
             "group": "VÒNG CẤM TV",
@@ -140,6 +144,7 @@ def process_cala_tv():
         streams = item.get("anchorAppointmentVoList", [])
         stream_url = None
         blv_name = "Chính"
+        
         for s in streams:
             if s.get("anchorName"):
                 blv_name = s.get("anchorName")
@@ -149,6 +154,7 @@ def process_cala_tv():
                     break
             if stream_url:
                 break
+                
         out.append({
             "time": dt,
             "group": "CO LA TV",
@@ -166,6 +172,7 @@ def process_tamquoc_tv():
     items = data.get("data", [])
     if isinstance(items, dict):
         items = items.values()
+        
     for item in items:
         dt = datetime.now()
         if item.get("startTime"):
@@ -173,16 +180,16 @@ def process_tamquoc_tv():
                 dt = datetime.strptime(item["startTime"][:19], "%Y-%m-%dT%H:%M:%S")
             except:
                 pass
+                
         home = item.get("homeClub", {})
         away = item.get("awayClub", {})
         commentator = item.get("commentator", {})
         blv_name = commentator.get("name", "Chính")
         
-        # Viết trên 1 dòng để tránh lỗi SyntaxError unclosed parenthesis
         stream_url = commentator.get("streamSourceFhd") or commentator.get("streamSourceHd") or commentator.get("streamSourceSd")
-        
         if not stream_url or ".m3u8" not in stream_url:
             continue
+            
         out.append({
             "time": dt,
             "group": "TAM QUOC TV",
@@ -242,7 +249,7 @@ def load_fpt_sport(url, group_name="FPT SPORT"):
         print(f"Error loading FPT Sport: {e}")
     return out
 
-# ================= WRITE FILE =================
+# ================= WRITE FILE M3U =================
 def write_files(data):
     seen = set()
     tv = "#EXTM3U\n"
@@ -255,30 +262,33 @@ def write_files(data):
         if not url or url in seen:
             continue
         seen.add(url)
-        
-        # Viết trên 1 dòng để tránh lỗi SyntaxError unclosed parenthesis
         extinf = f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n'
         items.append((extinf, url, item))
-        
+
+    # Xử lý list full (không check live) và gắn User-Agent
     for extinf, url, item in items:
-        full += extinf + f"{url}\n\n"
-        
+        monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        full += extinf + f"{monplayer_url}\n\n"
+
+    # Xử lý check live đa luồng cho list TV
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {}
         for extinf, url, item in items:
             if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV", "GIỜ VÀNG", "QUÊ CHOA"]:
-                tv += extinf + f"{url}\n\n"
+                monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                tv += extinf + f"{monplayer_url}\n\n"
                 live_items.append(item)
             else:
                 futures[executor.submit(check_stream, url)] = (extinf, url, item)
-                
+        
         for future in as_completed(futures):
             result = future.result()
             if result:
                 extinf, url, item = futures[future]
-                tv += extinf + f"{url}\n\n"
+                monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                tv += extinf + f"{monplayer_url}\n\n"
                 live_items.append(item)
-                
+
     with open("tv.m3u", "w", encoding="utf-8") as f:
         f.write(tv)
     with open("full.m3u", "w", encoding="utf-8") as f:
@@ -289,7 +299,7 @@ def write_files(data):
     print(f"FULL Channels: {full.count('#EXTINF')}")
     return live_items
 
-# ================= CONVERT TO JSON =================
+# ================= CONVERT TO JSON (MONPLAYER STANDARD) =================
 def write_json(data):
     output = {
         "id": "tonghop",
@@ -305,8 +315,8 @@ def write_json(data):
             "closeable": True,
             "icon": "https://kaytee1012.github.io/pngegg.png",
             "id": "notice",
-            "link": "https://t.me/",
-            "text": "Nhóm Tele"
+            "link": "https://t.me/", # Link trỏ tới Telegram Bot/Group của bạn
+            "text": "Nhóm Telegram"
         },
         "groups": []
     }
@@ -323,10 +333,12 @@ def write_json(data):
                 "enable_detail": False,
                 "channels": []
             }
+            
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
         blv_real_name = item.get("blv", "F")
         channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
+        
         channel = {
             "id": channel_id,
             "name": f'⚽ {item["title"]}',
@@ -361,7 +373,10 @@ def write_json(data):
                             "name": "Link 1",
                             "type": "hls",
                             "default": True,
-                            "url": item["url"]
+                            "url": item["url"],
+                            "headers": {
+                                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                            }
                         }] if item.get("url") else []
                     }]
                 }]
@@ -373,6 +388,44 @@ def write_json(data):
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("JSON file channels.json đã được tạo ✔")
+
+# ================= TRANG ĐÍCH 1-CLICK MONPLAYER (CYBERPUNK UI) =================
+def write_html():
+    # Thay đổi URL https://hoangcon.io.vn/channels.json bằng endpoint thực tế deploy của bạn
+    html = """<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HoangConTV - Nạp Nguồn MonPlayer</title>
+    <style>
+        body { 
+            background-color: #0b0c10; display: flex; justify-content: center; 
+            align-items: center; height: 100vh; margin: 0; font-family: 'Courier New', monospace; 
+        }
+        .cyber-btn {
+            background: transparent; color: #0ff; border: 2px solid #0ff;
+            padding: 15px 30px; font-size: 20px; font-weight: bold;
+            text-transform: uppercase; text-decoration: none;
+            box-shadow: 0 0 10px #0ff, inset 0 0 10px #0ff;
+            text-shadow: 0 0 5px #0ff; transition: 0.3s; position: relative;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .cyber-btn:hover {
+            background: #0ff; color: #000; box-shadow: 0 0 25px #0ff, inset 0 0 20px #0ff;
+        }
+    </style>
+</head>
+<body>
+    <a href="monplayer://add-provider?url=https://hoangcon.io.vn/channels.json" class="cyber-btn">
+       [+] THÊM VÀO MONPLAYER
+    </a>
+</body>
+</html>"""
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    print("HTML Index (Neon UI) đã được tạo ✔")
 
 # ================= MAIN =================
 if __name__ == "__main__":
@@ -391,3 +444,4 @@ if __name__ == "__main__":
     
     live_data = write_files(data)
     write_json(data)
+    write_html()
