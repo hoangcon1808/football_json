@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 1-173000",
-          "name": "⚽ 17:30 | Ba Lan W - Brazil W",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "HỘI QUÁN 1-173000",
-              "name": "HỘI QUÁN 1",
-              "contents": [
-                {
-                  "id": "HỘI QUÁN 1-173000",
-                  "name": "17:30 | Ba Lan W - Brazil W",
-                  "streams": [
-                    {
-                      "id": "HỘI QUÁN 1-173000",
-                      "name": "BLV PHAN CA",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "HỘI QUÁN 1-213000",
           "name": "⚽ 21:30 | Bulgaria W - Czech W",
           "type": "single",
@@ -1372,6 +1322,56 @@
               ]
             }
           ]
+        },
+        {
+          "id": "HỘI QUÁN 1-200000",
+          "name": "⚽ 20:00 | Shakhter Karagandy vs Turan Turkistan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4566.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "HỘI QUÁN 1-200000",
+              "name": "HỘI QUÁN 1",
+              "contents": [
+                {
+                  "id": "HỘI QUÁN 1-200000",
+                  "name": "20:00 | Shakhter Karagandy vs Turan Turkistan",
+                  "streams": [
+                    {
+                      "id": "HỘI QUÁN 1-200000",
+                      "name": "BLV THẦN THÔNG",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1383,7 +1383,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Oman vs Hàn Quốc | 13:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -1406,15 +1406,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Oman vs Hàn Quốc | 13:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -1433,7 +1433,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Khovd vs Hunters | 15:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1456,15 +1456,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Khovd vs Hunters | 15:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -1483,7 +1483,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | 16:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1506,15 +1506,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | 16:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1525,7 +1525,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Đài Loan vs New Zealand | 16:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -1548,15 +1548,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Đài Loan vs New Zealand | 16:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1567,7 +1567,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Sport Academy Kairat vs Khan Tengri | 19:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1590,15 +1590,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Sport Academy Kairat vs Khan Tengri | 19:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1609,7 +1609,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Bahrain vs Kazakhstan | 19:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -1632,15 +1632,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Bahrain vs Kazakhstan | 19:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1651,7 +1651,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Jaiyq vs Akademiya Ontustik | 20:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1674,15 +1674,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Jaiyq vs Akademiya Ontustik | 20:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1693,7 +1693,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Trung Quốc vs Bỉ | 21:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -1716,15 +1716,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Trung Quốc vs Bỉ | 21:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1735,7 +1735,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ Ukraina vs Italy | 21:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -1758,15 +1758,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ Ukraina vs Italy | 21:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -1777,7 +1777,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-123105",
+          "id": "HỘI QUÁN 2-130109",
           "name": "⚽ ⚽ FC jazz vs Tampere United | 23:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1800,15 +1800,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-123105",
+              "id": "HỘI QUÁN 2-130109",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-123105",
+                  "id": "HỘI QUÁN 2-130109",
                   "name": "⚽ FC jazz vs Tampere United | 23:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-123105",
+                      "id": "HỘI QUÁN 2-130109",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2226,7 +2226,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.yarncdn.live/xctv_blv_chuoi/tracks-v2a1/mono.m3u8"
+                          "url": "https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8"
                         }
                       ]
                     }
@@ -3196,107 +3196,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "VÒNG CẤM TV-123106",
-          "name": "⚽ Nữ Hà Nội vs Nữ Thái Nguyên ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShohnkyv1Eqxs62ilIAnnOa8oIFxnprVgVVZ-1RhMaHw&s=10",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "VÒNG CẤM TV-123106",
-              "name": "VÒNG CẤM TV",
-              "contents": [
-                {
-                  "id": "VÒNG CẤM TV-123106",
-                  "name": "Nữ Hà Nội vs Nữ Thái Nguyên ",
-                  "streams": [
-                    {
-                      "id": "VÒNG CẤM TV-123106",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "VÒNG CẤM TV-123106",
-          "name": "⚽ Ba Lan  vs  Brazil",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_tYe8Gdl0F-9_AtTdnFFaTFZMZz1ZaTKxKNnP_IOxw&s=10",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "VÒNG CẤM TV-123106",
-              "name": "VÒNG CẤM TV",
-              "contents": [
-                {
-                  "id": "VÒNG CẤM TV-123106",
-                  "name": "Ba Lan  vs  Brazil",
-                  "streams": [
-                    {
-                      "id": "VÒNG CẤM TV-123106",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Shandong Luneng vs Yunnan Yukun",
           "type": "single",
           "display": "thumbnail-only",
@@ -3319,15 +3219,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Shandong Luneng vs Yunnan Yukun",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3346,7 +3246,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Bỉ  vs Ý ",
           "type": "single",
           "display": "thumbnail-only",
@@ -3369,15 +3269,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Bỉ  vs Ý ",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3396,7 +3296,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Chertanovo U20 vs Krasnodar U19",
           "type": "single",
           "display": "thumbnail-only",
@@ -3419,15 +3319,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Chertanovo U20 vs Krasnodar U19",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3446,7 +3346,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ River Plate Res. vs Racing Club Res.",
           "type": "single",
           "display": "thumbnail-only",
@@ -3469,15 +3369,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "River Plate Res. vs Racing Club Res.",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3496,7 +3396,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ VPS vs SJK",
           "type": "single",
           "display": "thumbnail-only",
@@ -3519,15 +3419,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "VPS vs SJK",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3546,7 +3446,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Spain vs Belgium",
           "type": "single",
           "display": "thumbnail-only",
@@ -3569,15 +3469,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Spain vs Belgium",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3596,7 +3496,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Spain vs Belgium",
           "type": "single",
           "display": "thumbnail-only",
@@ -3619,15 +3519,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Spain vs Belgium",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3646,7 +3546,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Spain vs Belgium",
           "type": "single",
           "display": "thumbnail-only",
@@ -3669,15 +3569,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Spain vs Belgium",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3696,7 +3596,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Spain vs Belgium",
           "type": "single",
           "display": "thumbnail-only",
@@ -3719,15 +3619,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Spain vs Belgium",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3746,7 +3646,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ WWE",
           "type": "single",
           "display": "thumbnail-only",
@@ -3769,15 +3669,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "WWE",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3796,7 +3696,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ FC Motown II vs Long Island Rough Riders",
           "type": "single",
           "display": "thumbnail-only",
@@ -3819,15 +3719,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "FC Motown II vs Long Island Rough Riders",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3846,7 +3746,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Tucson vs Capo",
           "type": "single",
           "display": "thumbnail-only",
@@ -3869,15 +3769,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Tucson vs Capo",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3896,7 +3796,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Canberra FC vs Brindabella",
           "type": "single",
           "display": "thumbnail-only",
@@ -3919,15 +3819,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Canberra FC vs Brindabella",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3946,7 +3846,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Đức vs Hà Lan",
           "type": "single",
           "display": "thumbnail-only",
@@ -3969,15 +3869,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Đức vs Hà Lan",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3996,7 +3896,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Thái Lan vs Brazil",
           "type": "single",
           "display": "thumbnail-only",
@@ -4019,15 +3919,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Thái Lan vs Brazil",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4046,7 +3946,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Canada vs Ý",
           "type": "single",
           "display": "thumbnail-only",
@@ -4069,15 +3969,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Canada vs Ý",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4096,7 +3996,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Canada vs Ý",
           "type": "single",
           "display": "thumbnail-only",
@@ -4119,15 +4019,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Canada vs Ý",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4146,7 +4046,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Shanghai Port II vs Xi'an Ronghai",
           "type": "single",
           "display": "thumbnail-only",
@@ -4169,15 +4069,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Shanghai Port II vs Xi'an Ronghai",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4196,7 +4096,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Nhật Bản vs Thổ Nhĩ Kỳ",
           "type": "single",
           "display": "thumbnail-only",
@@ -4219,15 +4119,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Nhật Bản vs Thổ Nhĩ Kỳ",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4246,7 +4146,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Ulsan Hyundai FC vs Jeonbuk Motors",
           "type": "single",
           "display": "thumbnail-only",
@@ -4269,15 +4169,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Ulsan Hyundai FC vs Jeonbuk Motors",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4296,7 +4196,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Trung Quốc vs Cộng hòa Dominica",
           "type": "single",
           "display": "thumbnail-only",
@@ -4319,15 +4219,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Trung Quốc vs Cộng hòa Dominica",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4346,7 +4246,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long",
           "type": "single",
           "display": "thumbnail-only",
@@ -4369,15 +4269,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Chengdu Better City vs Chongqing Tongliang Long",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4396,7 +4296,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Auda vs FK Liepaja",
           "type": "single",
           "display": "thumbnail-only",
@@ -4419,15 +4319,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Auda vs FK Liepaja",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4446,7 +4346,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-123106",
+          "id": "VÒNG CẤM TV-130110",
           "name": "⚽ Tromso vs Valerenga",
           "type": "single",
           "display": "thumbnail-only",
@@ -4469,15 +4369,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-123106",
+              "id": "VÒNG CẤM TV-130110",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-123106",
+                  "id": "VÒNG CẤM TV-130110",
                   "name": "Tromso vs Valerenga",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-123106",
+                      "id": "VÒNG CẤM TV-130110",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -9523,57 +9423,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-123108",
-          "name": "⚽ Preston Lions vs Hume City | 17:30 10/07",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/gv-7d4f70ae9c_1cc86fd8_20260710.png?v=1cc86fd8",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "GIỜ VÀNG-123108",
-              "name": "GIỜ VÀNG",
-              "contents": [
-                {
-                  "id": "GIỜ VÀNG-123108",
-                  "name": "Preston Lions vs Hume City | 17:30 10/07",
-                  "streams": [
-                    {
-                      "id": "GIỜ VÀNG-123108",
-                      "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://play.megatech.global/live/1783683303_hd@720p.flv"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Shandong Taishan  vs Yunnan Yukun | 18:35 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9596,15 +9446,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Shandong Taishan  vs Yunnan Yukun | 18:35 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9623,7 +9473,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ VPS Vaasa vs SJK Seinajoki | 23:00 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9646,15 +9496,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "VPS Vaasa vs SJK Seinajoki | 23:00 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9673,7 +9523,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Tây Ban Nha vs Bỉ | 02:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9696,15 +9546,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Tây Ban Nha vs Bỉ | 02:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9723,7 +9573,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Juventude vs Vila Nova (GO) | 05:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9746,15 +9596,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Juventude vs Vila Nova (GO) | 05:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9773,7 +9623,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Sport Club Recife (PE) vs Botafogo SP | 06:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9796,15 +9646,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Sport Club Recife (PE) vs Botafogo SP | 06:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9823,7 +9673,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Dandenong Thunder vs Bentleigh Greens | 16:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9846,15 +9696,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Dandenong Thunder vs Bentleigh Greens | 16:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9873,7 +9723,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ St George City FA vs University NSW | 16:15 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9896,15 +9746,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "St George City FA vs University NSW | 16:15 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9923,7 +9773,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Gimcheon Sangmu vs Bucheon FC 1995 | 17:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9946,15 +9796,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Gimcheon Sangmu vs Bucheon FC 1995 | 17:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -9973,7 +9823,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Ulsan Hyundai vs Jeonbuk Hyundai Motors | 17:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -9996,15 +9846,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Ulsan Hyundai vs Jeonbuk Hyundai Motors | 17:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10023,7 +9873,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Zhejiang FC vs Qingdao Hainiu | 18:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10046,15 +9896,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Zhejiang FC vs Qingdao Hainiu | 18:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10073,7 +9923,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Shenzhen Xinpengcheng vs Qingdao West Coast | 18:35 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10096,15 +9946,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Shenzhen Xinpengcheng vs Qingdao West Coast | 18:35 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10123,7 +9973,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Chengdu Rongcheng vs Chongqing Tonglianglong | 19:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10146,15 +9996,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Chengdu Rongcheng vs Chongqing Tonglianglong | 19:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10173,7 +10023,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Lahti vs HJK Helsinki | 19:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10196,15 +10046,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Lahti vs HJK Helsinki | 19:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10223,7 +10073,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Saigon Heat  vs  Da Nang Dragons | 19:30 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10246,15 +10096,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Saigon Heat  vs  Da Nang Dragons | 19:30 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10273,7 +10123,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Miami Heat vs Milwaukee Bucks | 03:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10296,15 +10146,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Miami Heat vs Milwaukee Bucks | 03:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10323,7 +10173,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Indiana Pacers vs Cleveland Cavaliers | 03:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10346,15 +10196,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Indiana Pacers vs Cleveland Cavaliers | 03:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10373,7 +10223,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ New York Knicks vs Brooklyn Nets | 05:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10396,15 +10246,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "New York Knicks vs Brooklyn Nets | 05:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10423,7 +10273,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Denver Nuggets vs Houston Rockets | 05:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10446,15 +10296,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Denver Nuggets vs Houston Rockets | 05:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10473,7 +10323,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Connecticut Sun vs Golden State Valkyries | 06:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10496,15 +10346,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Connecticut Sun vs Golden State Valkyries | 06:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10523,7 +10373,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Phoenix Fuel Masters vs Purefoods Star Hotshots | 18:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10546,15 +10396,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Phoenix Fuel Masters vs Purefoods Star Hotshots | 18:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10573,7 +10423,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Hanoi Buffaloes vs Ho Chi Minh City Wings | 19:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10596,15 +10446,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Hanoi Buffaloes vs Ho Chi Minh City Wings | 19:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10623,7 +10473,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Arthur Fery  vs Alexander Zverev | 19:30 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10646,15 +10496,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Arthur Fery  vs Alexander Zverev | 19:30 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10673,7 +10523,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Jannik Sinner  vs Novak Djokovic | 21:00 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10696,15 +10546,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Jannik Sinner  vs Novak Djokovic | 21:00 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10723,7 +10573,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Karolina Muchova vs Linda Noskova | 22:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10746,15 +10596,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Karolina Muchova vs Linda Noskova | 22:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10773,57 +10623,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
-          "name": "⚽ Poland W  vs Brazil W | 17:20 10/07",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/gv-7cf646eda3_d84242ba_20260710.png?v=d84242ba",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "GIỜ VÀNG-123108",
-              "name": "GIỜ VÀNG",
-              "contents": [
-                {
-                  "id": "GIỜ VÀNG-123108",
-                  "name": "Poland W  vs Brazil W | 17:20 10/07",
-                  "streams": [
-                    {
-                      "id": "GIỜ VÀNG-123108",
-                      "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://play.megatech.global/live/1783618524_hd@720p.flv"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Bỉ vs Ý | 19:30 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10846,15 +10646,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Bỉ vs Ý | 19:30 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10873,7 +10673,57 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
+          "name": "⚽ Bulgaria W vs Czech Republic W | 21:30 10/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/gv-83f469de86_d4b482f1_20260710.png?v=d4b482f1",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-130112",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-130112",
+                  "name": "Bulgaria W vs Czech Republic W | 21:30 10/07",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-130112",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://play.megatech.global/live/1783687057_hd@720p.flv"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Germany W vs Netherlands W | 01:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10896,15 +10746,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Germany W vs Netherlands W | 01:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10923,7 +10773,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Japan W vs Türkiye W | 17:20 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10946,15 +10796,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Japan W vs Türkiye W | 17:20 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -10973,7 +10823,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Bulgaria W vs France W | 21:30 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -10996,15 +10846,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Bulgaria W vs France W | 21:30 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11023,7 +10873,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ 2026 European Darts Open vs Darts Open | 18:00 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11046,15 +10896,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "2026 European Darts Open vs Darts Open | 18:00 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11073,7 +10923,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ 2026 European Darts Open vs 2026 European Darts Open | 18:00 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11096,15 +10946,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "2026 European Darts Open vs 2026 European Darts Open | 18:00 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11123,7 +10973,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ 2026 European Darts Open vs Darts Open | 23:59 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11146,15 +10996,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "2026 European Darts Open vs Darts Open | 23:59 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11173,7 +11023,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ 2026 European Darts Open vs 2026 European Darts Open | 23:59 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11196,15 +11046,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "2026 European Darts Open vs 2026 European Darts Open | 23:59 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11223,7 +11073,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ 2026 European Darts Open vs 2026 European Darts Open | 18:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11246,15 +11096,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "2026 European Darts Open vs 2026 European Darts Open | 18:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11273,7 +11123,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ ONE Friday Fights 161  vs The Inner Circle 21 | 18:30 10/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11296,15 +11146,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "ONE Friday Fights 161  vs The Inner Circle 21 | 18:30 10/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11323,7 +11173,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ LION CHAMPIONSHIP vs LC 33 | 20:00 11/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11346,15 +11196,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "LION CHAMPIONSHIP vs LC 33 | 20:00 11/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11373,7 +11223,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ McGregor vs Holloway 2 | 04:00 12/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11396,15 +11246,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "McGregor vs Holloway 2 | 04:00 12/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11423,7 +11273,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ ONE Friday Fights 162  vs The Inner Circle 22 | 18:30 17/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11446,15 +11296,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "ONE Friday Fights 162  vs The Inner Circle 22 | 18:30 17/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11473,7 +11323,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Lessei vs Rabah | 08:00 18/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11496,15 +11346,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Lessei vs Rabah | 08:00 18/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11523,7 +11373,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ Du Plessis vs Usman | 04:00 19/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11546,15 +11396,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "Du Plessis vs Usman | 04:00 19/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11573,7 +11423,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽ ONE Friday Fights 163 vs The Inner Circle 23 | 18:30 24/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11596,15 +11446,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": "ONE Friday Fights 163 vs The Inner Circle 23 | 18:30 24/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11623,7 +11473,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽  Ankalaev vs Rountree Jr | 20:00 25/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11646,15 +11496,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": " Ankalaev vs Rountree Jr | 20:00 25/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -11673,7 +11523,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-123108",
+          "id": "GIỜ VÀNG-130112",
           "name": "⚽  Jean vs Musaev | 06:00 26/07",
           "type": "single",
           "display": "thumbnail-only",
@@ -11696,15 +11546,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-123108",
+              "id": "GIỜ VÀNG-130112",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-123108",
+                  "id": "GIỜ VÀNG-130112",
                   "name": " Jean vs Musaev | 06:00 26/07",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-123108",
+                      "id": "GIỜ VÀNG-130112",
                       "name": "Mặc định",
                       "stream_links": [
                         {
