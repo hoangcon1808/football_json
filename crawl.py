@@ -1,11 +1,11 @@
 import requests
 import re
-import json
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    "User-Agent": "Mozilla/5.0"
 }
 
 # ================= HTTP =================
@@ -70,14 +70,12 @@ def process_standard(url, group):
                 dt = datetime.strptime(item["startTime"][:19], "%Y-%m-%dT%H:%M:%S") + timedelta(hours=7)
             except:
                 pass
-        
         for c in item.get("fixtureCommentators", []):
             comm = c.get("commentator", {})
             blv_name = comm.get("name", "Chính")
             stream = pick_stream(comm.get("streams", []))
             if not stream:
                 continue
-            
             out.append({
                 "time": dt,
                 "group": group,
@@ -96,19 +94,12 @@ def process_hoiquan2(url, group_name="HỘI QUÁN 2"):
     for group in data.get("groups", []):
         for ch in group.get("channels", []):
             dt = datetime.now()
-            sources = ch.get("sources", [])
-            if not sources:
-                continue
-            contents = sources[0].get("contents", [])
-            if not contents:
-                continue
-            streams = contents[0].get("streams", [])
+            streams = ch.get("sources", [])[0].get("contents", [])[0].get("streams", [])
             stream_url = None
             if streams:
                 links = streams[0].get("stream_links", [])
                 if links:
                     stream_url = links[0].get("url")
-            
             out.append({
                 "time": dt,
                 "group": group_name,
@@ -128,7 +119,6 @@ def process_vongcam():
         blv_name = item.get("commentator", {}).get("name", "Chính")
         if not url or ".m3u8" not in url:
             continue
-            
         out.append({
             "time": datetime.now(),
             "group": "VÒNG CẤM TV",
@@ -150,7 +140,6 @@ def process_cala_tv():
         streams = item.get("anchorAppointmentVoList", [])
         stream_url = None
         blv_name = "Chính"
-        
         for s in streams:
             if s.get("anchorName"):
                 blv_name = s.get("anchorName")
@@ -160,7 +149,6 @@ def process_cala_tv():
                     break
             if stream_url:
                 break
-                
         out.append({
             "time": dt,
             "group": "CO LA TV",
@@ -178,7 +166,6 @@ def process_tamquoc_tv():
     items = data.get("data", [])
     if isinstance(items, dict):
         items = items.values()
-        
     for item in items:
         dt = datetime.now()
         if item.get("startTime"):
@@ -186,16 +173,17 @@ def process_tamquoc_tv():
                 dt = datetime.strptime(item["startTime"][:19], "%Y-%m-%dT%H:%M:%S")
             except:
                 pass
-                
         home = item.get("homeClub", {})
         away = item.get("awayClub", {})
         commentator = item.get("commentator", {})
         blv_name = commentator.get("name", "Chính")
-        
-        stream_url = commentator.get("streamSourceFhd") or commentator.get("streamSourceHd") or commentator.get("streamSourceSd")
+        stream_url = (
+            commentator.get("streamSourceFhd")
+            or commentator.get("streamSourceHd")
+            or commentator.get("streamSourceSd")
+        )
         if not stream_url or ".m3u8" not in stream_url:
             continue
-            
         out.append({
             "time": dt,
             "group": "TAM QUOC TV",
@@ -255,54 +243,56 @@ def load_fpt_sport(url, group_name="FPT SPORT"):
         print(f"Error loading FPT Sport: {e}")
     return out
 
-# ================= WRITE FILE M3U =================
+# ================= WRITE FILE =================
 def write_files(data):
     seen = set()
     tv = "#EXTM3U\n"
     full = "#EXTM3U\n"
     live_items = []
+
     items = []
-    
     for item in data:
         url = item["url"]
         if not url or url in seen:
             continue
         seen.add(url)
-        extinf = f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n'
+        extinf = (
+            f'#EXTINF:-1 group-title="{item["group"]}" '
+            f'tvg-logo="{item["logo"]}",{item["title"]}\n'
+        )
         items.append((extinf, url, item))
 
     for extinf, url, item in items:
-        monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        full += extinf + f"{monplayer_url}\n\n"
+        full += extinf + f"{url}\n\n"
 
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {}
         for extinf, url, item in items:
             if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV", "GIỜ VÀNG", "QUÊ CHOA"]:
-                monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-                tv += extinf + f"{monplayer_url}\n\n"
+                tv += extinf + f"{url}\n\n"
                 live_items.append(item)
             else:
                 futures[executor.submit(check_stream, url)] = (extinf, url, item)
-        
+
         for future in as_completed(futures):
             result = future.result()
             if result:
                 extinf, url, item = futures[future]
-                monplayer_url = f"{url}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-                tv += extinf + f"{monplayer_url}\n\n"
+                tv += extinf + f"{url}\n\n"
                 live_items.append(item)
 
     with open("tv.m3u", "w", encoding="utf-8") as f:
         f.write(tv)
     with open("full.m3u", "w", encoding="utf-8") as f:
         f.write(full)
-        
+
+    print("DONE PRO MAX++ ✔")
     print(f"TV Channels: {tv.count('#EXTINF')}")
     print(f"FULL Channels: {full.count('#EXTINF')}")
+
     return live_items
 
-# ================= CONVERT TO JSON (MONPLAYER STANDARD) =================
+# ================= CONVERT TO JSON =================
 def write_json(data):
     output = {
         "id": "tonghop",
@@ -318,14 +308,14 @@ def write_json(data):
             "closeable": True,
             "icon": "https://kaytee1012.github.io/pngegg.png",
             "id": "notice",
-            "link": "https://t.me/", 
-            "text": "Nhóm Telegram"
+            "link": "https://t.me/",
+            "text": "Nhóm Tele"
         },
         "groups": []
     }
-    
+
     groups_map = {}
-    for idx, item in enumerate(data):
+    for item in data:
         group_id = item["group"]
         if group_id not in groups_map:
             groups_map[group_id] = {
@@ -336,19 +326,12 @@ def write_json(data):
                 "enable_detail": False,
                 "channels": []
             }
-            
+
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
         blv_real_name = item.get("blv", "F")
-        
-        # Thêm idx để tránh trùng lặp ID khi nhiều trận đấu diễn ra cùng giờ
-        channel_id = f'{group_id.lower().replace(" ", "-")}-{item["time"].strftime("%H%M%S")}-{idx}'
-        
-        stream_url = ""
-        if item.get("url"):
-            # Gắn trực tiếp định dạng chuỗi User-Agent vào URL thay vì bọc trong block Object headers
-            stream_url = f"{item['url']}|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        
+
+        channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
         channel = {
             "id": channel_id,
             "name": f'⚽ {item["title"]}',
@@ -383,71 +366,46 @@ def write_json(data):
                             "name": "Link 1",
                             "type": "hls",
                             "default": True,
-                            "url": stream_url
-                        }] if stream_url else []
+                            "url": item["url"]
+                        }] if item.get("url") else []
                     }]
                 }]
             }]
         }
-        groups_map[group_id]["channels"].append(channel)
-        
-    output["groups"] = list(groups_map.values())
-    with open("channel.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-    print("JSON file channel.json chuẩn MonPlayer đã được tạo ✔")
 
-# ================= TRANG ĐÍCH 1-CLICK MONPLAYER =================
-def write_html():
-    html = """<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>HoangConTV - Nạp Nguồn MonPlayer</title>
-    <style>
-        body { 
-            background-color: #0b0c10; display: flex; justify-content: center; 
-            align-items: center; height: 100vh; margin: 0; font-family: 'Courier New', monospace; 
-        }
-        .cyber-btn {
-            background: transparent; color: #0ff; border: 2px solid #0ff;
-            padding: 15px 30px; font-size: 20px; font-weight: bold;
-            text-transform: uppercase; text-decoration: none;
-            box-shadow: 0 0 10px #0ff, inset 0 0 10px #0ff;
-            text-shadow: 0 0 5px #0ff; transition: 0.3s; position: relative;
-            cursor: pointer; border-radius: 4px;
-        }
-        .cyber-btn:hover {
-            background: #0ff; color: #000; box-shadow: 0 0 25px #0ff, inset 0 0 20px #0ff;
-        }
-    </style>
-</head>
-<body>
-    <a href="monplayer://add-provider?url=https://hoangcon.io.vn/channels.json" class="cyber-btn">
-       [+] THÊM VÀO MONPLAYER
-    </a>
-</body>
-</html>"""
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html)
-    print("HTML Index (Neon UI) đã được tạo ✔")
+        groups_map[group_id]["channels"].append(channel)
+
+    output["groups"] = list(groups_map.values())
+
+    with open("channels.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print("JSON file channels.json đã được tạo ✔")
 
 # ================= MAIN =================
 if __name__ == "__main__":
     data = []
-    print("Đang tải dữ liệu từ các nguồn...")
+    # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
+    # HỘI QUÁN 2
     data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json", "HỘI QUÁN 2")
+    # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
+    # XAY CON
     data += process_standard("https://sv.xaycontv.xyz/api/v1/external/fixtures/unfinished", "XAY CON")
+    # VÒNG CẤM
     data += process_vongcam()
+    # CO LA TV
     data += process_cala_tv()
+    # TAM QUOC TV
     data += process_tamquoc_tv()
+    # GIỜ VÀNG TV
     data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
+    # QUE CHOA TV
     data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL.json", "QUÊ CHOA")
+    # FPT SPORT
     data += load_fpt_sport("https://raw.githubusercontent.com/Bacbenny/testtieulam/refs/heads/main/output/iptv.m3u", "TIẾU LÂM TV")
     
+    # WRITE
     live_data = write_files(data)
     write_json(data)
-    write_html()
-    print("DONE PRO MAX++ ✔")
