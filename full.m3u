@@ -245,11 +245,11 @@ https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 KuPs vs Sabah Baku (Phổ Nghi)
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 28/07 Real Madrid vs CD Leganes (Lê Hoàn)
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 28/07 Lincoln Red Imps FC vs Mjallby AIF (Lưu Triệt)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 28/07 Real Madrid vs CD Leganes (Lê Hoàn)
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 28/07 Tampines Rovers FC vs Arema FC (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/tampines-arema-idncup/index.m3u8
@@ -281,17 +281,17 @@ https://hls.lauthaitv.cc/live/malay-lao-asean/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 28/07 Malaysia vs Laos (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/malay-lao-asean.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 KuPs vs Sabah Baku (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/kups-sabah-c1qual/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 KuPs vs Sabah Baku (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/kups-sabah-c1qual.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Neftchi Fergana vs Navbahor Namangan (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/neftchi-navbahor-uzbsup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Neftchi Fergana vs Navbahor Namangan (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/neftchi-navbahor-uzbsup.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 KuPs vs Sabah Baku (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/kups-sabah-c1qual/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 KuPs vs Sabah Baku (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/kups-sabah-c1qual.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 28/07 Real Madrid vs CD Leganes (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/real-leganes-intcf/index.m3u8
@@ -311,17 +311,17 @@ https://hls.lauthaitv.cc/live/riga-vardar-c3qual/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 29/07 Riga FC vs FC Vardar Skopje (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/riga-vardar-c3qual.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 Dinamo Zagreb vs Thun (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/zagreb-thun-c1qual/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 Dinamo Zagreb vs Thun (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/zagreb-thun-c1qual.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 FC Drita vs Floriana F.C (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/drita-floriana-c1qual/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 FC Drita vs Floriana F.C (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/drita-floriana-c1qual.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 Dinamo Zagreb vs Thun (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/zagreb-thun-c1qual/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 29/07 Dinamo Zagreb vs Thun (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/zagreb-thun-c1qual.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:15 29/07 NK Publikum Celje vs Egnatia (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/celjie-egnatia-c1qual/index.m3u8
@@ -435,52 +435,61 @@ https://flv.lauthaitv.cc/live/kauno-klaksvik-c1qual.flv
 https://live2.streambylivepulse.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 28/07 Tampines Rovers vs Arema FC (HD TOM) [HD]
-https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785226561-0-0-749de5f57cc5e668e732d47c5151b0ab
+https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785227459-0-0-009beb90138b4be73670574d04ef4e65
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Bacolod Masskara vs Bulacan Kuyas (ALAN)
 https://live2.streambylivepulse.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Bacolod Masskara vs Bulacan Kuyas (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785226567-0-0-6b568d116cfae800ca3ae66fc98c1fbd
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785227466-0-0-448cc1d4b08e4c3ea173fe7a616a9463
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Kiwoom DRX vs KT Rolster (MARTY)
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Kiwoom DRX vs KT Rolster (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785226589-0-0-dceb8a7f48e6eee638e9a10f035e8504
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:45 28/07 Chelsea vs Western Sydney (ASTRA)
-https://live2.streambylivepulse.com/live/channel11.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:45 28/07 Chelsea vs Western Sydney (HD ASTRA) [HD]
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001785226596-0-0-c5f11e6461d6f66b4b703cab9234660e
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785227488-0-0-c09fd50eed2ef74695ec587ace45d70e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Paro FC vs Thimphu Raven FC (JEAN)
 https://live2.streambylivepulse.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Paro FC vs Thimphu Raven FC (HD JEAN) [HD]
-https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785226602-0-0-9036322d33f44c6b6552c80ec22f67e7
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785227494-0-0-3d90338f9e98d21bab1693a3193c2eac
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Nữ Shandong Speed vs Nữ Xinjiang Tianshan (STEP)
+https://live2.streambylivepulse.com/live/channel26.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Nữ Shandong Speed vs Nữ Xinjiang Tianshan (HD STEP) [HD]
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785227500-0-0-15f06e4dd135a5e57aa9d0810750b02e
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:45 28/07 Chelsea vs Western Sydney (ASTRA)
+https://live2.streambylivepulse.com/live/channel11.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:45 28/07 Chelsea vs Western Sydney (HD ASTRA) [HD]
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001785227506-0-0-3f5c67505e64ddfc7fcdb532b62efd31
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (NICK)
 https://live2.streambylivepulse.com/live/channel5.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (RIO)
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001785226608-0-0-274ea41dfb63b2dd213d69d6b842a203
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001785227513-0-0-73aa0d22c646a3075224b2d9bfbb4c33
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (RIO)
 https://live2.streambylivepulse.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (FULL HD NICK) [HD]
-https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001785226613-0-0-03d1dbb641f1faf03c3da5c3bb025967
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001785227517-0-0-c1aba487dd8cf2feea55cffcf1377716
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 28/07 Bomik Tsivilsk vs FK Fankom (BEE)
 https://live2.streambylivepulse.com/live/channel8.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 28/07 Bomik Tsivilsk vs FK Fankom (HD BEE) [HD]
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001785226618-0-0-f84452e594b223bcbeda75efef23e65d
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001785227523-0-0-78dc896d084dad37c240174732ec1571
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 28/07 DPMM FC vs Persib Bandung (POLO)
-https://live2.pro2cdnlive.com/live/channel10.flv
+https://live2.streambylivepulse.com/live/channel10.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 28/07 DPMM FC vs Persib Bandung (HD POLO) [HD]
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001785227529-0-0-893af54a7dc8c6e8a33f12ada67be272
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 28/07 Malaysia vs Lào (BRADY)
 https://live2.pro2cdnlive.com/live/channel15.flv
@@ -500,26 +509,17 @@ https://live2.pro2cdnlive.com/live/channel5.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Neftchi Fergana vs Navbahor Namangan (LOGAN)
 https://live2.pro2cdnlive.com/live/channel23.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Cagliari vs Modena (MAX)
-https://live2.pro2cdnlive.com/live/channel6.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Nữ Shandong Speed vs Nữ Xinjiang Tianshan (STEP)
-https://live2.streambylivepulse.com/live/channel26.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/07 Nữ Shandong Speed vs Nữ Xinjiang Tianshan (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785226633-0-0-d3e9da00003c5693a5723c3b62f87366
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Zamboanga Master Sardines vs Paranaque Patriots (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Zamboanga Master Sardines vs Paranaque Patriots (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785226638-0-0-963003471691114c800da4858a81aeac
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785227542-0-0-8422be9cc435e8c783cdb399d4733541
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 28/07 Nữ Beijing Normal Uni. vs Nữ Heilongjiang (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785226644-0-0-08efaa63e3b3bc8b309a5d0b67697ac7
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785227553-0-0-a6af1aec264f856042ae71c4ba9bcc59
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 28/07 Pasay Voyagers vs Batangas Rum Masters (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785226651-0-0-05878e162b01aaa3b744a555948329ce
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785227559-0-0-4ae5282525a2741a5eec7f1b21e80c16
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 28/07 Guatemala vs Nicaragua (ALAN)
 https://live2.pro2cdnlive.com/live/channel25.flv
@@ -533,17 +533,20 @@ https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Kamil Majchrzak vs Tommy Paul (VIC)
 https://live2.pro2cdnlive.com/live/channel32.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/07 Ugo Humbert vs Andres Martin (LUCAS)
+https://live2.pro2cdnlive.com/live/channel31.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 28/07 VTV Bình Điền vs Hà Nội TASCO (TYSON)
 https://live2.streambylivepulse.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 28/07 VTV Bình Điền vs Hà Nội TASCO (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785226665-0-0-c4defd696b390a2760a2cebdf7e4b985
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785227577-0-0-9ff03661b13fee4ecec546d744c20f79
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 28/07 Thể Công Tân Cảng vs Biên Phòng (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 28/07 DN SOOPers vs Fredit BRION (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785226673-0-0-e4ef2e70497a7119796118a70ae5c168
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785227585-0-0-5990591265e925e53e8ee5fcd2a5c050
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/ZjE5NzExNDE1c3hhejY1cG50bGJ1czJhbGxhazF5N203cmR2Ym16bmF1YnR5N2ZqZnh0dmNpc3liMGg.flv
@@ -635,10 +638,10 @@ https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 28/07 Tampines Rovers FC vs Arema FC (Meomeo) [hls]
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Bacolod Masskara vs Bulacan Kuyas (Okocha) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 28/07 Bacolod Masskara vs Bulacan Kuyas (Okocha) [flv]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 28/07 Bacolod Masskara vs Bulacan Kuyas (Okocha) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 28/07 Bacolod Masskara vs Bulacan Kuyas (Okocha) [hls]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/07 Philippines vs Myanmar (Cris) [flv]
@@ -930,7 +933,7 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:10 28/07 Bacolod Masskara BC vs Bulacan Kuyas BC [MPBL] [MPBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546642_1.flv?auth_key=1785227145-8679-0-800add978f679f5477cff5b3a5dff00e
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546642_1.flv?auth_key=1785228050-9121-0-da4373cd954a7f34fda59275573457c1
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
