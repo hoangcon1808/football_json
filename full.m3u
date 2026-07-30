@@ -107,9 +107,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1785343272_hd/1785343272_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/pwrv4r23bp7j_b04a6df3_20260730.png?v=b04a6df3",Việt Nam vs Philippines | 19:00 31/07
 https://eqr2hdarxfliv.vcdn.cloud/1785316781_hd/1785316781_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/8nd4w8dknson_f54c2014_20260730.png?v=f54c2014",DNS vs BFX | 15:00 30/07
-https://eqr2hdarxfliv.vcdn.cloud/1785343392_hd/1785343392_hd@720p.m3u8
-
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/be9eoc19585h_def5f598_20260730.png?v=def5f598",Dương Quốc Hoàng vs Marco Teutscher | 23:00 30/07
 https://eqr2hdarxfliv.vcdn.cloud/1785396467_hd/1785396467_hd@720p.m3u8
 
@@ -260,6 +257,18 @@ https://station1-global.ebaclofen.org/live/7b56991b1c098405fd542909dbb50fb8/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs RTC FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-09c137056ecc8da6fdd3/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Taraz vs Akademiya Ontustik (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a5bdf6f9ec5e1d7da782d5b15a93cfaf/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 Ekibastuzets vs FK Yelimay Semey B (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c828030e3f59a8d7c34c7334c956523c/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Temp Barnaul vs KDV Tomsk (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0652ec6237d31e6c504964342df70afe/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Kaspiy Aktau B vs FK Aktobe II (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/df5c23edbfd2e29a86617b05d1ceb31d/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 30/07 Tobol Kostanai vs FK Panevezys (Nguyễn Huệ)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
@@ -344,17 +353,17 @@ https://hls.lauthaitv.cc/live/cska-qarabag-c2qual/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 31/07 CSKA Sofia vs Qarabag (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/cska-qarabag-c2qual.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Anderlecht vs Hammarby (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/ander-hammer-c2qual/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Anderlecht vs Hammarby (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/ander-hammer-c2qual.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Ferencvarosi TC vs FC Twente Enschede (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/feren-twente-c2qual/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Ferencvarosi TC vs FC Twente Enschede (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/feren-twente-c2qual.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Anderlecht vs Hammarby (NGƯỜI CHÈ) [hls]
+https://hls.lauthaitv.cc/live/ander-hammer-c2qual/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 31/07 Anderlecht vs Hammarby (NGƯỜI CHÈ) [flv]
+https://flv.lauthaitv.cc/live/ander-hammer-c2qual.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 31/07 Benfica vs St. Gallen (NGƯỜI TIỀN SỬ) [hls]
 https://hls.lauthaitv.cc/live/benfica-gallen-c2qual/index.m3u8
@@ -402,67 +411,73 @@ https://flv.lauthaitv.cc/live/higgin-boca-copasuda.flv
 https://live2.streambylivepulse.com/live/channel6.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 South Melbourne vs Adelaide United (HD MAX) [HD]
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001785406567-0-0-95d5dbe5b8b4548aa3aee586bc1d9ad4
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001785407454-0-0-f50ba00ebee0706e6c04afda38828b41
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Sydney Olympic vs Brisbane Roar (BRADY)
 https://live2.streambylivepulse.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Sydney Olympic vs Brisbane Roar (HD BRADY) [HD]
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785406573-0-0-de4a5c051ccbf07caa8193be07780885
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785407463-0-0-a48163ccbfb9cf30c6745069f9a0f3fc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Anri Vladivostok vs Dinamo Barnaul (KEN)
 https://live2.streambylivepulse.com/live/channel18.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Anri Vladivostok vs Dinamo Barnaul (HD KEN) [HD]
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001785406613-0-0-249585fad1357282bd45d85803936a21
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001785407510-0-0-a16f3601ed75e0ab1d45c422741c41fe
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs RTC FC (JEAN)
 https://live2.streambylivepulse.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs RTC FC (HD JEAN) [HD]
-https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785406621-0-0-0ded650c62d19a8a4250ef02e607c1f7
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785407520-0-0-20c71e7480035981bdee65ef810a7f05
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Hanwha Life Esports vs Dplus (MARTY)
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Hanwha Life Esports vs Dplus (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785406646-0-0-aa0a32f5eed0075fe0a92c80326609b5
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785407545-0-0-05448a2c101453bd6e6f7241795d392b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 Al Rayyan vs Al Diraiyah (TOM)
 https://live2.streambylivepulse.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 Al Rayyan vs Al Diraiyah (HD TOM) [HD]
-https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785406655-0-0-7fdb5b40d11aee3b685b89b860141b7b
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 Ekibastuzets vs FK Yelimay Semey B (XMEN)
-https://live2.streambylivepulse.com/live/channel13.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 Ekibastuzets vs FK Yelimay Semey B (HD XMEN) [HD]
-https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001785406662-0-0-9f3734e02bbf50f1edac7debe080ad08
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Temp Barnaul vs Stroitel Kamensk (RAVEN)
-https://live2.streambylivepulse.com/live/channel21.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Temp Barnaul vs Stroitel Kamensk (HD RAVEN) [HD]
-https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001785406688-0-0-5ec76e4fa3a2e0b5959ef555388e3ecc
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Taraz vs Akademiya Ontustik (POLO)
-https://live2.streambylivepulse.com/live/channel10.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Taraz vs Akademiya Ontustik (HD POLO) [HD]
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001785406694-0-0-664e76c98ff4ec73594b85edb5104dec
+https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785407554-0-0-a3a2928b0bda9d282a6bcadfcdfb3481
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 San Juan Knights vs Quezon Huskers (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 San Juan Knights vs Quezon Huskers (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785406703-0-0-ed92c49c31ce4b7c68c89260bf9ebbfb
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785407562-0-0-dff6df852fc268b2633d59ed9e0b2d12
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 Ekibastuzets vs FK Yelimay Semey B (XMEN)
+https://live2.streambylivepulse.com/live/channel13.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 Ekibastuzets vs FK Yelimay Semey B (HD XMEN) [HD]
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001785407592-0-0-052afdb4229e3429f09200b83ff6713d
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Temp Barnaul vs Stroitel Kamensk (RAVEN)
+https://live2.streambylivepulse.com/live/channel21.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 30/07 FK Temp Barnaul vs Stroitel Kamensk (HD RAVEN) [HD]
+https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001785407601-0-0-1d84d0470be39b0e4170f7aca1d58728
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Taraz vs Akademiya Ontustik (POLO)
+https://live2.streambylivepulse.com/live/channel10.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Taraz vs Akademiya Ontustik (HD POLO) [HD]
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001785407621-0-0-1a5d7bbadee3ec693870c068ca41ddd5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Kaspiy Aktau B vs FK Aktobe II (OLER)
+https://live2.streambylivepulse.com/live/channel28.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Kaspiy Aktau B vs FK Aktobe II (HD OLER) [HD]
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001785407633-0-0-a764297698610402fe94ac8ecde74cc4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 30/07 Nha Trang Dolphins vs Hồ Chí Minh Wings (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 30/07 Nha Trang Dolphins vs Hồ Chí Minh Wings (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785406709-0-0-5754be2edcedc11d22df5f92e39857ff
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785407642-0-0-e8acc03d4c7caa2a2496f0d1dbe062c1
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 30/07 Guatemala vs Belize (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
@@ -480,7 +495,7 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.streambylivepulse.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 30/07 Ba Lan vs Ukraine (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785406726-0-0-0b24bd50e50e68425c7c70df8ca04e2e
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785407677-0-0-a871a1f4981ad3184d14818355d7c087
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 30/07 Eintracht Spandau vs ROSSMANN Centaurs (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -593,17 +608,17 @@ https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Sydney Olympic vs Brisbane Roar (Người kiến) [hls]
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs RTC FC (Cá mập) [flv]
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs RTC FC (Cá mập) [hls]
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 30/07 Marikina Shoemasters vs Cebu Classic (Titan) [flv]
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 30/07 Marikina Shoemasters vs Cebu Classic (Titan) [hls]
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 30/07 Wellington Saints vs Otago Nuggets (Okocha) [flv]
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 30/07 Wellington Saints vs Otago Nuggets (Okocha) [hls]
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 30/07 Maccabi Tel Aviv vs Sheriff Tiraspol (Cris) [flv]
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.flv
@@ -629,6 +644,12 @@ https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 30/07 FK Kaspiy Aktau B vs FK Aktobe II (Rio) [hls]
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 30/07 Tobol Kostanay vs Panevezys (Cá mập) [flv]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 30/07 Tobol Kostanay vs Panevezys (Cá mập) [hls]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 30/07 Atlètic Club d'Escaldes vs Vaduz (Saitama) [flv]
 https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
 
@@ -640,12 +661,6 @@ https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 30/07 Inter Turku vs Basaksehir FK (A long) [hls]
 https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 San Juan Knights vs Quezon Huskers (Okocha) [flv]
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 30/07 San Juan Knights vs Quezon Huskers (Okocha) [hls]
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 South Melbourne vs Adelaide United (BLV ENZO) [geo]
 https://live.inplyr.com/room/380460.m3u8
@@ -878,6 +893,9 @@ https://live.inplyr.com/room/598549.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 30/07 Levadia Tallinn vs IFK Goteborg (CACAO) [geo]
 https://live.inplyr.com/room/620661.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 30/07 DNS vs BFX (Số 2) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1785343392_hd/1785343392_hd@720p.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 30/07 Maccabi Tel Aviv vs FC Sheriff (blv-bon) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
@@ -912,22 +930,19 @@ https://wtyi0525.edgemaxcdn.org/live/x2-hd-1899/playlist.m3u8
 https://wtyi0525.edgemaxcdn.org/live/x8-hd-5280/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Anri Vladivostok vs Dinamo Barnaul [RUS Cup] [RUS Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5510157_1.flv?auth_key=1785407139-5490-0-d06ad6e3cd3ac5cc35ec6a86cbc5402c
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5510157_1.flv?auth_key=1785408033-6668-0-e2280db11dcd829b331ddad07c0c4561
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 Sydney Olympic vs Brisbane Roar [AUS CUP] [AUS CUP]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5524751_1.flv?auth_key=1785407144-1782-0-5ee0df03c916c60d909adca40120bbaa
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5524751_1.flv?auth_key=1785408037-2733-0-33e305ea60b7e8a5d7a0b8bcb16b6a32
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 30/07 South Melbourne vs Adelaide United [AUS CUP] [AUS CUP]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5524752_1.flv?auth_key=1785407148-6004-0-b81cc18409c66f90533f4f3e49fd32ff
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5524752_1.flv?auth_key=1785408042-6273-0-116984479e11e26c93c56ea2a8c765dc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 30/07 Ugyen Academy vs Royal Thimphu College [BHU PL] [BHU PL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5610587_1.flv?auth_key=1785407153-8941-0-2856870dff3a2f68abf8444c30e2bcb6
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 30/07 Wuhan Shengfan Huanghe (W) vs Xinjiang Tianshan (W) [WNBL] [WNBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5553510_1.flv?auth_key=1785407163-5172-0-b273d4d4c8fe06d7b3834b725bdf2bfa
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5610587_1.flv?auth_key=1785408047-5031-0-3e95527406711f9fa1baba86ae82eb5f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 30/07 Marikina Shoemasters BC vs Cebu Greats BC [MPBL] [MPBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5606836_1.flv?auth_key=1785407170-7987-0-222413002b49789498551e70bec87267
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5606836_1.flv?auth_key=1785408057-7516-0-99ad41c0c33452610204df9b3ed39045
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
