@@ -344,17 +344,17 @@ https://hls.lauthaitv.cc/live/shakhtar-kudrivka-ukrprem/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 03/08 Shakhtar Donestk vs Kudrivka (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/shakhtar-kudrivka-ukrprem.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 FC Universitatea Cluj vs Botosani FC (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/ucluj-botosani/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 FC Universitatea Cluj vs Botosani FC (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/ucluj-botosani.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 Dinamo Samarqand vs Neftchi Fergana (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/dinamo-neftchi-uzbsup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 Dinamo Samarqand vs Neftchi Fergana (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/dinamo-neftchi-uzbsup.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 FC Universitatea Cluj vs Botosani FC (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/ucluj-botosani/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 03/08 FC Universitatea Cluj vs Botosani FC (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/ucluj-botosani.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 03/08 SJK Seinajoen vs HJK Helsinki (NGƯỜI TIỀN SỬ) [hls]
 https://hls.lauthaitv.cc/live/sjk-hjk-finveik/index.m3u8
@@ -404,23 +404,23 @@ https://hls.lauthaitv.cc/live/huracan-tucuman-argdiv1/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 04/08 CA Huracan vs Atletico Tucuman (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/huracan-tucuman-argdiv1.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 03/08 SJ Earthquakes (R) vs Austin FC II (ASTRA)
-https://live2.streambylivepulse.com/live/channel11.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 03/08 SJ Earthquakes (R) vs Austin FC II (HD ASTRA) [HD]
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001785732362-0-0-70aa7f09b405ec54fa8f5940a90b6be8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:30 03/08 Hakuhou University vs University of the Philippines (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:30 03/08 Hakuhou University vs University of the Philippines (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785732371-0-0-7313c40794d5975fb2ed863d17e6afb8
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785733259-0-0-a571b60e2bafbad410ba6dda1b6bbe79
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Nữ Hồ Chí Minh 2 vs Nữ Hà Nội II (FELIX)
-https://live2.pro2cdnlive.com/live/channel24.flv
+https://live2.streambylivepulse.com/live/channel24.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Nữ Hồ Chí Minh 2 vs Nữ Hà Nội II (HD FELIX) [HD]
+https://live3.procdnlive.com/livecdn/channel24.flv?auth_key=3000001785733266-0-0-251e5448bc451532792aaad86ad99a3e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Nữ Hồ Chí Minh vs Nữ Hà Nội (KEN)
-https://live2.pro2cdnlive.com/live/channel18.flv
+https://live2.streambylivepulse.com/live/channel18.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Nữ Hồ Chí Minh vs Nữ Hà Nội (HD KEN) [HD]
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001785733286-0-0-a74585904d91cadbb929b68bc8ce66fa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 03/08 Nữ Than KSVN vs Nữ PP Hà Nam (JEAN)
 https://live2.pro2cdnlive.com/live/channel7.flv
@@ -434,17 +434,26 @@ https://live2.pro2cdnlive.com/live/channel1.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 03/08 Campuchia vs Timor Leste (MAX)
 https://live2.pro2cdnlive.com/live/channel6.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 03/08 Guangdong Fenglu vs Babu Science and Technology (OLER)
+https://live2.pro2cdnlive.com/live/channel28.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 03/08 Bulacan Kuyas vs Mindoro Tamaraws (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785732410-0-0-0a059bfc3e35a4d68044cc4bc2d7ca2b
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785733302-0-0-5e1da402a140336b6594dad17c7de76e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Quezon Huskers vs Cebu Classic (ALAN)
-https://live2.pro2cdnlive.com/live/channel25.flv
+https://live2.streambylivepulse.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Quezon Huskers vs Cebu Classic (HD ALAN) [HD]
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785733308-0-0-784f3b45298c44192248f2451485abe2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 03/08 Nữ KB Stars vs Nữ Việt Nam (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 03/08 GenSan Warriors vs Quezon Toda Aksyon (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:45 03/08 Nữ Tây Ban Nha U18 vs Nữ Montenegro  U18 (ALAN)
+https://live2.pro2cdnlive.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 04/08 Taylor Fritz vs Rafael Jodar (LUCAS)
 https://live2.pro2cdnlive.com/live/channel31.flv
@@ -453,7 +462,7 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 03/08 Gen.G Esports vs Hanwha Life Esports (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785732436-0-0-68c38fdf2cf88ac2bc5f742b85b131e4
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785733357-0-0-40caa8de580745633ad9da841ca04c29
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 03/08 Nongshim RedForce vs T1 (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -572,24 +581,6 @@ https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 03/08 Quezon Huskers vs Cebu Classic (Okocha) [hls]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (BLV KAN) [geo]
-https://live.inplyr.com/room/283501.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (LÃO LÂM) [geo]
-https://live.inplyr.com/room/527384.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (BLV ALEX) [geo]
-https://live.inplyr.com/room/532081.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (BLV TOMIA) [geo]
-https://live.inplyr.com/room/187579.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (CHAN ĐÊ) [geo]
-https://live.inplyr.com/room/621887.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/08 Independiente Santa Fe vs Deportiva Once Caldas (BLV A TINH) [geo]
-https://live.inplyr.com/room/598119.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 03/08 Toluca vs Necaxa (BLV RÔSI) [geo]
 https://live.inplyr.com/room/139384.m3u8
 
@@ -707,6 +698,9 @@ https://live.inplyr.com/room/400722.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 02/08 SC Austria Lustenau vs SV Ried (QUỐC KHÁNH) [geo]
 https://live.inplyr.com/room/602153.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 02/08 SC Austria Lustenau vs SV Ried (BLV A TINH) [geo]
+https://live.inplyr.com/room/598119.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 02/08 Wolfsberger AC vs Austria Vienna (KENCHU) [geo]
 https://live.inplyr.com/room/622602.m3u8
 
@@ -773,6 +767,21 @@ https://live.inplyr.com/room/372746.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/08 Internacional _ RS vs Corinthians _ SP (BLV FOX) [geo]
 https://live.inplyr.com/room/620003.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:45 03/08 America de Cali vs Boyaca Chico (CHAN ĐÊ) [geo]
+https://live.inplyr.com/room/621887.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:45 03/08 America de Cali vs Boyaca Chico (BLV KAN) [geo]
+https://live.inplyr.com/room/283501.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 03/08 Club America vs Santos Laguna (BLV TOMIA) [geo]
+https://live.inplyr.com/room/187579.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 03/08 Club America vs Santos Laguna (LÃO LÂM) [geo]
+https://live.inplyr.com/room/527384.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 03/08 Club America vs Santos Laguna (BLV ALEX) [geo]
+https://live.inplyr.com/room/532081.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 03/08 Cienciano vs Universitario De Deportes (BLV LION) [geo]
 https://live.inplyr.com/room/603255.m3u8
 
@@ -835,12 +844,6 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Levski Sofia vs Kairat Almaty (KaKa) [hls]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:05 03/08 Toluca vs Necaxa (Quang Huy) [hls]
-https://wtyi0525.edgemaxcdn.org/live/x21-hd-1141/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 03/08 The Town FC vs Austin FC II [USA MLSNP] [USA MLSNP]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5622190_1.flv?auth_key=1785732940-8185-0-9a04d24776afa9d8c7dae1eb8cd0a6f3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
