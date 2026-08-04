@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f51b354e3da1bdfe077b6bb931b635af.png!w80",14:00 | Breidablik Nữ vs Aktobe Nữ
-https://live05.meung.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f5ff010dcc2e753de549a98ba989e356.png!w80",15:30 | Rodina Moskva vs Rubin Kazan
 https://live05.meung.app/live/59444581.m3u8
 
@@ -22,6 +19,9 @@ https://live05.meung.app/live/75915087.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/15534c86dc2747cd8bc55c8b2d7d4608.png!w80",19:00 | Larne vs Saburtalo Tbilisi
 https://live05.meung.app/live/07808742.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",19:00 | Shamrock Rovers vs Egnatia
+https://live05.meung.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f83a93401d7a60595338bae0337d344c.png!w80",21:10 | Llaneros FC vs Fortaleza CEIF
 https://live05.meung.app/live/90865415.m3u8
@@ -224,8 +224,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Tigres UANL vs Real Salt Lake (Chuối Tây) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 04/08 Hapoel Kiryat Shmona vs Hapoel Bnei Sakhnin FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/326ddb02715d0691d3686eac79c0a23d/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 05/08 Maccabi Haifa vs Ironi Tiberias (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8c064d88bbff231500c609f4e719a526/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 05/08 Al Nassr FC vs Almeria (Lưu Bang)
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 FC Timisoara vs Chindia Targoviste (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/75f2c5e8b5e179ee8d74e2241be699ea/playlist.m3u8
@@ -239,11 +242,11 @@ https://station1-global.ebaclofen.org/live/cd69a18f7c549e0afde80c03518832d8/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:10 04/08 FC Kattaqorgon vs Pakhtakor II (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ffc07d1e4648373e5083/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 PFK Montana vs Nesebar (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/181a6ed214be518091c36668119e01aa/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e97232f8286b2b8065cec9656504a8f1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 PFK Montana vs Nesebar (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1555369112ef16f7b77e/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-22e6d5dd90f62a5326d0/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (Tào Phi)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
@@ -254,26 +257,11 @@ https://station1-global.ebaclofen.org/live/893ac115671fdd305a9aa9d5ae159cf7/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-820af6c3b31ac9d2f71c/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/e97232f8286b2b8065cec9656504a8f1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 PFK Montana vs Nesebar (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/181a6ed214be518091c36668119e01aa/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-22e6d5dd90f62a5326d0/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Tào Duệ)
-https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/04b7629af16a729aa81480fe4241bdc0/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-878793d6d78c451d6963/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 RC Strasbourg Alsace vs SV Elversberg (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1045d00c9b583b455f1ea025c38325c1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 RC Strasbourg Alsace vs SV Elversberg (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-6c99b5ddde75a1d1f6ae/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 PFK Montana vs Nesebar (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-1555369112ef16f7b77e/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (Phổ Nghi)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -284,23 +272,38 @@ https://station1-global.ebaclofen.org/live/585c084cd1f834fcd59ca103e6232080/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1f008d9401375af59cc2/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Tào Duệ)
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/04b7629af16a729aa81480fe4241bdc0/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-878793d6d78c451d6963/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/83b1953ebd9ef087712df78e86c6c9e3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f5167cfa7c6f1de3b564/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 04/08 Holstebro BK vs Aalborg (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/327af44c4288680ad623f413d5b61336/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 RC Strasbourg Alsace vs SV Elversberg (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/1045d00c9b583b455f1ea025c38325c1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 RC Strasbourg Alsace vs SV Elversberg (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-6c99b5ddde75a1d1f6ae/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 04/08 Bronshoj vs Herfolge Boldklub Koge (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/297fe96d766c177ff41bdd43d6cbb38e/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 05/08 Al Nassr FC vs Almeria (Lưu Bang)
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 04/08 Holstebro BK vs Aalborg (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/327af44c4288680ad623f413d5b61336/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 05/08 Maccabi Haifa vs Ironi Tiberias (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8c064d88bbff231500c609f4e719a526/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 04/08 Hapoel Kiryat Shmona vs Hapoel Bnei Sakhnin FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/326ddb02715d0691d3686eac79c0a23d/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 04/08 Hapoel Kiryat Shmona vs Hapoel Bnei Sakhnin FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-4c1e989fd8a87f2a6717/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 04/08 Club Atletico Guemes vs Tristan Suarez (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/b9993c0880f5d2fb1132a9419454dfd5/playlist.m3u8
@@ -332,20 +335,20 @@ https://station1-global.ebaclofen.org/live/acf371a9525e0dedd80d19dcfe47bb2e/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Newport County vs AS Roma (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9be770717c69ab7f991b1b10f56b1943/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Olympiacos Piraeus vs NEC Nijmegen (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/bb9bc2b1fee776c8476923d13f41c607/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 El Porvenir vs CA Fenix Pilar (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/69cd4f67a7709d3cdbbc8fa99c3b14b7/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Olympiacos Piraeus vs NEC Nijmegen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bb9bc2b1fee776c8476923d13f41c607/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Sparta Praha vs Lyon (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0a6c61c1770a26b6a0308a35c3c185f3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Union Saint-Gilloise vs Bodo Glimt (Tào Phi)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Union Saint-Gilloise vs Bodo Glimt (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/ea90a0d675f8231fb9e466f80ae7fa82/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Sparta Praha vs Lyon (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0a6c61c1770a26b6a0308a35c3c185f3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Claypole vs Juventud Unida (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/80d93049d3168813f6fba5dda206b0ff/playlist.m3u8
@@ -368,14 +371,14 @@ https://station1-global.ebaclofen.org/live/5d44460bc02c998ff92ead39134f20bf/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 05/08 Academia del Balompié Boliviano vs Real Oruro (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6ff5755bcfb894a783367ad33c5d2b65/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 05/08 Costa Rica U20 vs Haiti U20 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/613397aa72ddb1e426d5465a97e23be6/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 05/08 Burkina Faso Women vs South Africa Women (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3c0410eadf8e776b23098d01c62bb6e0/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 05/08 Tanzania Women vs Cote d'Ivoire Women (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/c16860046c9dc1cf4ead48ca7c21b7c6/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 05/08 Costa Rica U20 vs Haiti U20 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/613397aa72ddb1e426d5465a97e23be6/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",04:10 05/08 Llaneros FC vs Fortaleza F.C (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9d3d3dbefb4e27780775257dc939b2cc/playlist.m3u8
@@ -498,73 +501,70 @@ https://flv.lauthaitv.cc/live/tigres-realsalt-leagues.flv
 https://live2.streambylivepulse.com/live/channel20.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 04/08 Nữ Breidablik vs Nữ Aktobe (HD SILVA) [HD]
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001785861069-0-0-c488db698e63e650c5876031f4e53d53
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001785861965-0-0-def2cf292faff3b9b8292c6a9db269d8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (HIRO)
 https://live2.streambylivepulse.com/live/channel14.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (HD HIRO) [HD]
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001785861076-0-0-0df882eee722c3c304fab037892343f3
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001785861974-0-0-03eb60c815a8ac4fbc97a1bdaa32dd6a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (TONI)
 https://live2.streambylivepulse.com/live/channel9.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (HD TONI) [HD]
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001785861097-0-0-78ef05e3c000cd39ba370aef9d0cdfc1
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001785862018-0-0-e1ce4d035612b61994ffa420b68050cf
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BRADY)
 https://live2.streambylivepulse.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (HD BRADY) [HD]
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785861106-0-0-6e09a2c81e9c082f8ef62f5178d86936
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785862026-0-0-caeb0852ee00813398849934e9155f4d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat Armenia vs NK Publikum Celje (JOHAN)
 https://live2.streambylivepulse.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat Armenia vs NK Publikum Celje (HD JOHAN) [HD]
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001785861113-0-0-903387dbba2b802b8456c33edbe9d45a
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001785862050-0-0-06ac632f0947539e6198b3b4a3555271
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (TOM)
 https://live2.streambylivepulse.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (HD TOM) [HD]
-https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785861138-0-0-2c558763ecc1a1f078ba85279bcc2269
+https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785862058-0-0-3021850c92c0f861efd82a0379163f2a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Strasbourg vs SV Elversberg (JEAN)
 https://live2.streambylivepulse.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Strasbourg vs SV Elversberg (HD JEAN) [HD]
-https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785861146-0-0-8fae2d22598cbab906bf5be54962219a
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001785862067-0-0-60f776d8812ebdeb5f0c6e653f075963
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 04/08 Bronshoj vs HB Koge (POLO)
 https://live2.streambylivepulse.com/live/channel10.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 04/08 Bronshoj vs HB Koge (HD POLO) [HD]
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001785861154-0-0-2f2b6453d5c5fea9217f33a5b6554e7e
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 Martin Damm Jr vs Stefanos Tsitsipas (LUCAS)
-https://live2.streambylivepulse.com/live/channel31.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 Martin Damm Jr vs Stefanos Tsitsipas (HD LUCAS) [HD]
-https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001785861175-0-0-46730f69af5b7d029578c146f196eb46
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001785862091-0-0-950a73313ac18df1e9adbbfee3b57558
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 Eintracht Spandau vs Berlin International Gaming (MARTY)
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 Eintracht Spandau vs Berlin International Gaming (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785861185-0-0-66eb5bb2a07aec8c3c73dd4eeeeb7f60
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001785862099-0-0-a32727d9d94f6362237d39356896b2b6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Nữ Slovakia U18 vs Nữ Great Britain U18 (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Nữ Slovakia U18 vs Nữ Great Britain U18 (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785861194-0-0-4d1ad5ac9b430f016a0a44f43e98709a
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785862125-0-0-a4abeacb96268f132457526418c1f8c0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Nữ Golden State vs Nữ Toronto Tempo (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:40 05/08 Marta Kostyuk vs Katherine Sebov (LUCAS)
+https://live2.streambylivepulse.com/live/channel31.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:40 05/08 Marta Kostyuk vs Katherine Sebov (HD LUCAS) [HD]
-https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001785861219-0-0-0e7daa3f4d80771ff118576a0de25eae
+https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001785862134-0-0-234d65310f6cfed6242f94b52c7025b5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 05/08 Aryna Sabalenka vs Moyuka Uchijima (LUCAS)
 https://live2.pro2cdnlive.com/live/channel31.flv
@@ -573,10 +573,10 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.streambylivepulse.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Nữ Venezuela vs Nữ Trinidad & Tobago (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785861226-0-0-a1dc260ab489c784eb679385cb88b497
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785862145-0-0-0af78475a948c6eafeb70ff82a765a12
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 05/08 Nữ Cuba vs Nữ Costa Rica (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785861234-0-0-ca2da4b972a67cfd9f92ab2f0f75a3ac
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001785862170-0-0-4f43e3b4ea0404ba25af65416577a7fc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 05/08 Nữ Mexico vs Nữ Colombia (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -683,83 +683,17 @@ https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (Saitama) [hls]
 https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV ROBBEN) [geo]
-https://live.inplyr.com/room/527383.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV A TÚ) [geo]
-https://live.inplyr.com/room/557845.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV BÉO) [geo]
-https://live.inplyr.com/room/459401.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV GIÓ) [geo]
-https://live.inplyr.com/room/321443.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV RÔSI) [geo]
-https://live.inplyr.com/room/139384.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 BG Pathum United vs Aston Villa (BLV PEWPEW) [geo]
-https://live.inplyr.com/room/109053.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (RICKHANTER) [geo]
-https://live.inplyr.com/room/123226.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (BLV Củ Cải) [geo]
-https://live.inplyr.com/room/360663.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (HẢI THANH) [geo]
-https://live.inplyr.com/room/599634.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (BLV CUỘI) [geo]
-https://live.inplyr.com/room/256080.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (BLV TAP) [geo]
-https://live.inplyr.com/room/147801.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Philippines vs Thailand (ZIDANE) [geo]
-https://live.inplyr.com/room/168740.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (BLV PIRLO) [geo]
-https://live.inplyr.com/room/351530.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (BLV CÒ) [geo]
-https://live.inplyr.com/room/582342.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (XUÂN TÓC ĐỎ) [geo]
-https://live.inplyr.com/room/610518.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (GRAP) [geo]
-https://live.inplyr.com/room/622093.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (MP3) [geo]
-https://live.inplyr.com/room/621840.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 04/08 Persebaya Surabaya vs Arema FC (T REX) [geo]
-https://live.inplyr.com/room/619672.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (XUÂN SON) [geo]
-https://live.inplyr.com/room/501412.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (BLV LION) [geo]
-https://live.inplyr.com/room/603255.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (VINFAST) [geo]
-https://live.inplyr.com/room/617313.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (TUẤN CÙI) [geo]
-https://live.inplyr.com/room/400722.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (HÀ DUY KIÊN) [geo]
-https://live.inplyr.com/room/607400.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 04/08 Akron Togliatti vs FK Rostov (CACAO) [geo]
-https://live.inplyr.com/room/620661.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 FC Politehnica Timisoara vs Chindia Targoviste (BEN 10) [geo]
 https://live.inplyr.com/room/612098.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 FC Politehnica Timisoara vs Chindia Targoviste (BLV ANH TÀI) [geo]
 https://live.inplyr.com/room/406865.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 04/08 FC Politehnica Timisoara vs Chindia Targoviste (MP3) [geo]
+https://live.inplyr.com/room/621840.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (TUẤN CÙI) [geo]
+https://live.inplyr.com/room/400722.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (BLV WUKONG) [geo]
 https://live.inplyr.com/room/511367.m3u8
@@ -776,8 +710,8 @@ https://live.inplyr.com/room/560690.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylya Sovetov (BLV CÁO) [geo]
 https://live.inplyr.com/room/597929.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (TRÀ ĐÁ) [geo]
-https://live.inplyr.com/room/603914.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (XUÂN TÓC ĐỎ) [geo]
+https://live.inplyr.com/room/610518.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (BLV COZY) [geo]
 https://live.inplyr.com/room/531989.m3u8
@@ -785,11 +719,32 @@ https://live.inplyr.com/room/531989.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (BLV ENZO) [geo]
 https://live.inplyr.com/room/380460.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (BLV PIRLO) [geo]
+https://live.inplyr.com/room/351530.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (PEANUT) [geo]
 https://live.inplyr.com/room/620084.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Rodina Moscow vs Rubin Kazan (RỒNG ĐẤT) [geo]
 https://live.inplyr.com/room/620649.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (LOKA) [geo]
+https://live.inplyr.com/room/589848.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (LÃO LÂM) [geo]
+https://live.inplyr.com/room/527384.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV VIP) [geo]
+https://live.inplyr.com/room/491873.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV XO) [geo]
+https://live.inplyr.com/room/472241.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV FIREMAN) [geo]
+https://live.inplyr.com/room/250874.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BÁ PHÚ) [geo]
+https://live.inplyr.com/room/118206.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (QUỐC KHÁNH) [geo]
 https://live.inplyr.com/room/602153.m3u8
@@ -809,38 +764,47 @@ https://live.inplyr.com/room/621843.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia FC vs NK Publikum Celje (BOSS) [geo]
 https://live.inplyr.com/room/620504.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (GRAP) [geo]
+https://live.inplyr.com/room/622093.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (BÒ TƯƠI) [geo]
 https://live.inplyr.com/room/620797.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs FC Dinamo City (BLV FOX) [geo]
 https://live.inplyr.com/room/620003.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (LOKA) [geo]
-https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Hapoel Beer Sheva vs Crvena Zvezda (BLV ROBBEN) [geo]
+https://live.inplyr.com/room/527383.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (LÃO LÂM) [geo]
-https://live.inplyr.com/room/527384.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Hapoel Beer Sheva vs Crvena Zvezda (VINFAST) [geo]
+https://live.inplyr.com/room/617313.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV VIP) [geo]
-https://live.inplyr.com/room/491873.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV XO) [geo]
-https://live.inplyr.com/room/472241.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BÁ PHÚ) [geo]
-https://live.inplyr.com/room/118206.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava (BLV FIREMAN) [geo]
-https://live.inplyr.com/room/250874.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Hapoel Beer Sheva vs Crvena Zvezda (CACAO) [geo]
+https://live.inplyr.com/room/620661.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Hapoel Beer Sheva vs Crvena Zvezda (SEVEN) [geo]
 https://live.inplyr.com/room/618546.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Levski Sofia vs FC Kairat Almaty (XUÂN SON) [geo]
+https://live.inplyr.com/room/501412.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 05/08 Levski Sofia vs FC Kairat Almaty (BLV CÒ) [geo]
+https://live.inplyr.com/room/582342.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 05/08 Lokomotiv Moscow vs CSKA Moscow (KENCHU) [geo]
 https://live.inplyr.com/room/622602.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Olympiacos Piraeus vs NEC Nijmegen (TRÀ ĐÁ) [geo]
+https://live.inplyr.com/room/603914.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Union Saint-Gilloise vs Bodo Glimt (BLV PEWPEW) [geo]
+https://live.inplyr.com/room/109053.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Union Saint-Gilloise vs Bodo Glimt (BLV ALEX) [geo]
 https://live.inplyr.com/room/532081.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 05/08 Union Saint-Gilloise vs Bodo Glimt (BLV GIÓ) [geo]
+https://live.inplyr.com/room/321443.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",04:10 05/08 Llaneros FC vs Fortaleza F.C (BLV LUCAS) [geo]
 https://live.inplyr.com/room/304148.m3u8
@@ -863,17 +827,32 @@ https://live.inplyr.com/room/598119.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 05/08 Deportes Tolima vs Dep.Independiente Medellin (BLV RAMBO) [geo]
 https://live.inplyr.com/room/534055.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 05/08 Deportes Tolima vs Dep.Independiente Medellin (BLV CÁP) [geo]
-https://live.inplyr.com/room/610677.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 05/08 Deportes Tolima vs Dep.Independiente Medellin (HÀ DUY KIÊN) [geo]
+https://live.inplyr.com/room/607400.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 Columbus Crew vs Atlas (BLV VOI) [geo]
 https://live.inplyr.com/room/552716.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 FC Cincinnati vs Pachuca (BLV A TÚ) [geo]
+https://live.inplyr.com/room/557845.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 FC Cincinnati vs Pachuca (BLV Củ Cải) [geo]
+https://live.inplyr.com/room/360663.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 FC Cincinnati vs Pachuca (BLV RÔSI) [geo]
+https://live.inplyr.com/room/139384.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 FC Cincinnati vs Pachuca (LOGAN) [geo]
 https://live.inplyr.com/room/552832.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 05/08 FC Cincinnati vs Pachuca (BLV MESSI) [geo]
 https://live.inplyr.com/room/494201.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 05/08 Charlotte FC vs Pumas U.N.A.M. (BLV BÉO) [geo]
+https://live.inplyr.com/room/459401.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 05/08 Plaza Amador vs Luis Angel Firpo (BLV LION) [geo]
+https://live.inplyr.com/room/603255.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 05/08 Minnesota United FC vs FC Juarez (BLV TOMIA) [geo]
 https://live.inplyr.com/room/187579.m3u8
@@ -887,8 +866,26 @@ https://live.inplyr.com/room/291277.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:20 05/08 Millonarios vs Deportivo Pasto (BLV RYO) [geo]
 https://live.inplyr.com/room/602019.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:20 05/08 Millonarios vs Deportivo Pasto (T REX) [geo]
+https://live.inplyr.com/room/619672.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Tigres UANL vs Real Salt Lake (HẢI THANH) [geo]
+https://live.inplyr.com/room/599634.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Tigres UANL vs Real Salt Lake (BLV TAP) [geo]
+https://live.inplyr.com/room/147801.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Tigres UANL vs Real Salt Lake (A BỆU) [geo]
 https://live.inplyr.com/room/484845.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 05/08 Vancouver Whitecaps vs Atlante FC (BLV CUỘI) [geo]
+https://live.inplyr.com/room/256080.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 05/08 Vancouver Whitecaps vs Atlante FC (ZIDANE) [geo]
+https://live.inplyr.com/room/168740.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 05/08 Vancouver Whitecaps vs Atlante FC (RICKHANTER) [geo]
+https://live.inplyr.com/room/123226.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 05/08 Golden State Valkyries W vs Toronto Tempo W (BLV HENRY) [geo]
 https://live.inplyr.com/room/428392.m3u8
@@ -942,34 +939,37 @@ https://wtyi0525.edgemaxcdn.org/live/x3-hd-0198/playlist.m3u8
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-2019/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:10 04/08 FC Kattaqorgon vs Pakhtakor Tashkent II [UZB PL] [UZB PL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289326_1.flv?auth_key=1785861647-7666-0-526c07d5532d85a6811fa1d8a1a4fe3e
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289326_1.flv?auth_key=1785862548-4128-0-6ef0cc18f8d15ae51fd5ffdfc2d97dfa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 FC Rodina Moscow vs Rubin Kazan [RUS Cup] [RUS Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5538437_1.flv?auth_key=1785861649-9007-0-32d25014a042ab66baf4b226543e5ac4
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5538437_1.flv?auth_key=1785862550-1364-0-c752b2faa4d400bd67e87d0b81a95315
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Dynamo Makhachkala vs Krylia Sovetov Samara [RUS Cup] [RUS Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5538432_1.flv?auth_key=1785861652-4607-0-52d9045a653093db02be15cc42f0eaa3
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5538432_1.flv?auth_key=1785862553-8543-0-1e54f66d54c4b10e85e414f7b025276c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 PFC Montana vs OFK Nesebar [BUL D2] [BUL D2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5524192_1.flv?auth_key=1785861657-4474-0-9f5b0bdafdb595003a60a285f496f9b4
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5524192_1.flv?auth_key=1785862557-8152-0-d1802974459c57201da093120fa0ea87
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Mjallby AIF vs Slovan Bratislava [UEFA CL] [UEFA CL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5629714_1.flv?auth_key=1785861661-9640-0-b386693ffe5c90df4919dd97b268d9f3
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5629714_1.flv?auth_key=1785862560-9697-0-9c646e64c905c69c727e8d153eeb65f4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Ararat-Armenia vs NK Celje [UEFA CL] [UEFA CL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5629711_1.flv?auth_key=1785861666-8998-0-80ee5dd2fcaefbbdd84b1a672d281b68
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5629711_1.flv?auth_key=1785862564-7043-0-c9276a6722443fc148b692638320f2c5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 FK Auda Riga vs Dinamo City [UEFA ECL] [UEFA ECL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5632188_1.flv?auth_key=1785861669-9994-0-aa4ed74d10cc45e614046f09e3cff79f
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5632188_1.flv?auth_key=1785862570-2325-0-b8a4161ee9c8660962bc1eb4cb0bbe93
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 04/08 Strasbourg vs SV 07 Elversberg [Friendly] [Friendly]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5650711_1.flv?auth_key=1785861673-3955-0-8ef5b593e805a39242e21f94eb4c52b5
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5650711_1.flv?auth_key=1785862573-2688-0-947a92b59eec9e355d6d71928b0531aa
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 04/08 Hapoel Ironi Kiryat Shmona vs Bnei Sakhnin [ISR TCA] [ISR TCA]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5538419_1.flv?auth_key=1785862577-2316-0-9e48356261022600cbf6e3bb7bbb1d5a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Romania U18 (W) vs Portugal U18 (W) [WEuroB] [WEuroB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5278006_1.flv?auth_key=1785861683-7942-0-9fd224620c99335eb2b59d34a61a77bc
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5278006_1.flv?auth_key=1785862582-8799-0-6dfe9a67caf32aec6dfd2ce858736513
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 04/08 Luxembourg U18 (W) vs Ireland U18 (W) [WEuroB] [WEuroB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5254396_1.flv?auth_key=1785861687-7861-0-2e54013ba5076fbf8c3b4e1700ae5907
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5254396_1.flv?auth_key=1785862587-1720-0-21e0d34bf5326457f1e701e4302ad61a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
