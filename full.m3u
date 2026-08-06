@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",02:40 | Los Angeles FC vs Chivas Guadalajara
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",02:30 | Los Angeles FC vs Chivas Guadalajara
 https://live05.meung.app/live/14830711.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80",00:50 | Monterrey vs Orlando City
-https://live05.meung.app/live/16557140.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5204181e7c7001736341ab9b8dd54754.png!w80",02:00 | Alianza San Salvador vs Herediano
 https://live05.meung.app/live/87379114.m3u8
@@ -22,6 +19,9 @@ https://live05.meung.app/live/07808742.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80",12:00 | FK Yelimay Semey B vs Kairat Almaty II
 https://live05.meung.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80",12:30 | Hochiminh City Wings vs Sài Gòn Heat
+https://live05.meung.app/live/16557140.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80",12:30 | Persib Bandung vs Persebaya
 https://live05.meung.app/live/75915087.m3u8
@@ -209,18 +209,6 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 07/08 CD Motagua vs FAS (Trốc Tru) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:50 06/08 Monterrey vs Orlando City (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/945ca57fdecfdd3c1f89319a89bfab0c/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:50 06/08 Monterrey vs Orlando City (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e73a7c6d1f7339dc8dd8/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 El Paso Locomotive FC vs Monterey Bay FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c3de7abcfd227e6c8e966e2739b530fe/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 El Paso Locomotive FC vs Monterey Bay FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-c885ac6b2cec253b323a/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Deportiva Once Caldas vs America de Cali (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3c2b7b2ef0de350b55ac087f907bdddc/playlist.m3u8
 
@@ -263,11 +251,17 @@ https://station1-global.ebaclofen.org/live/bd9a93d3a6f42f4c0b2a37d22fc3cdfa/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Las Vegas Lights vs Oakland Roots (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-feab75275a5ca036fc2c/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPs vs CS Universitatea Craiova (Dương Kiên)
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 06/08 Los Angeles FC vs Club Deportivo Guadalajara (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/4b20a46dd4ba8cc9be549f177e4c8913/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 06/08 Los Angeles FC vs Club Deportivo Guadalajara (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-c14f622cbd145c15accb/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 Inter Turku vs Vaduz (Phổ Nghi)
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPs vs CS Universitatea Craiova (Dương Kiên)
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 HJK Helsinki vs Motherwell (Nguyễn Huệ)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
@@ -281,59 +275,47 @@ https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 Jagiellonia Bialystok vs Rangers (Lưu Bang)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Monterrey vs Orlando City (HIRO)
-https://live2.streambylivepulse.com/live/channel14.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Monterrey vs Orlando City (HD HIRO) [HD]
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001785984364-0-0-697d5fde04fc184e49cf6153cc3b5a5d
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Once Caldas vs America de Cali (BRADY)
 https://live2.streambylivepulse.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Once Caldas vs America de Cali (HD BRADY) [HD]
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785984371-0-0-093eae3766b9396cde228b315d4b3836
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001785985256-0-0-0822794298f950436e225f8e6e8d3f72
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC (PAN) (TOM)
 https://live2.streambylivepulse.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC (PAN) (HD TOM) [HD]
-https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785984394-0-0-2aa6f617f7099ea941c3cad970f695ab
+https://live3.procdnlive.com/livecdn/channel4.flv?auth_key=3000001785985264-0-0-2f7d93549a4e8108da7d3b003cf6431e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (JOHAN)
 https://live2.streambylivepulse.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (HD JOHAN) [HD]
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001785984402-0-0-8ea9785691b67172a4550315b3126220
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001785985287-0-0-2a3c40e29371a71ae75c2cf9be04aa69
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Guadalajara (ASTRA)
 https://live2.streambylivepulse.com/live/channel11.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Guadalajara (HD ASTRA) [HD]
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001785984409-0-0-87258f778fb813131207b436730b8e31
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001785985296-0-0-bff4b7a0b050f6ff838b39e16abcd0aa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Nữ Chicago Sky vs Nữ Los Angeles Sparks (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Nữ Chicago Sky vs Nữ Los Angeles Sparks (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785984415-0-0-ad3d84b74844cb1cc23657c2a8819743
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001785985303-0-0-94a0f06965e786b0b364003989fe7352
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:05 06/08 Mineros de Zacatecas vs Correcaminos UAT Victoria (ALAN)
 https://live2.streambylivepulse.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:05 06/08 Mineros de Zacatecas vs Correcaminos UAT Victoria (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785984423-0-0-8bff2a8a11183af71abb2a27ca460780
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785985330-0-0-27483b5fba63680bae2336a3538a7e82
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 06/08 Diablos Rojos del México vs Freseros de Irapuato (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 06/08 Diablos Rojos del México vs Freseros de Irapuato (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785984429-0-0-bf8d4e207c0bd02ab69a7b391027de1c
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 06/08 Valentin Royer vs Tommy Paul (LUCAS)
-https://live2.streambylivepulse.com/live/channel31.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 06/08 Valentin Royer vs Tommy Paul (HD LUCAS) [HD]
-https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001785984436-0-0-4ec12ca0b1c14e647bd481636ff25c57
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001785985339-0-0-2508f7950641e40006d9c836a99d37c0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 06/08 Tottenham Hotspur U17 vs Sporting CP U17 (RAVEN)
 https://live2.pro2cdnlive.com/live/channel21.flv
@@ -344,8 +326,11 @@ https://live2.pro2cdnlive.com/live/channel11.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 06/08 PT Prachuap FC vs Terengganu FC (TOM)
 https://live2.pro2cdnlive.com/live/channel4.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 06/08 Pasig City vs Bulacan Kuyas (ALAN)
-https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 06/08 Athletic Bilbao U17 vs Arsenal U17 (KEN)
+https://live2.pro2cdnlive.com/live/channel18.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 06/08 Pasig City vs Bulacan Kuyas (HD ALAN) [HD]
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001785985354-0-0-2d51973cb7c6a63753dfdfc8df95d3f0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 06/08 Abra Weavers vs Bataan Risers (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
@@ -355,9 +340,6 @@ https://live2.pro2cdnlive.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 07/08 Colombia vs Paraguay (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 07/08 Nữ Indonesia vs Nữ Việt Nam (HD 1) [HD]
-https://live2.pro2cdnlive.com/live/channel80.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 06/08 Kiwoom DRX vs DN SOOPers (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -452,12 +434,6 @@ https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 06/08 Toluca vs Seattle Sounders (Siêu quậy) [hls]
 https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fluminense RJ vs Vasco da Gama (Kayti) [flv]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fluminense RJ vs Vasco da Gama (Kayti) [hls]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Chicago Sky vs Los Angeles Sparks (Titan) [flv]
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
 
@@ -482,83 +458,35 @@ https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FK Aktobe II vs Ekibastuz (Blv giang a dân) [hls]
 https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhter Karagandy vs FK Kaspiy Aktau B (Cá mập) [flv]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhter Karagandy vs FK Kaspiy Aktau B (Cá mập) [hls]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 FK Jablonec vs RFS (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 FK Jablonec vs RFS (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 Paide Linnameeskond vs SK Rapid Wien (Meomeo) [flv]
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 06/08 Paide Linnameeskond vs SK Rapid Wien (Meomeo) [hls]
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 06/08 CFR Cluj vs Tromso IL (A long) [flv]
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 06/08 CFR Cluj vs Tromso IL (A long) [hls]
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 06/08 Pasig City vs Bulacan Kuyas (Okocha) [flv]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 06/08 Pasig City vs Bulacan Kuyas (Okocha) [hls]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 06/08 Internacional de Bogota vs Jaguares de Cordoba (BLV LION) [geo]
-https://live.inplyr.com/room/603255.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 06/08 Internacional de Bogota vs Jaguares de Cordoba (VINFAST) [geo]
-https://live.inplyr.com/room/617313.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (BÁ PHÚ) [geo]
-https://live.inplyr.com/room/118206.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (BLV CUỘI) [geo]
-https://live.inplyr.com/room/256080.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (CÔNG CHẤT) [geo]
-https://live.inplyr.com/room/291277.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (BLV Củ Cải) [geo]
-https://live.inplyr.com/room/360663.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (SAO LA) [geo]
-https://live.inplyr.com/room/462413.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Inter Miami CF vs Atletico San Luis (A BỆU) [geo]
-https://live.inplyr.com/room/484845.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 06/08 Club Atletico Tigre vs Belgrano (RICKHANTER) [geo]
-https://live.inplyr.com/room/123226.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 06/08 Club Atletico Tigre vs Belgrano (BLV RYO) [geo]
-https://live.inplyr.com/room/602019.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fortaleza vs Palmeiras _ SP (BLV VOI) [geo]
-https://live.inplyr.com/room/552716.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fortaleza vs Palmeiras _ SP (BLV A TINH) [geo]
-https://live.inplyr.com/room/598119.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fluminense _ RJ vs Vasco da Gama Saf _ RJ (BEN 10) [geo]
-https://live.inplyr.com/room/612098.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Fluminense _ RJ vs Vasco da Gama Saf _ RJ (HÀ DUY KIÊN) [geo]
-https://live.inplyr.com/room/607400.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 FC Dallas vs Queretaro FC (BLV KAN) [geo]
-https://live.inplyr.com/room/283501.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 FC Dallas vs Queretaro FC (CHAN ĐÊ) [geo]
-https://live.inplyr.com/room/621887.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 FC Dallas vs Queretaro FC (BÚN ĐẬU) [geo]
-https://live.inplyr.com/room/619561.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Nashville vs Club Leon (BLV YONE) [geo]
-https://live.inplyr.com/room/372746.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Nashville vs Club Leon (BLV LUCAS) [geo]
-https://live.inplyr.com/room/304148.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Nashville vs Club Leon (BLV COCA) [geo]
-https://live.inplyr.com/room/327159.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 06/08 Atlanta Dream W vs Phoenix Mercury W (BLV HENRY) [geo]
-https://live.inplyr.com/room/428392.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 06/08 New York Liberty W vs Seattle Storm W (CHAN SENA) [geo]
-https://live.inplyr.com/room/515530.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Washington Mystics W vs Dallas Wings W (HUNTER) [geo]
-https://live.inplyr.com/room/558264.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 06/08 Washington Mystics W vs Dallas Wings W (A CHÈ) [geo]
-https://live.inplyr.com/room/356042.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Deportiva Once Caldas vs America de Cali (BLV ROBBEN) [geo]
 https://live.inplyr.com/room/527383.m3u8
@@ -572,11 +500,20 @@ https://live.inplyr.com/room/187579.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Deportiva Once Caldas vs America de Cali (BLV ENZO) [geo]
 https://live.inplyr.com/room/380460.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (BLV Củ Cải) [geo]
+https://live.inplyr.com/room/360663.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (HẢI THANH) [geo]
 https://live.inplyr.com/room/599634.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (THOMAS) [geo]
 https://live.inplyr.com/room/414317.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (SAO LA) [geo]
+https://live.inplyr.com/room/462413.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (CÔNG CHẤT) [geo]
+https://live.inplyr.com/room/291277.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (BLV COZY) [geo]
 https://live.inplyr.com/room/531989.m3u8
@@ -584,11 +521,23 @@ https://live.inplyr.com/room/531989.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Alianza San Salvador vs CS Herediano (BLV RAMBO) [geo]
 https://live.inplyr.com/room/534055.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Alianza San Salvador vs CS Herediano (BLV LION) [geo]
+https://live.inplyr.com/room/603255.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC (PAN) (VINFAST) [geo]
+https://live.inplyr.com/room/617313.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC (PAN) (BLV CHIVAS) [geo]
 https://live.inplyr.com/room/485739.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC (PAN) (TUẤN CÙI) [geo]
 https://live.inplyr.com/room/400722.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (BÁ PHÚ) [geo]
+https://live.inplyr.com/room/118206.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (BLV CUỘI) [geo]
+https://live.inplyr.com/room/256080.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (BLV TAP) [geo]
 https://live.inplyr.com/room/147801.m3u8
@@ -596,8 +545,26 @@ https://live.inplyr.com/room/147801.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (ZIDANE) [geo]
 https://live.inplyr.com/room/168740.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (RICKHANTER) [geo]
+https://live.inplyr.com/room/123226.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Los Angeles FC vs Club Deportivo Guadalajara (BLV COCA) [geo]
+https://live.inplyr.com/room/327159.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Chicago Sky W vs Los Angeles Sparks W (BLV HENRY) [geo]
+https://live.inplyr.com/room/428392.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Chicago Sky W vs Los Angeles Sparks W (CHAN SENA) [geo]
+https://live.inplyr.com/room/515530.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Abejas vs Astros (HUNTER) [geo]
+https://live.inplyr.com/room/558264.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Gambusinos vs Panteras (KING) [geo]
 https://live.inplyr.com/room/168964.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:05 06/08 Mineros vs Correcaminos (A CHÈ) [geo]
+https://live.inplyr.com/room/356042.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 06/08 Persija Jakarta vs Arema FC (BLV PEWPEW) [geo]
 https://live.inplyr.com/room/109053.m3u8
@@ -611,11 +578,17 @@ https://live.inplyr.com/room/459401.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 06/08 Persija Jakarta vs Arema FC (BLV CÒ) [geo]
 https://live.inplyr.com/room/582342.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 06/08 Akademiya Ontustik vs Khan Tengri FC (BEN 10) [geo]
+https://live.inplyr.com/room/612098.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 06/08 Akademiya Ontustik vs Khan Tengri FC (BLV CÁP) [geo]
 https://live.inplyr.com/room/610677.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 06/08 Akademiya Ontustik vs Khan Tengri FC (TRÀ ĐÁ) [geo]
 https://live.inplyr.com/room/603914.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 06/08 FK Yelimay Semey B vs Kairat Almaty II (BLV VOI) [geo]
+https://live.inplyr.com/room/552716.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 06/08 FK Yelimay Semey B vs Kairat Almaty II (BLV GIÓ) [geo]
 https://live.inplyr.com/room/321443.m3u8
@@ -635,6 +608,15 @@ https://live.inplyr.com/room/552832.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 06/08 Persib Bandung vs Persebaya Surabaya (NGƯỜI CÁ) [geo]
 https://live.inplyr.com/room/595335.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhtyor Karagandy vs FK Kaspiy Aktau B (BLV FOX) [geo]
+https://live.inplyr.com/room/620003.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhtyor Karagandy vs FK Kaspiy Aktau B (RỒNG ĐẤT) [geo]
+https://live.inplyr.com/room/620649.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhtyor Karagandy vs FK Kaspiy Aktau B (BÚN ĐẬU) [geo]
+https://live.inplyr.com/room/619561.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FK Aktobe II vs Ekibastuzets (BLV WUKONG) [geo]
 https://live.inplyr.com/room/511367.m3u8
 
@@ -643,12 +625,6 @@ https://live.inplyr.com/room/406865.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FK Aktobe II vs Ekibastuzets (MP3) [geo]
 https://live.inplyr.com/room/621840.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhtyor Karagandy vs FK Kaspiy Aktau B (BLV FOX) [geo]
-https://live.inplyr.com/room/620003.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 06/08 FC Shakhtyor Karagandy vs FK Kaspiy Aktau B (RỒNG ĐẤT) [geo]
-https://live.inplyr.com/room/620649.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 06/08 Sogdiana Jizak vs FK Andijon (ĐỖ TÚ TÀI) [geo]
 https://live.inplyr.com/room/607552.m3u8
@@ -661,6 +637,9 @@ https://live.inplyr.com/room/602153.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPs vs CS Universitatea Craiova (LÃO LÂM) [geo]
 https://live.inplyr.com/room/527384.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPs vs CS Universitatea Craiova (A BỆU) [geo]
+https://live.inplyr.com/room/484845.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPs vs CS Universitatea Craiova (BLV CÁO) [geo]
 https://live.inplyr.com/room/597929.m3u8
@@ -679,12 +658,6 @@ https://live.inplyr.com/room/618546.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 06/08 Abra Weavers vs Bataan Risers (BRIAN) [geo]
 https://live.inplyr.com/room/122591.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 FC Dallas vs Queretaro FC (Số 6) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1785807919_hd/1785807919_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Nashville SC vs Club Leon (Số 2) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1785807959_hd/1785807959_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 06/08 KRX vs DNS (blv-pery) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -710,71 +683,59 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 06/08 KuPS vs Univ. Craiova (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 06/08 Nashville SC vs León (Ba Rọi Béo) [hls]
-https://wtyi0525.edgemaxcdn.org/live/x2-hd-2025/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Toluca vs Seattle Sounders (Bút Chì) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x8-hd-5304/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 LAFC vs Chivas (Quang Huy) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x21-hd-1151/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:50 06/08 Monterrey vs Orlando City [NAL Cup] [NAL Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289404_1.flv?auth_key=1785984945-1993-0-5b4c14955202911b66256a5353b49e90
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 El Paso Locomotive vs Monterey Bay FC [USA USLC] [USA USLC]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5285123_1.flv?auth_key=1785984950-2263-0-8f1a8125725f3a8f984362684c022239
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Once Caldas vs America de Cali [COL D1] [COL D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5529709_1.flv?auth_key=1785984954-1437-0-7880f53d35dea7045a1f04e0442adf83
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5529709_1.flv?auth_key=1785985838-2079-0-1e410f059b93af1ea8569fe63809b363
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Denver Summit FC Women vs North Carolina Courage Women [USA NWSL] [USA NWSL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5285133_1.flv?auth_key=1785984960-8209-0-56e64181ada948fdf91baaf1397c8015
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5285133_1.flv?auth_key=1785985845-2433-0-708c7dba2eddeb37a58ff91fe361a146
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Mexico U20 vs Panama U20 [CNCF U20] [CNCF U20]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5649382_1.flv?auth_key=1785984966-9133-0-6ee5efced742213b2cb2db7ddae3bb0b
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5649382_1.flv?auth_key=1785985848-3125-0-3b49044826436b2ebc3c147f60270948
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Alianza FC(SLV) vs CS Herediano [CAFU Cup] [CAFU Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5538423_1.flv?auth_key=1785984970-1797-0-ad2a01eb2b04cc77ea35c4b2975d4e8e
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5538423_1.flv?auth_key=1785985854-4338-0-0ce132fb4cfdc9158e787eb44287a677
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Deportivo Saprissa vs Alianza FC(PAN) [CAFU Cup] [CAFU Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5538421_1.flv?auth_key=1785984974-5043-0-ae1057f3e0635ddc2e82d0ef25c7b872
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5538421_1.flv?auth_key=1785985858-7973-0-dec27a064de6ec88b44e7c7561b79920
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 06/08 Toluca vs Seattle Sounders [NAL Cup] [NAL Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289402_1.flv?auth_key=1785984980-5515-0-5861fdd5668992ed283bcb93aa84949d
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 06/08 Las Vegas Lights FC vs Oakland Roots [USA USLC] [USA USLC]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5285125_1.flv?auth_key=1785984987-8608-0-785f07ea120df504198f94cc5108e62b
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289402_1.flv?auth_key=1785985864-2081-0-825ca95e6b48f27ae4eacf120bdefade
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 06/08 Los Angeles FC vs Chivas Guadalajara [NAL Cup] [NAL Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289405_1.flv?auth_key=1785984990-1495-0-516612e5fb998fbaafce1ef8fa137671
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289405_1.flv?auth_key=1785985867-1391-0-dd2d6c1c3e6d627a0c70881970c7f8d3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 06/08 Chicago Sky vs Los Angeles Sparks [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5285225_1.flv?auth_key=1785984994-5831-0-78b982f5e0f3e5e9103f3dbb550b39b0
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5285225_1.flv?auth_key=1785985872-4356-0-9569965b2b81a85124bb295857117e6d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 06/08 Las Animas BC vs ABA Ancud BC [CLBL] [CLBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5622321_1.flv?auth_key=1785984997-3992-0-2dde3a27a0fec972bb342c15edd9c1f9
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5622321_1.flv?auth_key=1785985875-3389-0-83bd2edacdda1de6360ecdc5065de712
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Gambusinos de Fresnillo BC vs Panteras de Aguascalientes BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546660_1.flv?auth_key=1785985003-7314-0-77433153f2bcad8871b8639410189f84
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546660_1.flv?auth_key=1785985879-5031-0-7921486b9920dd562498dbba78a1c581
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Abejas de Leon BC vs Astros de Jalisco BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546662_1.flv?auth_key=1785985009-8846-0-90b40a8ac181bdfb4a55cf543ed5c490
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546662_1.flv?auth_key=1785985883-4245-0-c625cac20c9fb1fa22e5cbe579a6592c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Santos del Potosi BC vs El Calor de Cancun BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546663_1.flv?auth_key=1785985014-7148-0-5afbf4d39ea97c89cea68875f3a7ed02
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546663_1.flv?auth_key=1785985888-9080-0-734389b8da3acd225751b2a2f1e98941
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 06/08 Lobos Puebla BC vs Soles de Mexicali BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546661_1.flv?auth_key=1785985016-7542-0-840cca0bc5a67f69c59b2df3f6bb67ed
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546661_1.flv?auth_key=1785985891-2032-0-7d040bc824ed41d7f8da939ce22aeae5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:05 06/08 Mineros de Zacatecas BC vs Correcaminos UAT BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546664_1.flv?auth_key=1785985019-1272-0-73cd250bf9fb682c8aef4e23e926e874
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546664_1.flv?auth_key=1785985893-9099-0-be9df84f7410983d5c1b777ff9c2f63e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 06/08 Fuerza Regia BC vs Dorados de Chihuahua BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546666_1.flv?auth_key=1785985024-8134-0-94140452e4c6da7601dd4d42eaef134f
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546666_1.flv?auth_key=1785985898-4521-0-fef21d773e146032dd4ed00c8335f1fc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 06/08 Diablos Rojos del Mexico BC vs Freseros Irapuato BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546665_1.flv?auth_key=1785985030-3353-0-c62866e7c73a8950e090dcf66e770f3b
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546665_1.flv?auth_key=1785985904-8749-0-4eba0f7697ab9920f279f3b96c74f2b3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
