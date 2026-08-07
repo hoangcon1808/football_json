@@ -350,12 +350,6 @@ https://hls.lauthaitv.cc/live/bayern-aston-intcf/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/bayern-aston-intcf.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/sin-ind-asean/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/sin-ind-asean.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Viet Nam vs Cambodia (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/vie-cam-asean/index.m3u8
 
@@ -367,6 +361,12 @@ https://hls.lauthaitv.cc/live/vie-cam-asean-bac/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Viet Nam vs Cambodia (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/vie-cam-asean-bac.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/sin-ind-asean/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/sin-ind-asean.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:45 07/08 Naftan Novopolotsk vs Arsenal Dzerzhinsk (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/naftan-arsdzer-blrprem/index.m3u8
@@ -386,17 +386,17 @@ https://hls.lauthaitv.cc/live/sjk-gnistan-finveik/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 07/08 SJK Seinajoen vs Gnistan Helsinki (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/sjk-gnistan-finveik.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/sonder-viborg-densup/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/sonder-viborg-densup.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/sande-kfum-norelite/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/sande-kfum-norelite.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [hls]
+https://hls.lauthaitv.cc/live/sonder-viborg-densup/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [flv]
+https://flv.lauthaitv.cc/live/sonder-viborg-densup.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 08/08 SC Cambuur Leeuwarden vs Excelsior SBV (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/cambuur-excelsior-ned/index.m3u8
@@ -434,44 +434,53 @@ https://hls.lauthaitv.cc/live/vancourver-juarez-leagues/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 08/08 Vancouver Whitecaps vs FC Juarez (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/vancourver-juarez-leagues.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 07/08 Nữ Indonesia vs Nữ Việt Nam (TYSON)
+https://live2.streambylivepulse.com/live/channel33.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 07/08 Nữ Indonesia vs Nữ Việt Nam (HD TYSON) [HD]
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001786080663-0-0-37a350607030980d1eacbcc5a968accb
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 07/08 Nữ Breidablik vs Nữ BGUFK Minsk (RIO)
 https://live2.streambylivepulse.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 07/08 Nữ Breidablik vs Nữ BGUFK Minsk (HD RIO) [HD]
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001786079753-0-0-64ca1df726ca40f491739fd744b34486
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001786080671-0-0-731bf318cf5f5d8a753bad79e567cc62
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 07/08 Queensland Lions SC vs Brisbane Roar (Y) (HIRO)
 https://live2.streambylivepulse.com/live/channel14.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 07/08 Queensland Lions SC vs Brisbane Roar (Y) (HD HIRO) [HD]
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001786079765-0-0-e702d1fa9fc9e6dc834a079b43fbfaaf
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001786080683-0-0-2d27b3f7d351eb4ca76ddb59fc3ef71c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 07/08 Cordoba vs Almeria (OLER)
 https://live2.streambylivepulse.com/live/channel28.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 07/08 Cordoba vs Almeria (HD OLER) [HD]
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001786079771-0-0-d395e644ec0a118734d6e7d4c1bd5613
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001786080691-0-0-44b6391a6bd416866493b085602febed
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:45 07/08 Adelaide Comets FC vs Metrostars SC (SILVA)
 https://live2.streambylivepulse.com/live/channel20.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:45 07/08 Adelaide Comets FC vs Metrostars SC (HD SILVA) [HD]
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001786079779-0-0-d357694f0cb90b1f458f57a730f5e7c8
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001786080700-0-0-8855954890cd94d1782fc3b47fc0c2d3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 07/08 Nữ Gold Coast Utd vs Nữ Capalaba (JEAN)
-https://live2.pro2cdnlive.com/live/channel7.flv
+https://live2.streambylivepulse.com/live/channel7.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 07/08 Nữ Gold Coast Utd vs Nữ Capalaba (HD JEAN) [HD]
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001786080711-0-0-cc88906263c2fb33493f11e04f609aac
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 07/08 Guangsha Lions vs Qingdao Guoxin (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 07/08 Guangsha Lions vs Qingdao Guoxin (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786079793-0-0-2fc28c6aa8021c7dbb702049df70cf9a
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786080718-0-0-466925fdcbbd497dbaf7b7ebd6a05a56
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:15 07/08 Terrafirma Dyip vs NLEX Road Warriors (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:15 07/08 Terrafirma Dyip vs NLEX Road Warriors (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001786079805-0-0-39865ccf62e707dd585b9a2a740f7ba6
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001786080727-0-0-cc565d11ea05e65f102938b1f17549e8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Geraldton Buccaneers vs Willetton Tigers (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
@@ -485,20 +494,17 @@ https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 07/08 Li Ann vs Elena Rybakina (LUCAS)
 https://live2.pro2cdnlive.com/live/channel31.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 07/08 Nữ Indonesia vs Nữ Việt Nam (TYSON)
-https://live2.streambylivepulse.com/live/channel33.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 07/08 Nữ Philippines vs Nữ Thái Lan (HD TYSON) [HD]
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001786080751-0-0-b9164873074dde3f8f3ea3aa6684d871
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 07/08 Nữ Indonesia vs Nữ Việt Nam (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001786079822-0-0-e2fd7d745c91c80556293343a3f0d863
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 07/08 Nữ Philippines vs Nữ Thái Lan (TYSON)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Venezuela vs Paraguay (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 07/08 KT Rolster vs Gen.G Esports (MARTY)
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 07/08 KT Rolster vs Gen.G Esports (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786079837-0-0-47ce1d73b1596d296e090ec141dccee7
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786080765-0-0-9ce9feec5ed47e05bc7bf41d40711205
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 BNK FearX vs Fredit BRION (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -704,14 +710,14 @@ https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (Chim Nhỏ) [hls]
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Cambodia (Ken) [hls]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Cambodia (Kevin) [hls]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (Chim Nhỏ) [hls]
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama F. Marinos vs Kashima Antlers (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
