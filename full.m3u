@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",12:00 | FC Bayern München vs Aston Villa
+https://live05.meung.app/live/90865415.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",10:30 | Gamba Osaka vs Urawa Reds
 https://live05.meung.app/live/82054853.m3u8
 
@@ -16,9 +19,6 @@ https://live05.meung.app/live/16557140.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",11:35 | Beijing Guoan vs Shenzhen Peng City
 https://live05.meung.app/live/87547578.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",12:00 | FC Bayern München vs Aston Villa
-https://live05.meung.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",13:00 | Việt Nam vs Campuchia
 https://live05.meung.app/live/78905744.m3u8
@@ -185,17 +185,17 @@ https://live05.meung.app/live/59444581.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:45 07/08 Naftan Novopolock vs Arsenal Dzyarzhynsk (BLV PEPSI) [hls 2]
 https://live05.miekgo.app/live/59444581.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Xorazm Urganch vs Mashal Muborak (BLV BÍ ĐAO) [flv]
-https://live05.meung.app/live/99121525.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Xorazm Urganch vs Mashal Muborak (BLV BÍ ĐAO) [hls 2]
-https://live05.miekgo.app/live/99121525.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (BLV MONSTER) [flv]
 https://live05.meung.app/live/75915087.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (BLV MONSTER) [hls 2]
 https://live05.miekgo.app/live/75915087.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 08/08 Middlesbrough vs Wrexham (BLV BÍ ĐAO) [flv]
+https://live05.meung.app/live/99121525.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 08/08 Middlesbrough vs Wrexham (BLV BÍ ĐAO) [hls 2]
+https://live05.miekgo.app/live/99121525.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 08/08 Washington Mystics vs Atlanta Dream (BLV POCARI) [flv]
 https://live05.meung.app/live/19919577.flv
@@ -203,17 +203,17 @@ https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 08/08 Washington Mystics vs Atlanta Dream (BLV POCARI) [hls 2]
 https://live05.miekgo.app/live/19919577.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern München vs Aston Villa (Trốc Tru) [FHD1] [FHD1]
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern München vs Aston Villa (Trốc Tru) [FHD2] [FHD2]
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama F. Marinos vs Kashima (Chuối To) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama F. Marinos vs Kashima (Chuối To) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern München vs Aston Villa (Trốc Tru) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern München vs Aston Villa (Trốc Tru) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Beijing Guoan vs Sichuan Jiuniu (Chuối Nhỏ) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
@@ -239,65 +239,17 @@ https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Cambodia (Chuối Đá) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Gandzasar Kapan vs FC Syunik (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9041dd8a6a3b7679af20e076dee029eb/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide Raiders SC vs The Cove FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/094faec481b1c28839b82d5b38716c8a/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FK Arys vs Tobol Kostanai B (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/379060a8be561c75eb05e3b2fbcb11cd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (Lê Hoàn)
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/91333f40ca7f0dbdc6e38bfbfebda551/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:55 07/08 Incheon Hyundai Steel Red Angels Women vs Sejong Sportstoto WFC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3c8887f01b95950d745259790049d942/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:55 07/08 Incheon Hyundai Steel Red Angels Women vs Sejong Sportstoto WFC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-fd02910a12e8ff37a06c/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide City FC vs Playford City (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/979a8b99dacc9e500e5104fab5d2d67b/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide City FC vs Playford City (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-80910a94b8c613216778/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide Raiders SC vs The Cove FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-c3b51038a85ab3eb00f7/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Suwon FC Women vs Gangjin Swans Women (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9ba20d46b73790ccad6eb4ae5a202914/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Suwon FC Women vs Gangjin Swans Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-554e0a1e1bd41e394fb0/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Prospect United FC vs Mt Druitt Town Rangers FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0f10a0ffaf2786cd7e35cc3b883485b5/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Prospect United FC vs Mt Druitt Town Rangers FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-eadde0c9ac6a8979bef5/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Campbelltown City SC vs White City Woodville (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/cb00b7b1cb639cbf02bc8e55641d52ff/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Campbelltown City SC vs White City Woodville (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-40eb325f80f25480cb90/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 UCSA vs Nyva Ternopil (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0ab183f21ece41a0523dc19b445fef72/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 UCSA vs Nyva Ternopil (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-3a4aec9810cfeaf44970/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Almaz Antey Youth vs FC Pari Nizhniy Novgorod Youth (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0bf6220c162bd5c0e799c7dba286b089/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Almaz Antey Youth vs FC Pari Nizhniy Novgorod Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ce74e39d21c36d6c140f/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide Raiders SC vs The Cove FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/094faec481b1c28839b82d5b38716c8a/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide Raiders SC vs The Cove FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-c3b51038a85ab3eb00f7/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:15 07/08 Blacktown Spartans vs Inter Lions (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/eb0ebae825cf1dfe1b3277d7fe7d7599/playlist.m3u8
@@ -326,9 +278,6 @@ https://station1-global.ebaclofen.org/live/3a3fd93ba3322eb39a5b6edab7837b51/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 West Torrens Birkalla vs West Adelaide SC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-56d506ce69e004ef2ee4/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Preston Lions Women vs Melbourne City Youth(W) (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1db4bf5c750d728c2ab4/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red Diamonds (Lý Trị)
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
@@ -338,29 +287,14 @@ https://station1-global.ebaclofen.org/live/e018901f39ad46b905d6e61610518d50/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red Diamonds (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4de668838ff764a68c08/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu Football Club (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d973186a355a67a64ff10893d31ea6b5/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Preston Lions Women vs Melbourne City Youth(W) (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-1db4bf5c750d728c2ab4/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu Football Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0d0acda816b29163e94d/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/907399a118f9c95d376c2ed512d526e2/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/efe3fb5c4d70a410cd3135ab75930cd9/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-7b164e152eabc50a16ad/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/e4d37ea1d8900fdaad0b140ebb30d0cb/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-07213c3df4b6a6a1cafc/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Konopliev Youth vs FK Krasnodar Youth (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/731e2f690fd5bb432c38880e6f5b5119/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Konopliev Youth vs FK Krasnodar Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0c94aab499574605c239/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-e005651ad41ddd448aa5/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gimpo FC vs Chungbuk Cheongju FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6a7a1c7f9fcea4d34a0fd9c0b039e629/playlist.m3u8
@@ -368,17 +302,47 @@ https://station1-global.ebaclofen.org/live/6a7a1c7f9fcea4d34a0fd9c0b039e629/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gimpo FC vs Chungbuk Cheongju FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-bdbca7989be51db1c6df/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/efe3fb5c4d70a410cd3135ab75930cd9/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-7b164e152eabc50a16ad/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Suwon Samsung Bluewings vs Gimhae City (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9e10121d8db2a44f7748e2587d5bde90/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Suwon Samsung Bluewings vs Gimhae City (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-8847ea9638a477a5a23f/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/907399a118f9c95d376c2ed512d526e2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Konopliev Youth vs FK Krasnodar Youth (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/731e2f690fd5bb432c38880e6f5b5119/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e005651ad41ddd448aa5/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Konopliev Youth vs FK Krasnodar Youth (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0c94aab499574605c239/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e4d37ea1d8900fdaad0b140ebb30d0cb/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-07213c3df4b6a6a1cafc/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu Football Club (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/d973186a355a67a64ff10893d31ea6b5/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu Football Club (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0d0acda816b29163e94d/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 China U17 vs River Plate U17 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/572fe28158612e47edad7c2c028b1bab/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 China U17 vs River Plate U17 (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0c9c1cac0280133bb698/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Shanghai U17 vs Arsenal U17 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/4d8b4a347c53dee9ed9800ab58e58a2e/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Shanghai U17 vs Arsenal U17 (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0aae1c789aa38fe74057/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Beijing Guoan vs Shenzhen Peng City (Doanh Chính)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
@@ -389,20 +353,38 @@ https://station1-global.ebaclofen.org/live/6af47826f4b314146f208b4d2e912069/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Beijing Guoan vs Shenzhen Peng City (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-552a6633c106a7f002e5/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:38 07/08 Yueyang Football Team vs Xiangtan Football Team (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e68ab57f9b8c3b5f1f2ad2181c9be844/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:38 07/08 Yueyang Football Team vs Xiangtan Football Team (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-3d61cd8e036aa68aa157/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FK Arys vs Tobol Kostanai B (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/379060a8be561c75eb05e3b2fbcb11cd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (Lê Hoàn)
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/91333f40ca7f0dbdc6e38bfbfebda551/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-7bf2c533ff8faf22e14b/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 FC Lochin vs PFC Terdu (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/8a3fe764dee531b1e75c756ede2cd28a/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Bukhara State University vs FK Gazalkent (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/7d1598013196eb82839de100212c7b65/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Jaiyq vs FK Taraz (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bb2d6733b9d395918fc85c646ce153b5/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (Lưu Triệt)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/4e7cdaee1018fe6f78079c425184e0a7/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Jaiyq vs FK Taraz (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/bb2d6733b9d395918fc85c646ce153b5/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Vietnam vs Cambodia (Lưu Bang)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
@@ -416,11 +398,11 @@ https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Vietnam vs Cambodia (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/09f81a8c9d3323dd88d69d5cc9a07ae8/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 07/08 Chertanovo Moscow Youth vs Rubin Kazan Reserves (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8713ed9958eac05b9ca93718c50ddddd/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 07/08 Fakel Youth vs Spartak Moscow Youth (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/bbb599033fb96380dda82055fd55d5d9/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 07/08 Chertanovo Moscow Youth vs Rubin Kazan Reserves (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8713ed9958eac05b9ca93718c50ddddd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 07/08 CSKA Moscow  Reserves vs Dinamo Makhachkala Youth (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/1fe6143ce1c19ff5b7ccb2be1f73af94/playlist.m3u8
@@ -431,32 +413,32 @@ https://station1-global.ebaclofen.org/live/3305a4293a0da67b2d77265c7d730c34/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 07/08 Lokomotiv Tashkent vs Dinamo Samarqand (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6736b9672ea9d5226832339a6841ff95/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Turan vs Astana B (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d2f1726840bebcda171f6e5ccd401248/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Ararat Yerevan vs Sadarakpat (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/5deb73a68e639588e9d0ee5d76368ac7/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Xorazm Urganch vs Mashal Muborak (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/56b68ce64b1f012e3ed8991feb179262/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Turan vs Astana B (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/d2f1726840bebcda171f6e5ccd401248/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 FC Rodina Moscow Youth vs FK Ural Youth (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5e38f3209ea41a72cccc39d20f21a1a9/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 FC Haka vs JIPPO (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d12b1e9504b7a66fef99a4196d594042/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Ararat-Armenia FC vs Urartu (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/cc88149007b1191214e0d7ff8b230f8d/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Ararat Yerevan vs Sadarakpat (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/5deb73a68e639588e9d0ee5d76368ac7/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 FC Haka vs JIPPO (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/d12b1e9504b7a66fef99a4196d594042/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 07/08 ND Beltinci vs NK Rudar Velenje (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5d38ad0b0fc4dab7244cf6e351940d18/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 07/08 JaPS vs Mikkelin Palloilijat (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/a21a6750dab05edd7a33fba78ce60e30/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 07/08 SK Lisen B vs Nove Mesto na Morave (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3e9d8dbcc90a7b505386724cb1b447f3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 07/08 JaPS vs Mikkelin Palloilijat (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a21a6750dab05edd7a33fba78ce60e30/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:45 07/08 Etar vs Marek Dupnitza (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9c7cbf7881ca591afaa0b33ecd5a44a7/playlist.m3u8
@@ -500,12 +482,6 @@ https://hls.lauthaitv.cc/live/bayern-aston-intcf/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FC Bayern Munich vs Aston Villa (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/bayern-aston-intcf.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/sin-ind-asean/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/sin-ind-asean.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Viet Nam vs Cambodia (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/vie-cam-asean/index.m3u8
 
@@ -517,6 +493,12 @@ https://hls.lauthaitv.cc/live/vie-cam-asean-bac/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Viet Nam vs Cambodia (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/vie-cam-asean-bac.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/sin-ind-asean/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/sin-ind-asean.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:45 07/08 Naftan Novopolotsk vs Arsenal Dzerzhinsk (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/naftan-arsdzer-blrprem/index.m3u8
@@ -536,17 +518,17 @@ https://hls.lauthaitv.cc/live/sjk-gnistan-finveik/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 07/08 SJK Seinajoen vs Gnistan Helsinki (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/sjk-gnistan-finveik.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/sande-kfum-norelite/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/sande-kfum-norelite.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/sonder-viborg-densup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sonderjyske vs Viborg (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/sonder-viborg-densup.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [hls]
+https://hls.lauthaitv.cc/live/sande-kfum-norelite/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 08/08 Sandefjord vs KFUM Oslo (NGƯỜI SẮT) [flv]
+https://flv.lauthaitv.cc/live/sande-kfum-norelite.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 08/08 SC Cambuur Leeuwarden vs Excelsior SBV (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/cambuur-excelsior-ned/index.m3u8
@@ -650,17 +632,17 @@ https://hls.lauthaitv.cc/live/che-milan-intcf/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 08/08 Chelsea vs AC Milan (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/che-milan-intcf.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Thailand vs Myanmar (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/thai-mya-asean/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Thailand vs Myanmar (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/thai-mya-asean.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Malaysia vs Philippines (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/malay-phi-asean/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Malaysia vs Philippines (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/malay-phi-asean.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Thailand vs Myanmar (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/thai-mya-asean/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 08/08 Thailand vs Myanmar (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/thai-mya-asean.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 08/08 Viking vs Sarpsborg 08 (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/viking-sarpsborg-nor/index.m3u8
@@ -758,95 +740,113 @@ https://hls.lauthaitv.cc/live/toluca-lafc-leagues/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:10 09/08 Toluca vs Los Angeles FC (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/toluca-lafc-leagues.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:55 07/08 Nữ Hyundai SteelRed vs Nữ Sejong Sportstoto (LOGAN)
-https://live2.streambylivepulse.com/live/channel23.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:55 07/08 Nữ Hyundai SteelRed vs Nữ Sejong Sportstoto (HD LOGAN) [HD]
-https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001786103156-0-0-6ae8d43960e2ff223a0b3b91904872ad
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide City vs Playford City (POLO)
-https://live2.streambylivepulse.com/live/channel10.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide City vs Playford City (HD POLO) [HD]
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001786103163-0-0-6cdbb5d18696e6d095505865ff13a302
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Campbelltown SC vs White City (TAGE)
 https://live2.streambylivepulse.com/live/channel27.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Campbelltown SC vs White City (HD TAGE) [HD]
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001786103186-0-0-5d7757362123cb58038c75754319bc1c
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001786104054-0-0-c3721d7626e7534e6298b0668ef8689c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama Marinos vs Kashima Antlers (BRADY)
 https://live2.streambylivepulse.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama Marinos vs Kashima Antlers (HD BRADY) [HD]
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001786103195-0-0-3ee0f78b2c2ae785da8375622ae8b378
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001786104062-0-0-334aa041ed98ef1ddd2fbfebdb8e58f8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red (MAX)
 https://live2.streambylivepulse.com/live/channel6.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red (HD MAX) [HD]
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001786103200-0-0-be6dd7ec337abf3be96ecb3a97f87f67
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001786104086-0-0-2402bc3a145c0b6531fe6a8dddd3b047
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Suwon Samsung vs Gimhae City (OLER)
+https://live2.streambylivepulse.com/live/channel28.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Suwon Samsung vs Gimhae City (HD OLER) [HD]
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001786104094-0-0-e149d53e48a20359875c352d1523a1cc
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu FC (TONI)
+https://live2.streambylivepulse.com/live/channel9.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu FC (HD TONI) [HD]
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001786104100-0-0-db1e34ac1edc66026812cff7841460ad
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (XMEN)
+https://live2.streambylivepulse.com/live/channel13.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land FC (HD XMEN) [HD]
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001786104106-0-0-77676f45f7f8b0ccdc22552ab7eb95f7
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners (ZANE)
+https://live2.streambylivepulse.com/live/channel22.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners (HD ZANE) [HD]
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001786104114-0-0-f2a18e5ae0a1979d8b5ac375cd0f18ee
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (BEE)
+https://live2.streambylivepulse.com/live/channel8.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park (HD BEE) [HD]
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001786104123-0-0-6ce9a8df65dc99a8502404976dd1dc9c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Geraldton Buccaneers vs Willetton Tigers (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Geraldton Buccaneers vs Willetton Tigers (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001786103209-0-0-4a30f5ff0c2690c4570293afc29a9438
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001786104131-0-0-8b3ce6a810faab2e4e244c5ffe7a4697
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Jiangsu Dragons vs Shenzhen Leopards (ALAN)
 https://live2.streambylivepulse.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Jiangsu Dragons vs Shenzhen Leopards (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001786103216-0-0-2a2842379a05db084e742459a1954cd3
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001786104137-0-0-59ec6fbb8e6457f20ce4e8399e1dc280
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 BNK FearX vs Fredit BRION (MARTY)
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 BNK FearX vs Fredit BRION (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786103224-0-0-5c51fb1285a87532676c22fbbef08a87
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (ROY)
-https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=fa333ad865754992ae9e2bf525928fa9&wsABSTime=1786146429
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD ROY) [HD]
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001786103232-0-0-a738096fc3fa33719526c04b9722cde1
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD BRADY) [HD]
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001786103237-0-0-6ee4a5f020ade447612f464005a13ede
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (ASTRA)
-https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=7527cdb22a344949897459f47cfb88ab&wsABSTime=1786146440
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD ASTRA) [HD]
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001786103243-0-0-f2530e58ad112b772cdf47696b7019c7
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (RIO)
-https://live2.streambylivepulse.com/live/channel16.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD RIO) [HD]
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001786103249-0-0-7b1bb44528f61a3d0ebfb501fcd0c7dd
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (KEN)
-https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=4d9c5ae9772d4d13d65bbbd362f0da26&wsABSTime=1786146452
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD KEN) [HD]
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001786103255-0-0-93dba6286d210f9edd8e488418ef7893
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FILIP)
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001786103264-0-0-cf2ebf16c97e7a0f53c1e57d9fc18380
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FILIP)
-https://live2.streambylivepulse.com/live/channel19.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FULL HD MAX) [HD]
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001786103268-0-0-4839ba57c9f2ecf9935f83f2c3d59b1c
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786104144-0-0-4b06af6e1721443f6f1810c392d1d66f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 07/08 Hà Nội Buffalo vs Đà Nẵng Dragons (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 07/08 Hà Nội Buffalo vs Đà Nẵng Dragons (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786103276-0-0-2003c4e9a8acc1b6eabfd3116cf3a1a6
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786104151-0-0-4017fe611c48a8d2de5a30af618e08ea
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (ROY)
+https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=e48e0ce2b60ffdd03422cf574ba3bbed&wsABSTime=1786147353
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD ROY) [HD]
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001786104156-0-0-6a724b9ceb35c310359b033f91684224
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD BRADY) [HD]
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001786104163-0-0-6d9159d7a1e481350e2ecd6de83e854c
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (ASTRA)
+https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=edee9bcbcb3ad2a55a05fa532df5979f&wsABSTime=1786147365
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD ASTRA) [HD]
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001786104167-0-0-7d9c11ea78f92cb4bc1fd38829604011
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (RIO)
+https://live2.streambylivepulse.com/live/channel16.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD RIO) [HD]
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001786104173-0-0-1e70e01e868707fbf596b6113da6e560
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (KEN)
+https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=76a4c0a5e2645c9491ecc0d566871a3c&wsABSTime=1786147377
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (HD KEN) [HD]
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001786104179-0-0-d38905aaebee2660c9c5ed0bd7014f2c
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FILIP)
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001786104187-0-0-398badb519255f636b089a6acdf31558
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FILIP)
+https://live2.streambylivepulse.com/live/channel19.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (FULL HD MAX) [HD]
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001786104193-0-0-8e23c7e622eec0516a8fc94fdb7be938
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 08/08 Nữ Mystics vs Nữ Atlanta Dream (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -861,16 +861,10 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.pro2cdnlive.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 07/08 Shifters vs GIANTX (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786103296-0-0-30527e5a97548917018303382e894075
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001786104213-0-0-1a8713a7ba39b7b221395d16ed63dce5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:15 08/08 Team Heretics vs Fnatic (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (KEN) [flv]
-https://cdnflv.xbdbotv.live/live/ZjE5NzAxMDkxc3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2Rob3J3cTQ2N2JqajYzdzdtMXQxcm92Y2k.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (KEN) [hls]
-https://cdnhls.xbdbotv.live/live/ZjE5NzAxMDkxc3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2Rob3J3cTQ2N2JqajYzdzdtMXQxcm92Y2k/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama F. Marinos vs Kashima Antlers (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/ZjE5NzE3Mjc1c2hmNTg3OXQ1aHl6a3RiYmo3d2swbnJlNmRpb2Y5NjQwYWQ5OGt1d2NvbjhkZ3cyMW4.flv
@@ -889,6 +883,12 @@ https://cdnflv.xbdbotv.live/live/ZjE5NzE3Mjcwc3VqaWNlYmlxZzdhZms3YXp3ZWt0N2sxN2R
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red Diamonds (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzE3Mjcwc3VqaWNlYmlxZzdhZms3YXp3ZWt0N2sxN2R3NWR1dDF1YWd5OGR5emJod21kbHYxY3E/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (KEN) [flv]
+https://cdnflv.xbdbotv.live/live/ZjE5NzAxMDkxc3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2Rob3J3cTQ2N2JqajYzdzdtMXQxcm92Y2k.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (KEN) [hls]
+https://cdnhls.xbdbotv.live/live/ZjE5NzAxMDkxc3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2Rob3J3cTQ2N2JqajYzdzdtMXQxcm92Y2k/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Việt Nam vs Campuchia (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/ZjE5NzExNDA2c2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRmNTU4dnN4dTF1ZGdqNXkwbjc2eWoxdnc.flv
@@ -1046,11 +1046,11 @@ https://live.inplyr.com/room/356042.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 07/08 Hanoi Buffaloes vs Da Nang Dragons (HUNTER) [geo]
 https://live.inplyr.com/room/558264.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 BRX vs BRO (Số 12) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1786049544_hd/1786049544_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 07/08 Singapore vs Indonesia (blv-bon) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern München vs Aston Villa (BLV Đại Tá)
+https://customer-ylm2ghjeey27nfvw.cloudflarestream.com/2e037377bff8362c41746caffd0c77eb/manifest/video.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
@@ -1070,89 +1070,80 @@ https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 08/08 Altach vs Tirol (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:55 07/08 Incheon Hyundai Steel Red Angels Women vs Sejong Sportstoto Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289413_1.flv?auth_key=1786103739-7599-0-125a485dae03d65f4001ac5cde10d336
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Almaz Antey U19 vs Pari Nizhny Novgorod U19 [RUS U19] [RUS U19]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289432_1.flv?auth_key=1786103747-5478-0-44be445d9b954fb99202c3fd87d95a65
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Prospect United vs Western City Rangers FC [AUS NSL1] [AUS NSL1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289415_1.flv?auth_key=1786103753-8867-0-41d23ff8b26443aed58b3372c4b1d858
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide City vs Playford City Patriots [AUS NPLSA] [AUS NPLSA]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5294519_1.flv?auth_key=1786103758-2097-0-50f0a5bc134293631204dbced7eef135
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Campbelltown City vs FK Beograd (AUS) [AUS NPLSA] [AUS NPLSA]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5294529_1.flv?auth_key=1786103766-5395-0-af2660397c5de6651db73df61f74e778
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 07/08 Adelaide Croatia Raiders SC vs The Cove FC [AUS SAL1] [AUS SAL1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5294535_1.flv?auth_key=1786103771-6291-0-1a4db22f1da77c21fd6d282269b794bf
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:05 07/08 Tsirang FC vs Thimphu City FC [BHU PL] [BHU PL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5641598_1.flv?auth_key=1786103777-9098-0-0113cc08a85cc4acd39ac4fcff9e45db
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5294535_1.flv?auth_key=1786104634-7474-0-5b08eccd732399c649933865acd55f23
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:15 07/08 Blacktown Spartans vs Inter Lions FC [AUS NSL1] [AUS NSL1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289417_1.flv?auth_key=1786103783-1117-0-59ceabc7c93d06064f0f55c76d3e8f55
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289417_1.flv?auth_key=1786104637-4724-0-66d615d628af0a06c56fa76f4ad79da6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Yokohama F Marinos vs Kashima Antlers [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5532714_1.flv?auth_key=1786103789-6487-0-2850184ff4b64d74317f8c30aeec3c1d
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5532714_1.flv?auth_key=1786104646-7958-0-1f439d59f6a5b63c8e6d58e00f85e5e4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:25 07/08 Hwacheon KSPO Women vs Gyeongju KHNP Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289414_1.flv?auth_key=1786103797-3994-0-f92c96aea7f9d3d45a603285e008d415
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289414_1.flv?auth_key=1786104652-9522-0-2c2babf000544f375ce2a8858d6ee9a7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 West Torrens Birkalla vs West Adelaide SC [AUS NPLSA] [AUS NPLSA]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289424_1.flv?auth_key=1786103801-4848-0-76f2f330514483e357094382f497fd1b
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289424_1.flv?auth_key=1786104661-1551-0-4b974fcbb88c74e9af16b5808b07286a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Gamba Osaka vs Urawa Red Diamonds [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5532715_1.flv?auth_key=1786103804-9801-0-e6e56c1f6bc9d8c64f20768291b092b9
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5532715_1.flv?auth_key=1786104666-8011-0-aaeff5ebeda2931e19798ea3e79b57c3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Suwon FC Women vs Gangjin Swans Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289412_1.flv?auth_key=1786103809-4735-0-68db00fbe9b90934b8e904f32109bad5
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289412_1.flv?auth_key=1786104668-6028-0-e9c186c646716acd11c68e13c3eae930
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:45 07/08 Queensland Lions Women vs Sunshine Coast Wanderers FC Women [AUS WNPQ] [AUS WNPQ]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5661404_1.flv?auth_key=1786103812-3179-0-fa4ad8c91131a63ac0e99dc6126556a0
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5661404_1.flv?auth_key=1786104673-3318-0-fbcbbed7e969a47a15f97cc5998fb51b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Akademiya Konoplev U19 vs Krasnodar U19 [RUS U19] [RUS U19]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289426_1.flv?auth_key=1786103822-4355-0-06c4bc27ce498136b1dc0c623879c172
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289426_1.flv?auth_key=1786104678-2261-0-1d0920736b3f6b202c3124de1ee1f064
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Suwon Samsung Bluewings vs Gimhae FC [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289420_1.flv?auth_key=1786103826-9240-0-8b3ddd3cf72bd3f4bee1e091d96f1d6c
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289420_1.flv?auth_key=1786104685-7763-0-5c702967e0b54da628efa0fa58ed55e9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Yongin FC vs Busan I Park [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289418_1.flv?auth_key=1786103833-9073-0-2ceb8f643d82c3611c935b18357d8f29
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289418_1.flv?auth_key=1786104692-6567-0-5296fa02f1449d91830a0eafe66b5a90
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gyeongnam FC vs Daegu FC [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289421_1.flv?auth_key=1786103844-6342-0-4ddc9f562af283078778bdc4e238433f
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289421_1.flv?auth_key=1786104697-7887-0-167c514152d011f4894eab3b0466ac0b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Hwaseong FC vs Seoul E-Land [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289419_1.flv?auth_key=1786103853-8406-0-cb8d8bfa65d6e4e666b9061363b65a44
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289419_1.flv?auth_key=1786104703-1400-0-357108a4d2e8c39775186d47329cdcd0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Chungnam Asan vs Ansan Greeners [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289423_1.flv?auth_key=1786103860-9625-0-7a336aa4f32101143ca3b885f6f09c44
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289423_1.flv?auth_key=1786104707-5937-0-16e3cea96068fba715dad717a843451c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 07/08 Gimpo FC vs Chungbuk Cheongju FC [KOR K2] [KOR K2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289422_1.flv?auth_key=1786103863-3544-0-5682567a1947c6169fc71a911b6b05de
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289422_1.flv?auth_key=1786104713-5439-0-e4069ee852a25abcc44c7ef21cbe3291
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Beijing Guoan vs Shenzhen Peng City [CHN SL] [CHN SL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5289433_1.flv?auth_key=1786103869-5982-0-7d3bbcde51dc3df52cc55d65a4622148
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5289433_1.flv?auth_key=1786104715-2230-0-e96345a005beeaf8730d2d4e350f74f1
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 China U17 vs River Plate U17 [SH FSC] [SH FSC]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5661408_1.flv?auth_key=1786104719-6518-0-eefb551686d1c290a93a4f1c3f39ff8a
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 07/08 Shanghai U17 vs Arsenal U17 [SH FSC] [SH FSC]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5661409_1.flv?auth_key=1786104724-7323-0-b30566ddb5092a61a80714836c88faac
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 FK Arys vs Tobol Kostanay B [KAZ D2] [KAZ D2]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5285134_1.flv?auth_key=1786104727-2786-0-4a2e41f8168812e2708521922d288403
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 07/08 Bayern Munich vs Aston Villa [AD Cup] [AD Cup]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5299444_1.flv?auth_key=1786104733-1987-0-52971363fd7985079bab4c95ea8d0b73
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Jiangsu Dragons BC vs Shenzhen Leopards BC [CBASL] [CBASL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5603863_1.flv?auth_key=1786103875-6069-0-3754391292b2dd1e1b62c24e37b42af3
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5603863_1.flv?auth_key=1786104737-1513-0-79f95e8ec3554bdf959561c9504afca6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Geraldton Buccaneers BC vs Willetton Tigers BC [ANBL] [ANBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5649806_1.flv?auth_key=1786103882-7422-0-31663d00ff1e50e195ac76b014954b1b
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Israel U18 (W) vs Iceland U18 (W) [WEuroB] [WEuroB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5663047_1.flv?auth_key=1786103889-2128-0-13604397ffb8441880ef924e02bd6d11
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5649806_1.flv?auth_key=1786104741-6313-0-f5553ec5824ac1a7c171c0dff0c8a2f2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 07/08 Portugal U18 (W) vs Ukraine U18 (W) [WEuroB] [WEuroB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5663046_1.flv?auth_key=1786103896-6030-0-1fdc1fbf3c83de8ab59851b776665df2
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5663046_1.flv?auth_key=1786104749-1800-0-37306cd421370637a23829ed4ae78f3e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 Magnolia Hotshots BC vs Meralco Bolts BC [PBAGC] [PBAGC]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5599395_1.flv?auth_key=1786103901-2806-0-ed96cde54b5f90133b67c0e3697b05f4
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5599395_1.flv?auth_key=1786104755-4866-0-11080e013c9e994df563c6ae9edd3ec0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 07/08 China (W) vs Nigeria (W) [FriendlyB] [FriendlyB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5578742_1.flv?auth_key=1786103906-6947-0-f7526782bdf397545e2101db0b4b04d9
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5578742_1.flv?auth_key=1786104759-4155-0-e5ec5aba6f736d10d9bc335492fb4b40
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
