@@ -242,6 +242,9 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 11/08 Jong PSV vs FC Volendam (A Ngao) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Veres Rivne U21 vs Dinamo Kyiv U21 (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-91ac5266a68b01b39c99/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 09/08 Trencin vs Slovan Bratislava (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3b9a88ef15669affb405b1bba9ab79e2/playlist.m3u8
 
@@ -281,12 +284,6 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 FK Orsha vs FC Molodechno (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5c246af3ca7554dd977949998fbfd1ea/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 Smorgon FC vs BATE-2 Borisov (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3711e080356967aed9ab5c4595ab38df/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 Volna Pinsk vs Uni X-Labs Minsk (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/24860cf70e71f2ad435b74c0c0f49521/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 Kommunalnik Slonim vs FK BumProm Gomel (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/40f8b24005d4e34c599dcd35bcf020b7/playlist.m3u8
 
@@ -295,6 +292,12 @@ https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 FC Karpaty Lviv vs LNZ Cherkasy (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/617dcc64726dfc90c84e0c0d4f9ebb4c/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 Smorgon FC vs BATE-2 Borisov (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/3711e080356967aed9ab5c4595ab38df/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 10/08 Volna Pinsk vs Uni X-Labs Minsk (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/24860cf70e71f2ad435b74c0c0f49521/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 10/08 FC Botosani vs Corvinul Hunedoara (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/223fb3dbbb15c48ed5f5bd24dbbdc74f/playlist.m3u8
@@ -341,17 +344,17 @@ https://hls.lauthaitv.cc/live/transinvest-panevezys-lita/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:45 10/08 Transinvest vs FK Panevezys (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/transinvest-panevezys-lita.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 NS Mura vs NK Radomlje (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/mura-radomlje-slo/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 NS Mura vs NK Radomlje (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/mura-radomlje-slo.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 Botev Vratsa vs Slavia Sofia (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/vratsa-sofia-bul1st/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 Botev Vratsa vs Slavia Sofia (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/vratsa-sofia-bul1st.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 NS Mura vs NK Radomlje (NGƯỜI SẮT) [hls]
+https://hls.lauthaitv.cc/live/mura-radomlje-slo/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 NS Mura vs NK Radomlje (NGƯỜI SẮT) [flv]
+https://flv.lauthaitv.cc/live/mura-radomlje-slo.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 10/08 Fakel Voronezh vs Akhmat Grozny (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/fakel-akhmat-rusprem/index.m3u8
@@ -425,50 +428,47 @@ https://hls.lauthaitv.cc/live/barranquilla-pereira-cate/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:05 11/08 Atletico Junior Barranquilla vs Deportivo Pereira (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/barranquilla-pereira-cate.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (ALAN)
-https://live2.streambylivepulse.com/live/channel25.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001786351561-0-0-eba82daefa360624d3054bee134866da
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 10/08 Hong Da vs Diversity Veterans (JEAN)
 https://live2.streambylivepulse.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 10/08 Hong Da vs Diversity Veterans (HD JEAN) [HD]
-https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001786351568-0-0-861bc8b17ca6eccea891c16a0128fe55
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001786352458-0-0-9db7c3a91515533046851cd873f60c7f
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (ALAN)
+https://live2.streambylivepulse.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (HD ALAN) [HD]
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001786352467-0-0-939adc49bf7ce0244c1d2f82c6ed1378
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 10/08 Hongyan Village II vs Halftime Brothers (POLO)
 https://live2.streambylivepulse.com/live/channel10.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 10/08 Hongyan Village II vs Halftime Brothers (HD POLO) [HD]
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001786351593-0-0-e6c6e08b973df76c9acbab44ddc2e821
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001786352491-0-0-3f642f63832260a8d434fd3a4f8b4f02
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 10/08 Shanghai Port U20 vs Hubei Istar U20 (BEE)
 https://live2.streambylivepulse.com/live/channel8.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 10/08 Shanghai Port U20 vs Hubei Istar U20 (HD BEE) [HD]
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001786351602-0-0-c0e30f0fa67b6543038ef960e8f1c789
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 10/08 Alashkert Yerevan vs BKMA (FILIP)
-https://live2.pro2cdnlive.com/live/channel19.flv
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001786352499-0-0-9542c9da7bfb552533cc88a8831c9492
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 10/08 Tuanpo Village vs Jingchi Team (TONI)
 https://live2.streambylivepulse.com/live/channel9.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 10/08 Tuanpo Village vs Jingchi Team (HD TONI) [HD]
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001786351611-0-0-98b22ea4c82863cce0260f0fc98c7cb1
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001786352506-0-0-dd8209b01699bd64f1f3e7e08c20d3e2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 (ZANE)
 https://live2.streambylivepulse.com/live/channel14.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 (HD ZANE) [HD]
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001786351622-0-0-7613f023ee1794757bc624befcc55350
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001786352515-0-0-edb7aeb933066f45c1dc3fc5906c8d92
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 10/08 Manila Batang Quiapo vs San Juan Knights (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 10/08 Manila Batang Quiapo vs San Juan Knights (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786351629-0-0-bca1746f411d007d3f01463138896270
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001786352524-0-0-5745bd7a20ec803e8238251881fe824e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 11/08 Nữ Atlanta Dream vs Nữ Toronto Tempo (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -602,23 +602,17 @@ https://cdnflv.xbdbotv.live/live/ZjE5NzY2Mjk2c3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2R
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 12/08 Olympique Lyon vs Sparta Praha (KEN) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzY2Mjk2c3gwbDFmOWM3ejR0NjR2ZDZnYjlodHA2d2R3djdkZXlhaHFtZXpqZ3RldHdudHgxdDg/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (Titan) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (Titan) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Biñan Tatak Gel (Naruto_77) [flv]
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Biñan Tatak Gel (Naruto_77) [hls]
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 Kharkiv (Saitama) [flv]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (Titan) [flv]
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 Kharkiv (Saitama) [hls]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (Titan) [hls]
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 10/08 Botosani vs Corvinul Hunedoara (Blv đoàn dự) [flv]
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.flv
@@ -632,22 +626,22 @@ https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 10/08 Fakel vs Akhmat Grozny (Người kiến) [hls]
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (BLV HENRY) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (BLV HENRY) [geo]
 https://live.inplyr.com/room/428392.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (CHAN SENA) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (CHAN SENA) [geo]
 https://live.inplyr.com/room/515530.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (HUNTER) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (HUNTER) [geo]
 https://live.inplyr.com/room/558264.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (A CHÈ) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (A CHÈ) [geo]
 https://live.inplyr.com/room/356042.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (KING) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (KING) [geo]
 https://live.inplyr.com/room/168964.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters vs Mindoro Tamaraws (BRIAN) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 10/08 Paranaque Patriots vs Binan Tatak Gel (BRIAN) [geo]
 https://live.inplyr.com/room/122591.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 Kharkiv (BLV TAP) [geo]
@@ -818,11 +812,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1786350778_hd/1786350778_hd@720p.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 10/08 Fakel Voronezh vs FC Terek Groznyi (blv-mason) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 11/08 Adelaide United vs Công An Hà Nội (Ken) [hls]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 11/08 Adelaide United vs Công An Hà Nội (Kevin) [hls]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 11/08 Adelaide United vs Công An Hà Nội (Ken) [hls]
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 10/08 Polissya Zhytomyr vs Metalist 1925 (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
@@ -836,8 +830,14 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 11/08 Vasteras SK vs Djurgarden (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Veres Rivne U21 vs Dynamo Kyiv U21 [UKR U21] [UKR U21]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5653123_1.flv?auth_key=1786353036-4415-0-23ce4f3222cb0fbe9125c4cb1ec9698d
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 10/08 Marikina Shoemasters BC vs Mindoro Tamaraws BC [MPBL] [MPBL]
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5600030_1.flv?auth_key=1786353041-5684-0-cb59b2ff9fba0bd8d7d9426c128f0838
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 10/08 Chien Hsin University (M) vs Caesar Keelung Black Kites BC [FriendlyB] [FriendlyB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5670989_1.flv?auth_key=1786352139-8583-0-2f6addc4ce3f220435c944fc65d655de
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5670989_1.flv?auth_key=1786353046-3445-0-f573d568a696e466b67783fd8c82ceb7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
