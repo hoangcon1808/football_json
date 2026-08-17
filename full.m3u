@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2552214027525015c3545cff636f5e03.png!w80",01:10 | Santos Laguna vs Chivas Guadalajara
 https://live05.meung.app/live/78905744.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",23:45 | Barracas Central vs Rosario Central
-https://live05.meung.app/live/82054853.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80",00:40 | Austin FC vs Dallas
 https://live05.meung.app/live/19919577.m3u8
 
@@ -44,6 +41,9 @@ https://live05.meung.app/live/14707124.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png!w80",18:00 | Al-Raed vs Al Hilal
 https://live05.meung.app/live/02456966.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80",19:00 | Dep. La Coruna vs Elche
+https://live05.meung.app/live/82054853.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80",23:10 | Millonarios vs Deportivo Cali
 https://live05.meung.app/live/87379114.m3u8
 
@@ -76,12 +76,6 @@ https://live05.meung.app/live/78905744.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 17/08 Santos Laguna vs Chivas Guadalajara (BLV 7UP) [hls 2]
 https://live05.miekgo.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central (BLV ROCKSTAR) [flv]
-https://live05.meung.app/live/82054853.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central (BLV ROCKSTAR) [hls 2]
-https://live05.miekgo.app/live/82054853.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:40 17/08 Austin FC vs Dallas (BLV POCARI) [flv]
 https://live05.meung.app/live/19919577.flv
@@ -152,26 +146,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 17/08 Al Anwar vs Al-Ahli Jeddah (Trốc Tru) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central (Doanh Chính)
-https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bcacf07c0f85b5ede2ab73c2677dd0c2/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-27fa65e6dead9d1587f6/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 Sociedad Deportiva Aucas vs Liga Dep Universitaria Quito (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f05ee3c6c8475014ec7aa23ae06cbfba/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 Sociedad Deportiva Aucas vs Liga Dep Universitaria Quito (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4ceab25445711eb70cf3/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 17/08 Independiente Petrolero vs Gualberto Villarroel Deportivo San José (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9958759e1ddb6f559d07aa4253cbaed2/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 17/08 Independiente Petrolero vs Gualberto Villarroel Deportivo San José (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-447bc6a1464fe2d7c25a/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:40 17/08 Austin FC vs FC Dallas (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/1a00bc1fe803ce12363fd3c544f0dd13/playlist.m3u8
@@ -191,11 +170,20 @@ https://station1-global.ebaclofen.org/live/853005db7991a8387803cf3fe29cf671/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 17/08 Santos Laguna vs Club Deportivo Guadalajara (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-c24f11abf52be0dae06e/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 17/08 Independiente Petrolero vs Gualberto Villarroel Deportivo San José (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/9958759e1ddb6f559d07aa4253cbaed2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 17/08 Independiente Petrolero vs Gualberto Villarroel Deportivo San José (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-447bc6a1464fe2d7c25a/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 17/08 FK Sloga Doboj vs Borac Banja Luka (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/85edef980123bc277eeac4e73653b9b3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:30 17/08 Sporting Braga vs Gil Vicente (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f06aefe01136afc3abb6e251bbf2575c/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 Seattle Sounders vs Vancouver Whitecaps (Doanh Chính)
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 Seattle Sounders vs Vancouver Whitecaps (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/cb1b8ef8af858d9331923c509506ff1d/playlist.m3u8
@@ -212,11 +200,11 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 17/08 Polissya Zhytomyr vs Zorya (Lý Trị)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 17/08 Pisa vs Empoli (Lưu Bang)
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 17/08 Al-Anwar Club vs Al-Ahli SFC (Dương Kiên)
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 17/08 Pisa vs Empoli (Lưu Bang)
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 17/08 Al Zulfi vs Al Riyadh (Tào Phi)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
@@ -239,53 +227,41 @@ https://station1-global.ebaclofen.org/live/e94e905b8515cc6b0ef979e789078c12/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 16/08 Grorud vs Tromsdalen (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/29c4120cf9e00276da816401aeeda87d/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 17/08 CA Barracas Central vs CA Rosario Central (SILVA)
-https://live2.livefeedtextbox.com/live/channel20.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 17/08 CA Barracas Central vs CA Rosario Central (HD SILVA) [HD]
-https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=cf662910892b15dc98ab88484b60d1fa&wsABSTime=1786973470
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 17/08 Austin FC vs FC Dallas (FILIP)
 https://live2.livefeedtextbox.com/live/channel19.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 17/08 Austin FC vs FC Dallas (HD FILIP) [HD]
-https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=57ccb090d921d12f561b76af86bff5f4&wsABSTime=1786973476
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=35dd455b604aad180b45ee1837e9343d&wsABSTime=1786974367
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 17/08 Santos Laguna vs Club Guadalajara (ASTRA)
 https://live2.livefeedtextbox.com/live/channel11.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 17/08 Santos Laguna vs Club Guadalajara (HD ASTRA) [HD]
-https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=53e8bed6aca18e36e0b773b4d1383e4a&wsABSTime=1786973485
+https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=e9c6dabb806199b36ded50d0c83fc5fe&wsABSTime=1786974376
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 17/08 Santos del Potosí vs Soles de Mexicali (ALAN)
 https://live2.livefeedtextbox.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 17/08 Santos del Potosí vs Soles de Mexicali (HD ALAN) [HD]
-https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=dc243988d050b245f1c1ce481cac4028&wsABSTime=1786973492
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 17/08 Ben Shelton vs Jaime Faria (LUCAS)
-https://live2.livefeedtextbox.com/live/channel31.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 17/08 Ben Shelton vs Jaime Faria (HD LUCAS) [HD]
-https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=7e0b07bbac61b20985577e1e12156194&wsABSTime=1786973499
+https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=7999f26754c251b07b3089ad47667494&wsABSTime=1786974385
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 Seattle Sounders vs Vancouver Whitecaps (KEN)
 https://live2.livefeedtextbox.com/live/channel18.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 Seattle Sounders vs Vancouver Whitecaps (HD KEN) [HD]
-https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=3ab35921e95fb8c14939a1689c7fb8a0&wsABSTime=1786973505
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=5ec030462d9656f594a58fe03f8d07c4&wsABSTime=1786974394
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 SJ Earthquakes (R) vs Saint Louis City B (JEAN)
 https://live2.livefeedtextbox.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 17/08 SJ Earthquakes (R) vs Saint Louis City B (HD JEAN) [HD]
-https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=0a1bbd4972ea3d0f2083658d675f574e&wsABSTime=1786973513
+https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=5948cbe09b4033eb0f201d4828497173&wsABSTime=1786974404
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 17/08 Club Tijuana vs Cruz Azul (BRADY)
 https://live2.livefeedtextbox.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 17/08 Club Tijuana vs Cruz Azul (HD BRADY) [HD]
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=e3b26c2d00f535c5313f4d504ee09536&wsABSTime=1786973519
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=8279290f961b25566a8504aa6a71ba68&wsABSTime=1786974410
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 17/08 Nữ East Bengal vs Nữ Rajshahi Stars (FILIP)
 https://live2.pro2cdnlive.com/live/channel19.flv
@@ -542,41 +518,38 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 18/08 Buxoro vs Neftchi Fargona (KaKa) [hls]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:45 17/08 Barracas Central vs Rosario Central [ARG D1] [ARG D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5325968_1.flv?auth_key=1786930833-5955-0-076efdc0fb7bdba9cc1416e9cb4b23a3
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 SD Aucas vs LDU Quito [ECU D1] [ECU D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5325987_1.flv?auth_key=1786930840-8544-0-c70f317b24c58e3a73778a549f97a6e9
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5325987_1.flv?auth_key=1786931729-6429-0-39b4ada82ecc1effa13124b384facbbb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:40 17/08 Austin FC vs FC Dallas [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5323897_1.flv?auth_key=1786930842-3072-0-c4bb71a4a5820540665bbf58cdabb02f
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5323897_1.flv?auth_key=1786931733-9558-0-c4b0e1254fa75181e65b2a25feee37ec
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 17/08 Angel City Women vs Washington Spirit Women [USA NWSL] [USA NWSL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5326012_1.flv?auth_key=1786930848-3041-0-a03ad83d616de803de626389e5170cb6
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5326012_1.flv?auth_key=1786931739-1808-0-9afdbbc1efadd06a15076a261641e15b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:10 17/08 Santos Laguna vs Chivas Guadalajara [MEX D1] [MEX D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539354_1.flv?auth_key=1786930851-5656-0-52fb89919e0fbd1e5d319607abc99862
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539354_1.flv?auth_key=1786931745-3309-0-d6077ed09a64c304e337a0da84501bfd
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 17/08 Independiente Petrolero vs CD GV San Jose [BOL D1] [BOL D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5671466_1.flv?auth_key=1786930862-8137-0-e132cfb286a9bf284d96708457a8e436
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 17/08 Independiente Petrolero vs CD GV San Jose [BOL D1] [BOL D1]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5671466_1.flv?auth_key=1786931747-3223-0-399f0c617a3586252255453460e24c23
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 Abejas de Leon BC vs Panteras de Aguascalientes BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546698_1.flv?auth_key=1786930868-1714-0-0ea6aff4a0e0436f6852bc49d3594902
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546698_1.flv?auth_key=1786931754-6697-0-279e7041838a2ff26d59ecd29e896164
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 Gambusinos de Fresnillo BC vs Diablos Rojos del Mexico BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546699_1.flv?auth_key=1786930873-9767-0-d3792ce47d4af68a75a2f3c46a7f1fab
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546699_1.flv?auth_key=1786931757-3579-0-b69ed56e5dea74a1328f29deb71f9595
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:05 17/08 Mineros de Zacatecas BC vs Astros de Jalisco BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546700_1.flv?auth_key=1786930876-3951-0-16ec5e5ce6d81d319b07d14977e7e225
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546700_1.flv?auth_key=1786931761-5828-0-8cc4932e0aacfccd695c61b1fedee353
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 17/08 Correcaminos UAT BC vs El Calor de Cancun BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546701_1.flv?auth_key=1786930880-3374-0-300d25b019f1777666369a8665221326
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546701_1.flv?auth_key=1786931764-4532-0-fbd762a7cba3e04ba779136b662b0c1b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 17/08 Santos del Potosi BC vs Soles de Mexicali BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546702_1.flv?auth_key=1786930885-3349-0-146043869275bc581daabec33079f5f0
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546702_1.flv?auth_key=1786931769-2876-0-da36bb4959bbe609005c05df4f8a275c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 17/08 Santeros de Aguada BC vs Vaqueros de Bayamon BC [PRBSN] [PRBSN]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5657466_1.flv?auth_key=1786930891-4426-0-3c928ac8e746c36b9be404202b3de86b
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5657466_1.flv?auth_key=1786931776-8127-0-352cafd971b62cd96feb07aee99b651f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
