@@ -188,9 +188,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 19/08 Dinamo Zagreb vs Viking (Chuối To) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 18/08 Polissya Zhytomyr U21 vs FC Zorya Luhansk U21 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d5d14375f09e957403892ef45ec8a6d0/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 SD Raiders FC vs Sydney FC (Tào Duệ) [SD]
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
@@ -199,6 +196,12 @@ https://station1-global.ebaclofen.org/live/d34266439454ae5d02308924ca88288d/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 SD Raiders FC vs Sydney FC (Nhà Đài 2) [SD]
 https://hls.streamhub.media/hls/thesport-api-208036ddc3cd49999069/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 18/08 Polissya Zhytomyr U21 vs FC Zorya Luhansk U21 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/d5d14375f09e957403892ef45ec8a6d0/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 18/08 Polissya Zhytomyr U21 vs FC Zorya Luhansk U21 (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-454cee6319c0b556e65c/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 17/08 FK Sloga Doboj vs Borac Banja Luka (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/85edef980123bc277eeac4e73653b9b3/playlist.m3u8
@@ -224,11 +227,11 @@ https://station1-global.ebaclofen.org/live/0be41fc03d6e1d72ac7ed727d958c831/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 18/08 Sogdiana Jizak vs Qizilqum Zarafshon (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/7f8e162bc9d27158f96b8c1e61b900f0/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 18/08 CSKA Moscow vs Akron Togliatti (Lý Trị)
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 18/08 Pirin Blagoevgrad vs FC Hebar Pazardzhik (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5d5c3e691bbb3db3bcb50a74665be197/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 18/08 CSKA Moscow vs Akron Togliatti (Lý Trị)
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 18/08 1. FC Heidenheim 1846 vs FC Bayern Munich (Trần Hoàng)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
@@ -236,11 +239,11 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:05 18/08 Al Okhdood vs Al Khaleej Club (Lê Hoàn)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 18/08 Al-Jabalain vs Al Ettifaq FC (Huyền Diệp)
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 18/08 Al Najma(KSA) vs Al Ittihad Club (Phổ Nghi)
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 18/08 Al-Jabalain vs Al Ettifaq FC (Huyền Diệp)
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 18/08 Hapoel Rishon Lezion vs Hapoel Kfar Saba (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f0a01c40699fc99d8c7184244164e60d/playlist.m3u8
@@ -252,52 +255,88 @@ https://station1-global.ebaclofen.org/live/5316707acfae4382fbc55473d2253b92/play
 https://live2.livefeedtextbox.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 Sydney FC vs SD Raiders FC (HD JOHAN) [SD]
-https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787048173-0-0-0887042372ef1b3ac7c6fb7cc23ff75e
+https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787049068-0-0-98c478b712ee777a5950194257a03848
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 New Taipei Kings vs Shenzhen Makeboluo (R) (TOMMY)
 https://live2.livefeedtextbox.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 New Taipei Kings vs Shenzhen Makeboluo (R) (HD TOMMY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787048198-0-0-e9895aa58f0ed021a438af6a5e040212
+https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787049093-0-0-33f1baef6712afda53db09bc1cd292bb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 18/08 DN SOOPers Challengers vs Nongshim Esports Academy (MARTY)
 https://live2.livefeedtextbox.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 18/08 DN SOOPers Challengers vs Nongshim Esports Academy (HD MARTY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787048211-0-0-46fd1d48a719ac0f7cb09337187f42ce
+https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787049099-0-0-e15a21e1676e335cc2b2480002c6f823
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 18/08 GEN.G Challengers vs Fredit BRION Challengers (HD MARTY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787048225-0-0-9ed156a5dff2a56d9c030865f33d9d09
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 18/08 Shanghai Shenhua vs Beijing Guoan (FILIP)
-https://live2.livefeedtextbox.com/live/channel19.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 18/08 Shanghai Shenhua vs Beijing Guoan (HD FILIP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-19.flv?auth_key=3000001787048236-0-0-bfc6537f53ded81fe9ebff651c8a5ee9
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Svay Rieng FC vs Eastern District (FELIX)
-https://live2.livefeedtextbox.com/live/channel24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Svay Rieng FC vs Eastern District (HD FELIX) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787048243-0-0-ef0c125359cfbc54e9b336e0ac3e339d
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 18/08 Bali United vs Persib Bandung (JEAN)
-https://live2.livefeedtextbox.com/live/channel7.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 18/08 Bali United vs Persib Bandung (HD JEAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787048252-0-0-1f25d8b4a511729bba74a3e621bf0817
+https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787049112-0-0-ed5b98c07c85fc030c2b554a61a2980f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 18/08 Chinese Taipei Blue vs Wonju Dongbu Promy (ALAN)
 https://live2.livefeedtextbox.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 18/08 Chinese Taipei Blue vs Wonju Dongbu Promy (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787048259-0-0-63e3f42acf8d35cdfafc776b9fcdbf3d
+https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787049122-0-0-002f25f0f029a8703dff5b971922e043
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 18/08 Shanghai Shenhua vs Beijing Guoan (FILIP)
+https://live2.livefeedtextbox.com/live/channel19.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 18/08 Shanghai Shenhua vs Beijing Guoan (HD FILIP) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-19.flv?auth_key=3000001787049129-0-0-b155515717ecd35eab021b953017b78c
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Svay Rieng FC vs Eastern District (FELIX)
+https://live2.livefeedtextbox.com/live/channel24.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Svay Rieng FC vs Eastern District (HD FELIX) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787049136-0-0-fa701283f72932a97a61620258320281
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 18/08 Bali United vs Persib Bandung (JEAN)
+https://live2.livefeedtextbox.com/live/channel7.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 18/08 Bali United vs Persib Bandung (HD JEAN) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787049144-0-0-ad849066ce904540e85935f54cf10b68
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (ROY)
+https://live2.livefeedtextbox.com/live/channel1.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (HD ROY) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-1.flv?auth_key=3000001787049153-0-0-9bd52ad26de71ab97e7c8fade02c5f4e
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (NICK)
+https://live2.livefeedtextbox.com/live/channel5.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (HD NICK) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-5.flv?auth_key=3000001787049160-0-0-666aff0e5c8a350baa45286c69d165cb
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (BRADY)
+https://live2.livefeedtextbox.com/live/channel15.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (HD BRADY) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-15.flv?auth_key=3000001787049164-0-0-f68c2bdad6ac36d98427c754fefd7f8c
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (MAX)
+https://live2.livefeedtextbox.com/live/channel6.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (HD MAX) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-6.flv?auth_key=3000001787049176-0-0-01d3ccc462a12d0692d09a0815129c96
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (ASTRA)
+https://live2.livefeedtextbox.com/live/channel11.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Thái Lan vs Singapore (HD ASTRA) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-11.flv?auth_key=3000001787049184-0-0-11ed9457f2a2200875e50488543058a6
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Sardarapat B vs FC Noah B (XMEN)
+https://live2.livefeedtextbox.com/live/channel13.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 18/08 Sardarapat B vs FC Noah B (HD XMEN) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-13.flv?auth_key=3000001787049192-0-0-7b716b8e4b82754f4f47c4ed2b94c51b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Nihon Tengu vs Taiwan Beer Leopards (STEP)
 https://live2.livefeedtextbox.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 18/08 Nihon Tengu vs Taiwan Beer Leopards (HD STEP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787048267-0-0-18a919940d60309596d0fa18851d3ae1
+https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787049200-0-0-8abb673114f41dcb05a411fc4d125a61
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 19/08 Nữ Connecticut Sun vs Nữ Los Angeles Sparks (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
@@ -446,6 +485,9 @@ https://live.inplyr.com/room/123226.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 Southern Districts Raiders vs Sydney FC (QUỐC KHÁNH) [geo]
 https://live.inplyr.com/room/602153.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 18/08 South Korea U18 vs Japan U18 (BRIAN) [geo]
+https://live.inplyr.com/room/122591.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 18/08 Shanghai Shenhua vs Beijing Guoan (CHÍ PHÈO) [geo]
 https://live.inplyr.com/room/273736.m3u8
 
@@ -578,9 +620,6 @@ https://live.inplyr.com/room/406865.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 18/08 Al Okhdood vs Al Khaleej (BOSS) [geo]
 https://live.inplyr.com/room/620504.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 18/08 South Korea U18 vs Japan U18 (BRIAN) [geo]
-https://live.inplyr.com/room/122591.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 19/08 Akhmat Grozny vs Fakel Voronezh (BLV A WIN) [geo]
 https://live.inplyr.com/room/536185.m3u8
 
@@ -651,7 +690,7 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 18/08 New Taipei Kings BC vs Shenzhen Leopards 2 BC [ASTOU] [ASTOU]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5698104_1.flv?auth_key=1787048729-5993-0-a6575893adbb7419189a4ca52269eca2
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5698104_1.flv?auth_key=1787049634-1394-0-ece1c248afc22223e569410286a3f61f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
