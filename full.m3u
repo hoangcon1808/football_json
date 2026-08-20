@@ -1,15 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80",01:40 | Real Salt Lake vs CLB Dallas
-https://live05.meung.app/live/33982309.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",02:40 | CLB LA Galaxy vs San Jose Earthquakes
 https://live05.meung.app/live/14830711.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2d874c6a14447ac110695b300849ca7c.png!w80",01:40 | Colorado Rapids vs Los Angeles FC
-https://live05.meung.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/049b165b7cdeaedffc1966ca7564a87a.png!w80",03:00 | CLB CD FAS vs CLB CSD Municipal
 https://live05.meung.app/live/78905744.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2d874c6a14447ac110695b300849ca7c.png!w80",01:40 | Colorado Rapids vs Los Angeles FC
+https://live05.meung.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",02:00 | Golden State Valkyries vs Minnesota Lynx
 https://live05.meung.app/live/82054853.m3u8
@@ -40,6 +37,9 @@ https://live05.meung.app/live/07808742.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/290bb5a5d16c3896908433bad65712dc.png!w80",12:30 | Nha Trang Dolphins vs Da Nang Dragons
 https://live05.meung.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png!w80",15:00 | Xorazm Urganch vs Lok. Tashkent
+https://live05.meung.app/live/33982309.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/cd338eefa3f2d8f275a952bd55d06b6b.png!w80",15:30 | Arsenal Tula vs R. Volgograd
 https://live05.meung.app/live/16226575.m3u8
@@ -92,6 +92,12 @@ https://live05.meung.app/live/14707124.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Colorado Rapids vs Los Angeles FC (BLV STING) [hls 2]
 https://live05.miekgo.app/live/14707124.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CLB CD FAS vs CLB CSD Municipal (BLV 7UP) [flv]
+https://live05.meung.app/live/78905744.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CLB CD FAS vs CLB CSD Municipal (BLV 7UP) [hls 2]
+https://live05.miekgo.app/live/78905744.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Golden State Valkyries vs Minnesota Lynx (BLV ROCKSTAR) [flv]
 https://live05.meung.app/live/82054853.flv
 
@@ -103,12 +109,6 @@ https://live05.meung.app/live/02456966.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Vancouver Whitecaps vs Houston Dynamo (BLV SODA) [hls 2]
 https://live05.miekgo.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CLB CD FAS vs CLB CSD Municipal (BLV 7UP) [flv]
-https://live05.meung.app/live/78905744.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CLB CD FAS vs CLB CSD Municipal (BLV 7UP) [hls 2]
-https://live05.miekgo.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 20/08 Rovers FC W vs East Bengal W (BLV BÍ ĐAO) [flv]
 https://live05.meung.app/live/99121525.flv
@@ -197,35 +197,23 @@ https://station1-global.ebaclofen.org/live/e24f6b233c2337739e4d971a129ca62a/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Real Salt Lake vs FC Dallas (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-aef3d0de233f13f4de9d/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Seattle Sounders vs Austin FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/39327165d88e06c9e1c30e83362bfd1a/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Seattle Sounders vs Austin FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-7fd20c48c5e513793218/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Colorado Rapids vs Los Angeles FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3ddd00c387de5cd49d530efe6e19f4f6/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Colorado Rapids vs Los Angeles FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-49fd78ba5a740dea2b4c/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Seattle Sounders vs Austin FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/39327165d88e06c9e1c30e83362bfd1a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Seattle Sounders vs Austin FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-7fd20c48c5e513793218/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 20/08 Phoenix Rising FC vs Colorado Springs (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/e71a539089870078a8fd3f715278f552/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 20/08 Phoenix Rising FC vs Colorado Springs (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-9f55a8f0bda864edfbee/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Portland Timbers vs San Diego FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/de156a38c799e3d5082b4dfbca11edda/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Portland Timbers vs San Diego FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-fd4265a45c98eb124c84/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Los Angeles Galaxy vs San Jose Earthquakes (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1c36cbf41c9622d1b67c465b4a8b18aa/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Los Angeles Galaxy vs San Jose Earthquakes (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1178b2eaa7ce414d4d30/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Vancouver Whitecaps vs Houston Dynamo (Lưu Triệt)
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
@@ -236,6 +224,18 @@ https://station1-global.ebaclofen.org/live/1a83054537b7631075bdbaa7cde2c106/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Vancouver Whitecaps vs Houston Dynamo (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-92f3054a1b5d1345379c/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Los Angeles Galaxy vs San Jose Earthquakes (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/1c36cbf41c9622d1b67c465b4a8b18aa/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Los Angeles Galaxy vs San Jose Earthquakes (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-1178b2eaa7ce414d4d30/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Portland Timbers vs San Diego FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/de156a38c799e3d5082b4dfbca11edda/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Portland Timbers vs San Diego FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-fd4265a45c98eb124c84/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CD FAS vs CSD Municipal (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/0fb66a61f67f24607209cd8b74af207b/playlist.m3u8
 
@@ -245,23 +245,26 @@ https://hls.streamhub.media/hls/thesport-api-6e3e20b351497796f56e/master.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 20/08 Tobol Kostanai B vs Khan Tengri FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/a3433181f8ee0f2f911d6df801885517/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FC Lochin vs QMU Jayxun (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c5597934d7573e74f9f032940c232d56/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 Akademiya Ontustik vs Ekibastuzets (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/e769091846b3efd6f109746d729c95a4/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FK Arys vs FK Taraz (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/a28db1129e6813fb93e4ffaa5131ace9/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FK Yelimay Semey B vs FK Aktobe II (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/ff87376c3c06bd9d41db2ca8da171258/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 Olympic MobiUz vs Aral Nukus (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/f4c3cd9a1c397c8a0dd008568e8691ad/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FK Van Charentsavan vs FC Syunik (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/232ed9f8685115fd5718bc0c2fe62a77/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 Olympic MobiUz vs Aral Nukus (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/f4c3cd9a1c397c8a0dd008568e8691ad/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 Akademiya Ontustik vs Ekibastuzets (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e769091846b3efd6f109746d729c95a4/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FK Yelimay Semey B vs FK Aktobe II (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ff87376c3c06bd9d41db2ca8da171258/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 20/08 FC Lochin vs QMU Jayxun (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c5597934d7573e74f9f032940c232d56/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 20/08 CSA Steaua Bucuresti vs FK Csikszereda Miercurea Ciuc (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c4344951643b9e16acd479bc5f619af3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 20/08 Bunyodkor vs FK Kokand 1912 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/bdff5a55ad5f08ba5d75e8d0bac62f33/playlist.m3u8
@@ -269,23 +272,20 @@ https://station1-global.ebaclofen.org/live/bdff5a55ad5f08ba5d75e8d0bac62f33/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 20/08 Yaypan FK vs Pakhtakor II (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/04fa7514f3fe8097189c135ec99ce73b/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 20/08 CSA Steaua Bucuresti vs FK Csikszereda Miercurea Ciuc (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c4344951643b9e16acd479bc5f619af3/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:15 20/08 Al-Wakrah SC vs Qatar SC (Huyền Diệp)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/08 Xorazm Urganch vs Lokomotiv Tashkent (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/62e13098b1d3ba74f626a41508ed8a11/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/08 Käpylän Pallo vs JIPPO (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/a3a0a3ef334b618246f72a62eb83b97d/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/08 FC Kairat Almaty vs Anderlecht (Ngô Quyền)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Jagiellonia Bialystok vs FC Iberia 1999 Tbilisi (Lý Trị)
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/08 Käpylän Pallo vs JIPPO (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a3a0a3ef334b618246f72a62eb83b97d/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Inter Turku vs FC Copenhagen (Tào Phi)
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Mjallby AIF vs Red Bull Salzburg (Lưu Bang)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
@@ -293,68 +293,68 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Lincoln Red Imps FC vs Larne FC (Tôn Quyền)
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Inter Turku vs FC Copenhagen (Tào Phi)
-https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 20/08 Jagiellonia Bialystok vs FC Iberia 1999 Tbilisi (Lý Trị)
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Seattle Sounders vs Austin FC (NEMO)
 https://live2.livefeedtextbox.com/live/channel17.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Seattle Sounders vs Austin FC (HD NEMO) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-17.flv?auth_key=3000001787195772-0-0-8faa1b016ce24f29b2dd849ee3ef8d9b
+https://live2.deliverfluxlive.com/livecdn/channel-17.flv?auth_key=3000001787196669-0-0-5100261b8adaa7f00af9adc16df37a27
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Real Salt Lake vs FC Dallas (LOGAN)
 https://live2.livefeedtextbox.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Real Salt Lake vs FC Dallas (HD LOGAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-23.flv?auth_key=3000001787195777-0-0-6eb7b82f0908ee4bd78331166ea146ae
+https://live2.deliverfluxlive.com/livecdn/channel-23.flv?auth_key=3000001787196676-0-0-0a4ab581e04a3ea860a3d8f13604855a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Colorado Rapids vs Los Angeles FC (TOM)
 https://live2.livefeedtextbox.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Colorado Rapids vs Los Angeles FC (HD TOM) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-4.flv?auth_key=3000001787195787-0-0-5fdd75e122b8dccd512ed3aab4d337cf
+https://live2.deliverfluxlive.com/livecdn/channel-4.flv?auth_key=3000001787196686-0-0-137f95bca88e3bea5b3966733be2d52a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Portland Timbers vs San Diego FC (RIO)
 https://live2.livefeedtextbox.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Portland Timbers vs San Diego FC (HD RIO) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-16.flv?auth_key=3000001787195794-0-0-44b4389950e36bd6301d5a2fa6e6528b
+https://live2.deliverfluxlive.com/livecdn/channel-16.flv?auth_key=3000001787196692-0-0-4f6751834e826a9855bb7cf84d445c07
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 L.A Galaxy vs SJ Earthquakes (XMEN)
 https://live2.livefeedtextbox.com/live/channel13.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 L.A Galaxy vs SJ Earthquakes (HD XMEN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-13.flv?auth_key=3000001787195802-0-0-78a926d5575399440f2a5a889f4f6d92
+https://live2.deliverfluxlive.com/livecdn/channel-13.flv?auth_key=3000001787196701-0-0-21f31c9ffeb8043f8780d7f7e3085afb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Vancouver Whitecaps vs Houston Dynamo (ZANE)
 https://live2.livefeedtextbox.com/live/channel22.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Vancouver Whitecaps vs Houston Dynamo (HD ZANE) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-22.flv?auth_key=3000001787195809-0-0-238afeab195073052a3fef774f3f4be5
+https://live2.deliverfluxlive.com/livecdn/channel-22.flv?auth_key=3000001787196706-0-0-ef4d9ad7bbaaa16c6ce851eb9828cbe2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CD FAS vs Municipal (RAVEN)
 https://live2.livefeedtextbox.com/live/channel21.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CD FAS vs Municipal (HD RAVEN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-21.flv?auth_key=3000001787195817-0-0-e4501282ff86604830cdf015992f3d7e
+https://live2.deliverfluxlive.com/livecdn/channel-21.flv?auth_key=3000001787196713-0-0-775870c5964207a99bfca632d4832317
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Nữ Golden State vs Nữ Minnesota Lynx (ALAN)
 https://live2.livefeedtextbox.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Nữ Golden State vs Nữ Minnesota Lynx (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787195824-0-0-0aa3ec96d86806264cbbc621c217b557
+https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787196721-0-0-199a9ee9896c99028fcca915faf1c21f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Dorados de Chihuahua vs Abejas de León (STEP)
 https://live2.livefeedtextbox.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Dorados de Chihuahua vs Abejas de León (HD STEP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787195830-0-0-d9bca8d411c9a6766f5cbb179e75cd45
+https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787196730-0-0-4b135b06cd330167a36bf75af8c9a68b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Nữ Senegal vs Nữ Mexico (TOMMY)
 https://live2.livefeedtextbox.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Nữ Senegal vs Nữ Mexico (HD TOMMY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787195838-0-0-ebef7a960d1e35b8c8916341fec754f8
+https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787196738-0-0-ffef7bd446f826d83e910fca54eaf370
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 20/08 Nữ NAPA Rovers FC vs Nữ East Bengal (BRADY)
 https://live2.pro2cdnlive.com/live/channel15.flv
@@ -405,10 +405,10 @@ https://live2.pro2cdnlive.com/live/channel8.flv
 https://live2.pro2cdnlive.com/live/channel-8.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 20/08 Nữ Henan Yaoxin vs Nữ Liaoning Hengye (HD STEP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787195860-0-0-916596339ea182addec986aa48b18cb2
+https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787196754-0-0-fe23eda05c1e79a7379727588a96c690
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 20/08 Wonju Dongbu Promy vs Nhật Bản Jones (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787195866-0-0-e533666ece210217656549ea8ae9ebf5
+https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787196760-0-0-3e675eab52d89a8080a41afc80cfd9b3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 20/08 Chinese Taipei White vs Malaysia (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -686,9 +686,6 @@ https://live.inplyr.com/room/406865.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 20/08 Arsenal Tula vs Rotor Volgograd (VINFAST) [geo]
 https://live.inplyr.com/room/617313.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 20/08 Marathon vs Alianza FC (Số 13) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1787162147_hd/1787162147_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 20/08 Real Salt Lake vs FC Dallas (Số 17) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787162180_hd/1787162180_hd@720p.m3u8
 
@@ -700,9 +697,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1787162294_hd/1787162294_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Vancouver Whitecaps FC vs Houston Dynamo (Số 5) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787184579_hd/1787184579_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:10 20/08 Houston Astros vs Los Angeles Angels (Số 7) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1787162472_hd/1787162472_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 20/08 CD FAS vs CSD Municipal (Số 13) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787162358_hd/1787162358_hd@720p.m3u8
@@ -732,40 +726,37 @@ https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Colorado Rapids vs Los Angeles FC [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335213_1.flv?auth_key=1787196330-1988-0-ca6c593c7103f3e139fee5f2137a774d
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335213_1.flv?auth_key=1787197233-5730-0-a4a3f6e19baf5166867f02d518f019c0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Seattle Sounders vs Austin FC [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335211_1.flv?auth_key=1787196333-1153-0-ddd2c048314f781b50f10f781c5e48aa
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335211_1.flv?auth_key=1787197237-7700-0-6f66b214752ebe3918cb0aae5f129dad
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:40 20/08 Real Salt Lake vs FC Dallas [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335212_1.flv?auth_key=1787196339-5190-0-271906e86d549041ef0afd7636288d22
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335212_1.flv?auth_key=1787197243-4704-0-a6e2e7e87b6641deef08a20e79af046d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 20/08 Phoenix Rising vs Colorado Springs Switchbacks [USA USLC] [USA USLC]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335188_1.flv?auth_key=1787196342-7024-0-381711ef1db2e8fe6f0bc9c32702fddb
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335188_1.flv?auth_key=1787197248-1359-0-b4e11768b5208c9dfa75281be2223069
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Portland Timbers vs San Diego FC [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335215_1.flv?auth_key=1787196347-2430-0-e077dc8834467585eed8c8dba08cdd03
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Vancouver Whitecaps vs Houston Dynamo [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335214_1.flv?auth_key=1787196352-3971-0-cdb6cc45791cbc3b199723454b739d5e
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335215_1.flv?auth_key=1787197252-7774-0-426bb6f412cd6206bd13579b1de8faee
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:40 20/08 Los Angeles Galaxy vs San Jose Earthquakes [USA MLS] [USA MLS]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5335217_1.flv?auth_key=1787196354-7205-0-a19981161cbfd3aa56322e1fde39296e
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5335217_1.flv?auth_key=1787197261-7243-0-52a2e548bbcedc745fb557658a6decd0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Golden State Valkyries vs Minnesota Lynx [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5335237_1.flv?auth_key=1787196359-4249-0-56db89ed67f7813d4173ee2821dd9615
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5335237_1.flv?auth_key=1787197264-1672-0-b08fde80e6e4a0ce48dc807e8440cadf
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 20/08 Freseros Irapuato BC vs El Calor de Cancun BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546703_1.flv?auth_key=1787196363-6956-0-c33c99dce49dc6c68e120e6cfdb7665b
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546703_1.flv?auth_key=1787197269-3558-0-3000e28b3b7f8ce427345088bd368fd2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 20/08 Fuerza Regia BC vs Gambusinos de Fresnillo BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546705_1.flv?auth_key=1787196369-6803-0-19283826007187fd38735ecc4d91c091
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546705_1.flv?auth_key=1787197273-3068-0-88920eb0c222e4ddc7879578d3a19d66
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 20/08 Dorados de Chihuahua BC vs Abejas de Leon BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546704_1.flv?auth_key=1787196371-1718-0-ab32a7e8ef9c2cf00d9512bd4726ca6e
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546704_1.flv?auth_key=1787197278-6173-0-62c0c3d7c650d50b3343acf43c06b9a0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 20/08 Senegal (W) vs Mexico (W) [WOlymB] [WOlymB]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5681918_1.flv?auth_key=1787196378-3067-0-410c0f0236237952fce922d168b979aa
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5681918_1.flv?auth_key=1787197285-2593-0-01f2f27ac00e379a2913a94b873be0bd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
