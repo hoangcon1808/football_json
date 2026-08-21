@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",10:00 | Kashiwa Reysol vs V Varen Nagasaki
-https://live05.meung.app/live/14830711.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",10:30 | CLB Tokyo vs Chiba
 https://live05.meung.app/live/87547578.m3u8
 
@@ -52,6 +49,9 @@ https://live05.meung.app/live/75748097.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80",02:00 | Toronto Tempo vs Portland Fire
 https://live05.meung.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",03:10 | Juarez vs Club America
+https://live05.meung.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",16:30 | Inter Milan vs A.C. Monza
 https://live05.meung.app/live/90865415.m3u8
@@ -118,12 +118,6 @@ https://live05.meung.app/live/87547578.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 CLB Tokyo vs Chiba (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 21/08 Sài Gòn Heat vs Hochiminh City Wings (BLV POCARI) [flv]
-https://live05.meung.app/live/19919577.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 21/08 Sài Gòn Heat vs Hochiminh City Wings (BLV POCARI) [hls 2]
-https://live05.miekgo.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Fc Meshakhte Tkibuli vs Dinamo Batumi (BLV MONSTER) [flv]
 https://live05.meung.app/live/75915087.flv
@@ -212,9 +206,6 @@ https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United Chiba (A Ngao) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Japan vs Hong Kong (Chuối Tây) [FHD] [FHD]
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Johor Darul Takzim FC vs Kuching FA (Trốc Tru) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 
@@ -227,14 +218,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 22/08 Real Betis vs Real Sociedad (Chuối Chao) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Drukpa FC vs Thimphu City (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/b9182bdf120b82a7fdf6529e6c564e90/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Hwacheon KSPO WFC vs Seoul Amazones Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8edbd159f3c5b15cb33a105de55ffc60/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Sejong Sportstoto WFC vs Gangjin Swans Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/39a661999f7384b9f8e6fb33c4dea94d/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Sejong Sportstoto WFC vs Gangjin Swans Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-4823f51cf5c9361ee5b1/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Hwacheon KSPO WFC vs Seoul Amazones Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-a6ad2d283a2c3083a241/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki (Phổ Nghi)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
@@ -245,30 +233,6 @@ https://station1-global.ebaclofen.org/live/bd9ebe219527b18ebcd33d406a24377e/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-676393366a0eaf39361a/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Adelaide Olympic vs Adelaide Atletico (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/670a7bc0c5052d57672d5213b0d390bf/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Adelaide Olympic vs Adelaide Atletico (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-efd778e29db8812d29c7/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Incheon Hyundai Steel Red Angels Women vs Mungyeong Sangmu WFC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/46311fd1e66a31921c76db87e68b82a9/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Incheon Hyundai Steel Red Angels Women vs Mungyeong Sangmu WFC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-7771de0ef106d9d49a43/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Hwacheon KSPO WFC vs Seoul Amazones Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8edbd159f3c5b15cb33a105de55ffc60/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Hwacheon KSPO WFC vs Seoul Amazones Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-a6ad2d283a2c3083a241/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Bentleigh Greens Women vs Preston Lions Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8ccaab5ec796d095cc2dddd5cc929390/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Bentleigh Greens Women vs Preston Lions Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-803d2e2ec6f803efa5e5/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United Ichihara Chiba (Tào Phi)
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 
@@ -277,6 +241,18 @@ https://station1-global.ebaclofen.org/live/8e33bfbf54865eabd9b1b651ab3adf84/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United Ichihara Chiba (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-0a598ebff27352ec6ddf/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Bentleigh Greens Women vs Preston Lions Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8ccaab5ec796d095cc2dddd5cc929390/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Bentleigh Greens Women vs Preston Lions Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-803d2e2ec6f803efa5e5/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Lokomotiv Kyiv vs Probiy Horodenka (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a3e082e97b9d4bd1fc635c9bececba04/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Lokomotiv Kyiv vs Probiy Horodenka (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5315ac39337e447bc1a8/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Ningbo FC U20 vs Wuhan Three Towns U20 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/90414f6448461a0406e8cab41cceb6d2/playlist.m3u8
@@ -290,11 +266,8 @@ https://station1-global.ebaclofen.org/live/a9b74ff332d61c7cccbb1c7f4baf17bc/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Podillya Khmelnytskyi vs FC Victoria Mykolaivka (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-e6ab10872bf43f609cdc/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Lokomotiv Kyiv vs Probiy Horodenka (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/a3e082e97b9d4bd1fc635c9bececba04/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Lokomotiv Kyiv vs Probiy Horodenka (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5315ac39337e447bc1a8/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Drukpa FC vs Thimphu City (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/b9182bdf120b82a7fdf6529e6c564e90/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 20/08 Nacional Potosi vs Real Tomayapo (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/a18db3f4ee6202dc8ae85e44e30e6f40/playlist.m3u8
@@ -335,89 +308,77 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:35 21/08 Al-Nasr Dubai vs Al Wahda(UAE) (Trần Hoàng)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Eastern AA vs Sha Tin (FELIX)
-https://live2.livefeedtextbox.com/live/channel24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Eastern AA vs Sha Tin (HD FELIX) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787312776-0-0-c9c4f091a58b0c4375cb6d591da45bc3
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Nữ Shanghai Jiao Tong Uni vs Nữ Shanxi Zhuyeqing (ALAN)
-https://live2.livefeedtextbox.com/live/channel25.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Nữ Shanghai Jiao Tong Uni vs Nữ Shanxi Zhuyeqing (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787312785-0-0-43208003a694b98c2ff01646b9d9f7df
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki (NICK)
 https://live2.livefeedtextbox.com/live/channel5.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki (HD NICK) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-5.flv?auth_key=3000001787312796-0-0-07139a8f8363d7119a466875168d6538
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ Hyundai SteelRed vs Nữ Boeun Sangmu (HIRO)
-https://live2.livefeedtextbox.com/live/channel14.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ Hyundai SteelRed vs Nữ Boeun Sangmu (HD HIRO) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-14.flv?auth_key=3000001787312803-0-0-6db8f862c13d467f312aff318af5fc8f
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ Sejong Sportstoto vs Nữ Changnyeong (LOGAN)
-https://live2.livefeedtextbox.com/live/channel23.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ Sejong Sportstoto vs Nữ Changnyeong (HD LOGAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-23.flv?auth_key=3000001787312809-0-0-6df1d619de66a2ec080e70cb75795b65
+https://live2.deliverfluxlive.com/livecdn/channel-5.flv?auth_key=3000001787313673-0-0-caa34480484ae5cfac9c6f59ca052bf7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ KSPO vs Nữ Seoul Amazones (JEAN)
 https://live2.livefeedtextbox.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ KSPO vs Nữ Seoul Amazones (HD JEAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787312817-0-0-8962a284ded5600c3191aefe6b94baf3
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787313681-0-0-73daf647e7a25d3f8f96bd000039f03f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United (BRADY)
 https://live2.livefeedtextbox.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United (HD BRADY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-15.flv?auth_key=3000001787312824-0-0-fc77b18dbc88c32687e9e19dc4c0a807
+https://live2.deliverfluxlive.com/livecdn/channel-15.flv?auth_key=3000001787313692-0-0-b75393581c2b90337c0c3707a7cfac00
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Northcote City vs Brunswick Juventus (FILIP)
 https://live2.livefeedtextbox.com/live/channel19.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Northcote City vs Brunswick Juventus (HD FILIP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-19.flv?auth_key=3000001787312832-0-0-1c7677794ad19f5ebd5505ce7661f1ec
+https://live2.deliverfluxlive.com/livecdn/channel-19.flv?auth_key=3000001787313702-0-0-298a89004209e369fd68374a3f4b6c25
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nữ Bentleigh Greens vs Nữ Preston Lions (JOHAN)
 https://live2.livefeedtextbox.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nữ Bentleigh Greens vs Nữ Preston Lions (HD JOHAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787312839-0-0-07911baa6504bf92164925073b20d6bc
+https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787313709-0-0-1612b925ee670331af622ad8d9139a63
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Ningbo FC U20 vs Wuhan Towns U21 (OLER)
 https://live2.livefeedtextbox.com/live/channel28.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Ningbo FC U20 vs Wuhan Towns U21 (HD OLER) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-28.flv?auth_key=3000001787312846-0-0-97e842f6dc52eb64d3ac606c7120b547
+https://live2.deliverfluxlive.com/livecdn/channel-28.flv?auth_key=3000001787313716-0-0-8c33c9436a977fbdf2b9223f16b5318f
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Eastern AA vs Sha Tin (FELIX)
+https://live2.livefeedtextbox.com/live/channel24.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Eastern AA vs Sha Tin (HD FELIX) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-24.flv?auth_key=3000001787313724-0-0-3d67d7142143ae6970e6559bb32d84c4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ DongGuan vs Nữ Henan Yaoxin (STEP)
 https://live2.livefeedtextbox.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Nữ DongGuan vs Nữ Henan Yaoxin (HD STEP) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787312854-0-0-6353472357e0b989ff15b88a55076e6c
+https://live2.deliverfluxlive.com/livecdn/channel-26.flv?auth_key=3000001787313730-0-0-78a1f9604c65ab771832299e2e8766f1
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nữ Nhật Bản vs Nữ Hong Kong (TYSON)
-https://live2.livefeedtextbox.com/live/channel33.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Nữ Shanghai Jiao Tong Uni vs Nữ Shanxi Zhuyeqing (ALAN)
+https://live2.livefeedtextbox.com/live/channel25.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nữ Nhật Bản vs Nữ Hong Kong (HD TYSON) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787312862-0-0-05e3bab01902fd6e6cafab60bca0902c
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Nữ Shanghai Jiao Tong Uni vs Nữ Shanxi Zhuyeqing (HD ALAN) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787313736-0-0-39db71c557613a93c1711f3a4821f90d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 KT Rolster vs T1 (MARTY)
 https://live2.livefeedtextbox.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 KT Rolster vs T1 (HD MARTY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787312867-0-0-c2f74bb0e8d29640f8436cb8a85381bd
+https://live2.deliverfluxlive.com/livecdn/channel-30.flv?auth_key=3000001787313742-0-0-e35d6d7d47596abcc39b056ba835c2e4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 21/08 Sài Gòn Heat vs Hồ Chí Minh Wings (TOMMY)
 https://live2.livefeedtextbox.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 21/08 Sài Gòn Heat vs Hồ Chí Minh Wings (HD TOMMY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787312873-0-0-191279aab390b0629c25b9c69397ed17
+https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787313750-0-0-633663b51bdfa76c5c1d3e53b15997a3
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Johor Darul Takzim vs Kuching City FC (TOM)
+https://live2.livefeedtextbox.com/live/channel4.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Johor Darul Takzim vs Kuching City FC (HD TOM) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-4.flv?auth_key=3000001787313757-0-0-ed70eae494148da00f4a017457bbeeff
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:30 22/08 Nữ Mystics vs Nữ Minnesota Lynx (ALAN)
 https://live2.pro2cdnlive.com/live/channel25.flv
@@ -441,13 +402,13 @@ https://live2.pro2cdnlive.com/live/channel-26.flv
 https://live2.livefeedtextbox.com/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/08 Constantin Frantzen vs Theo Arribage (HD LUCAS) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-31.flv?auth_key=3000001787312887-0-0-997e70e3dda901c5386b2a851e43f788
+https://live2.deliverfluxlive.com/livecdn/channel-31.flv?auth_key=3000001787313769-0-0-d1a749ae7d55c1c7ab251769908a2da2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/08 Luciano Darderi vs Marcel Granollers (VIC)
 https://live2.livefeedtextbox.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/08 Luciano Darderi vs Marcel Granollers (HD VIC) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787312892-0-0-1539c98eac9a60c0d5addd020e8736fd
+https://live2.deliverfluxlive.com/livecdn/channel-32.flv?auth_key=3000001787313776-0-0-4a8b771536bdd2650094b0b272b64957
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 22/08 Taylor Fritz vs Brandon Nakashima (LUCAS)
 https://live2.pro2cdnlive.com/live/channel31.flv
@@ -461,17 +422,23 @@ https://live2.pro2cdnlive.com/live/channel32.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/08 Lorenzo Musetti vs Frances Tiafoe (HD VIC) [HD]
 https://live2.pro2cdnlive.com/live/channel-32.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Nữ Croatia vs Nữ Italy (HD TYSON) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787312905-0-0-f338112948325805181aad3ab09ff1d0
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Nữ Croatia vs Nữ Italy (TYSON)
+https://live2.livefeedtextbox.com/live/channel33.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/08 Nữ Thổ Nhĩ Kỳ vs Nữ Latvia (TYSON)
-https://live2.pro2cdnlive.com/live/channel33.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Nữ Croatia vs Nữ Italy (HD TYSON) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787313786-0-0-1cb5e1aa95161be31285879633277bb9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/08 Nữ Thổ Nhĩ Kỳ vs Nữ Latvia (HD TYSON) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787313792-0-0-b5d7d0911eb56af8189184402c5a438e
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 22/08 Nữ Việt Nam vs Nữ Hàn Quốc (TYSON)
+https://live2.pro2cdnlive.com/live/channel33.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 22/08 Nữ Việt Nam vs Nữ Hàn Quốc (HD TYSON) [HD]
 https://live2.pro2cdnlive.com/live/channel-33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/08 Team Heretics vs SK Gaming (HD MARTY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787312918-0-0-2738588b59c7b54cd3cb73358c124a59
+https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787313807-0-0-904c1a9aa53768f9e9929b30b5e215f7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/08 Dplus vs Gen.G Esports (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -788,17 +755,17 @@ https://live.inplyr.com/room/621887.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 21/08 Heineken Dutch vs Grand Prix (blv-ngu) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Áo vs Serbia (A Heo) [hls]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki (Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nhật Bản vs Hong Kong (KaKa) [hls]
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Pháp vs Slovakia (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Áo vs Serbia (A Heo) [hls]
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 22/08 Việt Nam vs Hàn Quốc (KaKa) [hls]
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 22/08 Thái Lan vs Việt Nam (Người Lửa) [hls]
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
@@ -813,43 +780,37 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539466_1.flv?auth_key=1787313340-2891-0-d57bb21a3c248f21850e766d3eb40cb6
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539466_1.flv?auth_key=1787314235-6174-0-ce5074daeed00bfc4c4505e23cdba367
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Kashiwa Reysol vs V-Varen Nagasaki [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539466_2.flv?auth_key=1787313340-7075-0-7bf2404abedc9bc2d034bb494d01a3c4
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Hwacheon KSPO Women vs Seoul City Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5338447_1.flv?auth_key=1787313344-6112-0-865a58ebe24e4bd5e497ace32a4a25e4
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Incheon Hyundai Steel Red Angels Women vs Mungyeong Sangmu Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5338446_1.flv?auth_key=1787313350-1109-0-7c19499858dd17eb45989627fd5e4b4f
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Sejong Sportstoto Women vs Gangjin Swans Women [KOR WKL] [KOR WKL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5338445_1.flv?auth_key=1787313357-5419-0-aa26c68267d8ee84dc5923f58073de05
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Adelaide Olympic vs Adelaide Atletico VSC [Playoff] [Playoff]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5700783_1.flv?auth_key=1787313363-4976-0-d78012d4be31ecf7e2b8b2a789e1d19c
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539466_2.flv?auth_key=1787314235-1427-0-4b003c161e8d8e4c350cd9c0a647c472
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United Chiba [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539468_1.flv?auth_key=1787313366-6718-0-691912650a3ab7a5b03c7cacdc3dbbbe
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539468_1.flv?auth_key=1787314242-8483-0-a2bf86795a166383363df998eb638cc6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 FC Tokyo vs JEF United Chiba [JAP D1] [JAP D1]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539468_2.flv?auth_key=1787313366-4955-0-208c4064a597e1f079da9f81091f7d00
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539468_2.flv?auth_key=1787314242-3716-0-b952efa18abcf11537d88571a6989f0b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Ningbo Professional FC U20 vs Wuhan Three Towns U20 [CHN U20] [CHN U20]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5701056_1.flv?auth_key=1787313372-8994-0-23bbbdd5b9607a280cc98692f1f9f0d9
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5701056_1.flv?auth_key=1787314244-7165-0-b4d79155d407d591ff0d5c9ef9daff3b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Lokomotiv Kyiv vs FC Probiy Horodenka [UKR Cup] [UKR Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5657362_1.flv?auth_key=1787313375-5650-0-b359569c2cd917b733fcfeb36f0b1ef7
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5657362_1.flv?auth_key=1787314247-7343-0-87638371be83ce7759e7ab97501288e0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Podillya Khmelnytskyi vs Viktoriya Sumy [UKR Cup] [UKR Cup]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5657358_1.flv?auth_key=1787313381-4965-0-0bd7ded364d5802ce4614c4dc50d8273
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5657358_1.flv?auth_key=1787314252-1990-0-ea9cb378c9c228cf8c2cd7c08c719661
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/08 Dongguan Xintongsheng (W) vs Henan Yuguang Gold Lead (W) [WNBL] [WNBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5686130_1.flv?auth_key=1787313383-4382-0-3f64ae13c8473247cabdec2834fcbd79
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Eastern AA vs Shatin SA [HK PL] [HK PL]
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5630207_1.flv?auth_key=1787314255-4707-0-63de7f95d2d7c10272c9761286116d1a
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/08 Shanghai Jiao Tong University (W) vs Shanxi Zhuyeqing Jiu (W) [WNBL] [WNBL]
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5686132_1.flv?auth_key=1787314258-9351-0-5c49cefa74f02cdf88ecf8b4441be7b0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Rockingham Flames BC vs Canberra Gunners BC [ANBL] [ANBL]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5711815_1.flv?auth_key=1787313387-4249-0-94fd0847f4e660161e917ba70a7ba59d
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5711815_1.flv?auth_key=1787314262-4186-0-80a6fa3d3d141f7849231c0b0dcd405f
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/08 Meycauayan Marilao Gems BC vs GenSan Warriors BC [MPBL] [MPBL]
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5600058_1.flv?auth_key=1787314266-7140-0-a32ce16797c511d79ef5bcd356a57d36
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
