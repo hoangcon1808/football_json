@@ -24,9 +24,6 @@ https://live05.meung.app/live/75915087.m3u8
 https://live05.meung.app/live/16226575.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",10:30 | CLB Tokyo vs Chiba
-https://live05.meung.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",13:00 | Shakhtar Karagandy vs Astana B
 https://live05.meung.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2e8a02ec6526cb9c73b87acf8a06453b.png!w80",14:00 | Ittihad Kalba vs Al Wasl
@@ -40,6 +37,9 @@ https://live05.meung.app/live/02456966.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80",16:00 | Al-Riyadh vs Al-Nassr
 https://live05.meung.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/fcc0871bfa8bb9c1a1aa099b940f376a.jpg!w80",16:00 | DJK Teutonia St.Tonis vs Eintracht Frankfurt
+https://live05.meung.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6778e136f3c72f08f824b103d00a7ecd.png!w80",16:00 | Mannheim vs CLB Kaiserslautern
 https://live05.meung.app/live/14707124.m3u8
@@ -101,12 +101,6 @@ https://live05.meung.app/live/41943555.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atl. Morelia vs Correcaminos (BLV  KHÔNG ĐỘ) [hls 2]
 https://live05.miekgo.app/live/41943555.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 CLB Corinthians Paulista vs CLB Rosario Central (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 CLB Corinthians Paulista vs CLB Rosario Central (BLV MOUNTAIN DEW) [hls 2]
-https://live05.miekgo.app/live/87547578.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Alianza FC vs Olimpia (BLV REDBULL) [flv]
 https://live05.meung.app/live/49572724.flv
 
@@ -155,6 +149,12 @@ https://live05.meung.app/live/78905744.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 CLB Tokyo vs Chiba (BLV 7UP) [hls 2]
 https://live05.miekgo.app/live/78905744.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Shakhtar Karagandy vs Astana B (BLV MOUNTAIN DEW) [flv]
+https://live05.meung.app/live/87547578.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Shakhtar Karagandy vs Astana B (BLV MOUNTAIN DEW) [hls 2]
+https://live05.miekgo.app/live/87547578.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Ittihad Kalba vs Al Wasl (BLV PEPSI) [flv]
 https://live05.meung.app/live/59444581.flv
 
@@ -185,20 +185,17 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Johor Darul Takzim FC vs Kuching FA (Trốc Tru) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians _ SP vs Rosario Central (Doanh Chính)
-https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians _ SP vs Rosario Central (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6f05adeed9909248881e28aec9edcad1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians _ SP vs Rosario Central (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-bb34210d199f51dbeb47/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Botafogo _ RJ vs Cienciano (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/754d97518c091400f766b73ea5fa5032/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Botafogo _ RJ vs Cienciano (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4939f367de135b02bf1e/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atletico Morelia vs Correcaminos de la U.A.T. (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/bc39b043ff335c60a079ffad004f3e92/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atletico Morelia vs Correcaminos de la U.A.T. (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-b4c9a5668c3f3172105b/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Tepatitlan FC vs Tlaxcala FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/c87900fba7f5e75335ed5d7149e3f699/playlist.m3u8
@@ -211,12 +208,6 @@ https://station1-global.ebaclofen.org/live/2cd066be4657dbb536e1cbd60e49cbc5/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Alianza FC (PAN) vs CD Olimpia (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-dea53117e208de85ecec/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atletico Morelia vs Correcaminos de la U.A.T. (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bc39b043ff335c60a079ffad004f3e92/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atletico Morelia vs Correcaminos de la U.A.T. (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-b4c9a5668c3f3172105b/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 20/08 Nacional Potosi vs Real Tomayapo (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/a18db3f4ee6202dc8ae85e44e30e6f40/playlist.m3u8
@@ -239,14 +230,14 @@ https://station1-global.ebaclofen.org/live/b9182bdf120b82a7fdf6529e6c564e90/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 21/08 Johor Darul Ta'zim FC vs Kuching City FC (Tào Duệ)
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Ittihad Kalba FC vs Al-Wasl SC (Lưu Triệt)
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Bukhara State University vs Respublika FA (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/5a20b3a2cebca607e48cec3ae44e416c/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 FC Kattaqorgon vs FK Gazalkent (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/e0679626f3290ace3810b054f0fdf5dc/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Bukhara State University vs Respublika FA (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/5a20b3a2cebca607e48cec3ae44e416c/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 21/08 Ittihad Kalba FC vs Al-Wasl SC (Lưu Triệt)
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:15 21/08 Al-Gharafa vs Al Shahaniya (Lý Trị)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
@@ -266,65 +257,59 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:35 21/08 Al-Nasr Dubai vs Al Wahda(UAE) (Trần Hoàng)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 21/08 Nữ Canada vs Nữ Mexico (TOMMY)
-https://live2.livefeedtextbox.com/live/channel29.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 21/08 Nữ Canada vs Nữ Mexico (HD TOMMY) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787278572-0-0-b76abed82e4cb808fda7625aff8a1591
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Botafogo RJ vs Cienciano (LOGAN)
 https://live2.livefeedtextbox.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Botafogo RJ vs Cienciano (HD LOGAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-23.flv?auth_key=3000001787278584-0-0-77ffc8c2ab5e8635aa4c3879c89be773
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians SP vs CA Rosario Central (RIO)
-https://live2.livefeedtextbox.com/live/channel16.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians SP vs CA Rosario Central (HD RIO) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-16.flv?auth_key=3000001787278593-0-0-37508c5355a9a833bd328473e7614800
+https://live2.deliverfluxlive.com/livecdn/channel-23.flv?auth_key=3000001787279477-0-0-f22869698d1ba62b0489105a02eccc99
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Alianza FC (PAN) vs CD Olimpia (JEAN)
 https://live2.livefeedtextbox.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Alianza FC (PAN) vs CD Olimpia (HD JEAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787278600-0-0-3bc578e29a4b4b2aaf174ba63a3f056d
+https://live2.deliverfluxlive.com/livecdn/channel-7.flv?auth_key=3000001787279484-0-0-321fb7bda02640d70e6031fe5fcc27d2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Tepatitlan FC vs Tlaxcala FC (TOM)
 https://live2.livefeedtextbox.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Tepatitlan FC vs Tlaxcala FC (HD TOM) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-4.flv?auth_key=3000001787278610-0-0-b5ae27041ab6d2514526bc6cfd1a747b
+https://live2.deliverfluxlive.com/livecdn/channel-4.flv?auth_key=3000001787279494-0-0-ce671761565f06db9a47a663e4e0298e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Club Atlético Morelia vs Correcaminos de la U.A.T. (ASTRA)
 https://live2.livefeedtextbox.com/live/channel11.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Club Atlético Morelia vs Correcaminos de la U.A.T. (HD ASTRA) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-11.flv?auth_key=3000001787278615-0-0-0ca9697c6bdfae058cfde4352c0c0b99
+https://live2.deliverfluxlive.com/livecdn/channel-11.flv?auth_key=3000001787279501-0-0-f1698e3ee707357a384752b51c071d93
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Los Angeles FC II vs Sporting Kansas (R) (RAVEN)
 https://live2.livefeedtextbox.com/live/channel21.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Los Angeles FC II vs Sporting Kansas (R) (HD RAVEN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-21.flv?auth_key=3000001787278622-0-0-f190249ede1e95cfca4ab097b7575497
+https://live2.deliverfluxlive.com/livecdn/channel-21.flv?auth_key=3000001787279507-0-0-33f668626e5ef28471a46263951bd97e
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/08 Nữ Dallas Wings vs Nữ Indiana Fever (ALAN)
-https://live2.livefeedtextbox.com/live/channel25.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 21/08 Nữ Canada vs Nữ Mexico (TOMMY)
+https://live2.livefeedtextbox.com/live/channel29.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/08 Nữ Dallas Wings vs Nữ Indiana Fever (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787278628-0-0-fae9ccc0027448e838e8d4e6aaf0d1e4
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 21/08 Nữ Canada vs Nữ Mexico (HD TOMMY) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-29.flv?auth_key=3000001787279514-0-0-1264f22934ad90cb75f97abe07653e26
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Nữ Đài Loan vs Nữ Iran (TYSON)
 https://live2.livefeedtextbox.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Nữ Đài Loan vs Nữ Iran (HD TYSON) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787278638-0-0-22fe683576530b31de9f6faf24103b6b
+https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787279521-0-0-06a720c212887e96ebf45c6ca1914db5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Luis Angel Firpo vs LD Alajuelense (JOHAN)
 https://live2.livefeedtextbox.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Luis Angel Firpo vs LD Alajuelense (HD JOHAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787278644-0-0-51c29ae84d6151adab4c01ef825a6ba4
+https://live2.deliverfluxlive.com/livecdn/channel-12.flv?auth_key=3000001787279529-0-0-af0668dc7a076c1dc1a4b68f5b8f7e7a
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Soles de Mexicali vs Mineros de Zacatecas (ALAN)
+https://live2.livefeedtextbox.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Soles de Mexicali vs Mineros de Zacatecas (HD ALAN) [HD]
+https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787279536-0-0-96ce784091fbd5008d9e7dee4d1d438d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/08 Cádiz CF Mirandilla vs Lion City (RIO)
 https://live2.pro2cdnlive.com/live/channel16.flv
@@ -350,9 +335,6 @@ https://live2.pro2cdnlive.com/live/channel6.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/08 Green Gully Fc vs St Albans Saints (HD MAX) [HD]
 https://live2.pro2cdnlive.com/live/channel-6.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Soles de Mexicali vs Mineros de Zacatecas (HD ALAN) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-25.flv?auth_key=3000001787278659-0-0-89f6d12f38b73602d4f899daa387c7d1
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/08 Nữ Shanxi TianZe vs Nữ Liaoning Hengye (ALAN)
 https://live2.pro2cdnlive.com/live/channel25.flv
 
@@ -372,7 +354,7 @@ https://live2.pro2cdnlive.com/live/channel26.flv
 https://live2.pro2cdnlive.com/live/channel-26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 21/08 Nữ Thái Lan vs Nữ Australia (HD TYSON) [HD]
-https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787278672-0-0-72ddaf4735f379ea86ee8d2d29c54581
+https://live2.deliverfluxlive.com/livecdn/channel-33.flv?auth_key=3000001787279559-0-0-9109abf7737587b70bdf96595f131110
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/08 Nữ Nhật Bản vs Nữ Hong Kong (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -385,9 +367,6 @@ https://live2.pro2cdnlive.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/08 Fredit BRION vs BNK FearX (HD MARTY) [HD]
 https://live2.pro2cdnlive.com/live/channel-30.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:15 22/08 Team Vitality vs Natus Vincere (HD 1) [HD]
-https://live2.pro2cdnlive.com/live/channel76.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 21/08 Venados FC Yucatán vs Club Deportivo Dorados de Sinaloa (BLV VOI) [geo]
 https://live.inplyr.com/room/552716.m3u8
@@ -488,6 +467,9 @@ https://live.inplyr.com/room/147801.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Luis Angel Firpo vs LD Alajuelense (ZIDANE) [geo]
 https://live.inplyr.com/room/168740.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Soles vs Mineros (HUNTER) [geo]
+https://live.inplyr.com/room/558264.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/08 Green Gully Cavaliers vs St Albans Saints (BLV BÉO) [geo]
 https://live.inplyr.com/room/459401.m3u8
 
@@ -572,9 +554,6 @@ https://live.inplyr.com/room/595335.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:15 21/08 Al-Gharafa vs Al Shahaniya (BLV ALEX) [geo]
 https://live.inplyr.com/room/532081.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Soles vs Mineros (HUNTER) [geo]
-https://live.inplyr.com/room/558264.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians Paulista (SP) vs Rosario Central (Số 2) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787241718_hd/1787241718_hd@720p.m3u8
 
@@ -583,9 +562,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1787273674_hd/1787273674_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:04 21/08 Alianza vs Olimpia (Số 19) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787274145_hd/1787274145_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/08 Dallas Wings vs Indiana Fever (Số 4) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1787274335_hd/1787274335_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 21/08 Luis Angel Firpo vs Alajuelense (blv-tri) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -614,41 +590,35 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:15 21/08 Al-Gharafa vs Al-Shahaniya (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Corinthians Paulista/SP vs Rosario Central [CON CL] [CON CL]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5599073_1.flv?auth_key=1787279131-2331-0-364460fdb484495fa1fd8a445796c052
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/08 Botafogo/RJ vs Cienciano [CON CSA] [CON CSA]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5630205_1.flv?auth_key=1787279135-3076-0-393c6f967164d7d1762da8f8b97f0d5c
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5630205_1.flv?auth_key=1787280040-2187-0-e20fb84152b3fe82273833b112415a7e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Atletico Morelia vs Correcaminos UAT [MEX D2] [MEX D2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539465_1.flv?auth_key=1787279138-4918-0-bc61295eb61b690f9fe69b5891832b1b
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539465_1.flv?auth_key=1787280043-1071-0-6c8abcd8df75bc655e7e263a5d0018a9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Tepatitlan FC vs Tlaxcala [MEX D2] [MEX D2]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539463_1.flv?auth_key=1787279142-4217-0-f3483fd2ce5d9cecf836a07986445bfe
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539463_1.flv?auth_key=1787280049-9432-0-549a38086937e11090293fafd5e9a850
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 21/08 Alianza Panama vs CD Olimpia [CNCF CAC] [CNCF CAC]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5539373_1.flv?auth_key=1787279147-5526-0-b44983639f1e015feb225f510e4d0ab4
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539373_1.flv?auth_key=1787280055-8022-0-e321aaff30412802bdd568fb621ef49e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Los Angeles FC II vs Sporting Kansas City II [USA MLSNP] [USA MLSNP]
-https://livesp.zhibozhibozhibozhibo.com/sport/202_5689009_1.flv?auth_key=1787279152-5937-0-d6af486224af0333e08cef780839b632
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/08 Dallas Wings vs Indiana Fever [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5338533_1.flv?auth_key=1787279161-5488-0-1b552f0141faa6cfd0eaceb0409049ab
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/08 Dallas Wings vs Indiana Fever [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5338533_2.flv?auth_key=1787279161-2055-0-ea1d3b823061db635ab354d192544e68
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5689009_1.flv?auth_key=1787280057-5275-0-9b9eda5674d93e12879525c4ec546cc0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Las Vegas Aces vs Connecticut Sun [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5338534_1.flv?auth_key=1787279168-6686-0-a370e4eb982d6ad13d0638f74d7b4649
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5338534_1.flv?auth_key=1787280060-7594-0-b3c40a30fad23472431015306d4f8a50
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Los Angeles Sparks vs Atlanta Dream [WNBA] [WNBA]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5338535_1.flv?auth_key=1787279174-2982-0-5e72455c605d14db381a279b87131ede
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5338535_1.flv?auth_key=1787280062-3888-0-a1cab1af1245800123714b74ce18ffc6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Dorados de Chihuahua BC vs Abejas de Leon BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546707_1.flv?auth_key=1787279180-9094-0-96e64cec33a0886f0bb2c0be2937f4c7
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546707_1.flv?auth_key=1787280068-4242-0-a8cd88dfea0de3d542e6498dbe990bdc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/08 Freseros Irapuato BC vs El Calor de Cancun BC [MLNBP] [MLNBP]
-https://livesp.zhibozhibozhibozhibo.com/sport/201_5546706_1.flv?auth_key=1787279185-8582-0-d12bdcfda5e10e3aa427b9dbf05d753b
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546706_1.flv?auth_key=1787280072-3230-0-6b969a75936a37ca6987a8cf8d8d98c7
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 21/08 Fuerza Regia BC vs Gambusinos de Fresnillo BC [MLNBP] [MLNBP]
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5546708_1.flv?auth_key=1787280076-6372-0-bfe97ed1a0c28d19f2319e72197d924a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",Cập Nhật
 https://tinhlagi.pro/logo.jpg
