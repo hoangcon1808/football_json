@@ -8,9 +8,6 @@ https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2c9efa7a61b37c74ca94129850f4d5a6.png!w80",02:30 | CLB Deportivo Mixco vs Alianza FC
 https://live05.meung.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80",00:15 | Platense vs Instituto
-https://live05.meung.app/live/87547578.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6fe27a17397454cb43b104a6657e90d7.png!w80",01:00 | CLB Cancun vs Atlético La Paz
 https://live05.meung.app/live/16226575.m3u8
 
@@ -55,6 +52,9 @@ https://live05.meung.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",18:45 | AC Milan vs CLB Venezia
 https://live05.meung.app/live/97885009.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",22:00 | Union de Santa Fe vs Sarmiento Junin
+https://live05.meung.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a87954a24d46db870ab44ec_b1960740_20260828.png?v=b1960740",Ansan Greeners FC vs Daegu FC | 17:30 28/08
 https://eqr2hdarxfliv.vcdn.cloud/1787735174_hd/1787735174_hd@720p.m3u8
@@ -118,12 +118,6 @@ https://live05.meung.app/live/02456966.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 CLB Deportivo Mixco vs Alianza FC (BLV SODA) [hls 2]
 https://live05.miekgo.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 28/08 Platense vs Instituto (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 28/08 Platense vs Instituto (BLV MOUNTAIN DEW) [hls 2]
-https://live05.miekgo.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 28/08 CLB Cancun vs Atlético La Paz (BLV FANTA) [flv]
 https://live05.meung.app/live/16226575.flv
@@ -220,6 +214,12 @@ https://station1-global.ebaclofen.org/live/4e11081b0aa04d6ebad4d1841e14d4e0/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:15 28/08 Internacional de Bogota vs Deportivo Pasto (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/67c747f4b3426d3a95e62bba074d9c45/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 CD Olimpia vs Deportivo Saprissa (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6c925b613a89333b3b15524c0c1f9452/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 Deportivo Mixco vs Alianza FC (PAN) (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6264c78a379de077fd610c568f8e5453/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/08 Lokomotiv Kyiv vs Fenix Mariupol (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/92bde526ed47d019943609247e6e5ca7/playlist.m3u8
@@ -377,65 +377,53 @@ https://hls.lauthaitv.cc/live/necaxa-cruz-mexliga/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 29/08 Necaxa vs Cruz Azul (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/necaxa-cruz-mexliga.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 28/08 CA Platense vs Instituto (RAVEN)
-https://live2.gigabitdelivery.com/live/channel21.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 28/08 CA Platense vs Instituto (HD RAVEN) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-21.flv?auth_key=3000001787884268-0-0-5144a8ac4fdd93a1d4d020c345e03c65
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 28/08 Cancun FC vs Club Atletico La Paz (TONI)
 https://live2.gigabitdelivery.com/live/channel9.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 28/08 Cancun FC vs Club Atletico La Paz (HD TONI) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-9.flv?auth_key=3000001787884279-0-0-b3faf8e08d0bf25427d1a0c7e8d406e0
+https://live2.cachefluxlive.com/livecdn/channel-9.flv?auth_key=3000001787885167-0-0-9619d8e82ab24f6e39da715c4baf2680
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 28/08 Alebrijes de Oaxaca vs Chivas Tapatio (LOGAN)
 https://live2.gigabitdelivery.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 28/08 Alebrijes de Oaxaca vs Chivas Tapatio (HD LOGAN) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-23.flv?auth_key=3000001787884289-0-0-cae7981c7a4c8c30532bf356ba37db44
+https://live2.cachefluxlive.com/livecdn/channel-23.flv?auth_key=3000001787885174-0-0-82c950a1ab73d461f43f47025656d3e3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:15 28/08 Internacional de Bogota vs Deportivo Pasto (RIO)
 https://live2.gigabitdelivery.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:15 28/08 Internacional de Bogota vs Deportivo Pasto (HD RIO) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-16.flv?auth_key=3000001787884296-0-0-e84148c0da06dc14f23c59dc23941e00
+https://live2.cachefluxlive.com/livecdn/channel-16.flv?auth_key=3000001787885183-0-0-0bd19483cc18871aa86828f5c4872521
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 Deportivo Mixco vs Alianza FC (PAN) (SILVA)
 https://live2.gigabitdelivery.com/live/channel20.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 Deportivo Mixco vs Alianza FC (PAN) (HD SILVA) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-20.flv?auth_key=3000001787884303-0-0-cfebb19c85d4348f8f98bfbb4513f441
+https://live2.cachefluxlive.com/livecdn/channel-20.flv?auth_key=3000001787885190-0-0-c5fbc7bf5f3d2afa64f579f2d242fd16
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 CD Olimpia vs Deportivo Saprissa (FILIP)
 https://live2.gigabitdelivery.com/live/channel19.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 CD Olimpia vs Deportivo Saprissa (HD FILIP) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-19.flv?auth_key=3000001787884309-0-0-ff5b0c474e75fc62e95bad3742d72d83
+https://live2.cachefluxlive.com/livecdn/channel-19.flv?auth_key=3000001787885197-0-0-758362ca94a0bf376a516ae87330fecb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 28/08 Nữ Phoenix Mercury vs Nữ Mystics (ALAN)
 https://live2.gigabitdelivery.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 28/08 Nữ Phoenix Mercury vs Nữ Mystics (HD ALAN) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-25.flv?auth_key=3000001787884318-0-0-471b9726cae5457bded6219a9998324e
+https://live2.cachefluxlive.com/livecdn/channel-25.flv?auth_key=3000001787885204-0-0-ce4fd15f1cff9c393162a881d64b1cd1
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 28/08 Mexico vs Colombia (TOMMY)
 https://live2.gigabitdelivery.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 28/08 Mexico vs Colombia (HD TOMMY) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-29.flv?auth_key=3000001787884326-0-0-3978f8a8411f0972653f019b4c8d220e
+https://live2.cachefluxlive.com/livecdn/channel-29.flv?auth_key=3000001787885214-0-0-47967f2cedfe84c6bc37fc96c7bffab8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:40 28/08 Fabian Marozsan vs James Duckworth (VIC)
-https://live1.quickscoreboardz.com/live/channel85.flv?wsSecret=ceb62534e506d89c1b43965ea1988d60&wsABSTime=1787927530
+https://live1.quickscoreboardz.com/live/channel85.flv?wsSecret=e691a826a3752c6b1c021d786cd3cbe0&wsABSTime=1787928419
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:40 28/08 Fabian Marozsan vs James Duckworth (HD VIC) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-32.flv?auth_key=3000001787884334-0-0-3a826f818775532d463e4695a0233dfb
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 28/08 Arthur Fery vs Aleksandar Kovacevic (VIC)
-https://live1.quickscoreboardz.com/live/channel85.flv?wsSecret=4dd18080e616f4fc15a6ff159179b8b7&wsABSTime=1787927539
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 28/08 Arthur Fery vs Aleksandar Kovacevic (HD VIC) [HD]
-https://live2.cachefluxlive.com/livecdn/channel-32.flv?auth_key=3000001787884342-0-0-3dd07d2e74780a0657ce1cbe843b5104
+https://live2.cachefluxlive.com/livecdn/channel-32.flv?auth_key=3000001787885221-0-0-753bb18cb7019e13120639a08ffce652
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/08 Thitsar Arman FC vs Myawady (NEMO)
 https://live2.pro2cdnlive.com/live/channel17.flv
@@ -448,12 +436,6 @@ https://live2.pro2cdnlive.com/live/channel7.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/08 Chinland FC vs Yadanarbon FC (HD JEAN) [HD]
 https://live2.pro2cdnlive.com/live/channel-7.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/08 Sabah vs Penang FC (RIO)
-https://live2.pro2cdnlive.com/live/channel16.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 28/08 Sabah vs Penang FC (HD RIO) [HD]
-https://live2.pro2cdnlive.com/live/channel-16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 28/08 Nữ Hyundai SteelRed vs Nữ Gyeongju (ZANE)
 https://live2.pro2cdnlive.com/live/channel22.flv
@@ -694,6 +676,9 @@ https://live.inplyr.com/room/620661.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:15 28/08 Al-Ahli Doha vs Lusail City (BLV LONG) [geo]
 https://live.inplyr.com/room/132343.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 28/08 Akron Togliatti vs CSKA Moscow (BLV A TINH) [geo]
+https://live.inplyr.com/room/598119.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 28/08 Olimpia vs Deportivo Saprissa (Mát) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787764711_hd/1787764711_hd@720p.m3u8
