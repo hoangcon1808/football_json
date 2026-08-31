@@ -83,12 +83,6 @@ https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 31/08 Monterrey vs Atletico San Luis (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 31/08 Dallas Wings vs Connecticut Sun (BLV Cozy) [flv]
-https://live05.meung.app/live/87379114.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 31/08 Dallas Wings vs Connecticut Sun (BLV Cozy) [hls 2]
-https://live05.miekgo.app/live/87379114.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 31/08 San Jose Earthquakes B vs Los Angeles FC II (BLV BÍ ĐAO) [flv]
 https://live05.meung.app/live/99121525.flv
 
@@ -136,6 +130,12 @@ https://live05.meung.app/live/90865415.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 Hàn Quốc vs Saudi Arabia (BLV 247) [hls 2]
 https://live05.miekgo.app/live/90865415.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:10 31/08 Nhật Bản vs Qatar (BLV Cozy) [flv]
+https://live05.meung.app/live/87379114.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:10 31/08 Nhật Bản vs Qatar (BLV Cozy) [hls 2]
+https://live05.miekgo.app/live/87379114.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/08 Vietnam U20 vs Korea DPR U20 (BLV REVIVE) [flv]
 https://live05.meung.app/live/33982309.flv
@@ -200,11 +200,11 @@ https://station1-global.ebaclofen.org/live/2d76a9c8773535d7f94e403f67c42f63/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",04:15 30/08 Nacional Potosi vs Real Potosi (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/d5f25fa13009cd9022db413c859371ac/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Chinese Taipei U20 vs Macau U20 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/cf19c549146be21865837411d34d92e9/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 LNZ Cherkasy U21 vs Veres Rivne U21 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/baf2367628d55bbf6f4c962a37c79e41/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Chinese Taipei U20 vs Macau U20 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/cf19c549146be21865837411d34d92e9/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 31/08 Okinawa SV vs Azul Claro Numazu (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
@@ -212,11 +212,11 @@ https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 31/08 Myanmar U20 vs Sri Lanka U20 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/4e8c7b78432afe39719eff765addfe4f/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 FC Zorya Luhansk U21 vs FC Kharkiv U21 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9d0bc1a774b1c798358bcc42acf8a398/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 FC Shakhtar Donetsk U21 vs Polissya Zhytomyr U21 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/82d963acc644446c06e8dd08b90dc69f/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 FC Zorya Luhansk U21 vs FC Kharkiv U21 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/9d0bc1a774b1c798358bcc42acf8a398/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/08 Vietnam U20 vs Korea DPR U20 (Lưu Bang)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
@@ -366,43 +366,37 @@ https://live2.pro2cdnlive.com/live/channel-18.flv
 https://live2.brenvoxedgenetwork.com/live/channel1.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 31/08 Rayados de Monterrey vs Atl. San Luis (HD ROY) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001788143501-0-0-f6f4f23b116826c0f1960325d02ae9ea
+https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001788144386-0-0-e38841a7ad53e4752742f86804547a49
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 31/08 SJ Earthquakes (R) vs Los Angeles FC II (JOHAN)
-https://live2.pro2cdnlive.com/live/channel12.flv
+https://live2.brenvoxedgenetwork.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:30 31/08 SJ Earthquakes (R) vs Los Angeles FC II (HD JOHAN) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001788143523-0-0-dd68df974f47f75d6105605de037e59e
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (TOMMY)
-https://live2.brenvoxedgenetwork.com/live/channel29.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (HD TOMMY) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001788143532-0-0-1b3f358d73500c88a865b04692c984b5
+https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001788144396-0-0-b900a5e3e24cd6f21c332eedead856f0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (STEP)
 https://live2.brenvoxedgenetwork.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (HD STEP) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-26.flv?auth_key=3000001788143539-0-0-94e30dd289d0feee8cfa9ca84ae4fae9
+https://live2.streamhaulcdn.com/livecdn/channel-26.flv?auth_key=3000001788144404-0-0-11755ffbb8be672e195af334eb18479b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 31/08 Mariano Navone vs Novak Djokovic (LUCAS)
 https://live2.brenvoxedgenetwork.com/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 31/08 Mariano Navone vs Novak Djokovic (HD LUCAS) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-31.flv?auth_key=3000001788143546-0-0-bc4cdddfa435ca378f540a0a0a59ec06
+https://live2.streamhaulcdn.com/livecdn/channel-31.flv?auth_key=3000001788144411-0-0-b31abe1308d6363c96d4d0406ae36d8b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (VIC)
 https://live2.brenvoxedgenetwork.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (HD VIC) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001788143553-0-0-00fb064a55d66c05b0c1ab77bdfb8d79
+https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001788144418-0-0-4d29d9f75aa435a0af9d44fafb9a0a35
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 31/08 Bắc Mariana U20 vs Mongolia U20 (FELIX)
 https://live2.brenvoxedgenetwork.com/live/channel24.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 31/08 Bắc Mariana U20 vs Mongolia U20 (HD FELIX) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001788143558-0-0-286ddc722379b456c3ec664f8f393f96
+https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001788144425-0-0-816c48a1c396e8a0afd90fcb9f45ed13
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 31/08 Iraq U20 vs Turkmenistan U20 (TOM)
 https://live2.pro2cdnlive.com/live/channel4.flv
@@ -427,6 +421,9 @@ https://live2.pro2cdnlive.com/live/channel17.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Iran U20 vs Palestine U20 (HD NEMO) [HD]
 https://live2.pro2cdnlive.com/live/channel-17.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Nhật Bản U20 vs Kuwait U20 (JOHAN)
+https://live2.pro2cdnlive.com/live/channel12.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Nhật Bản U20 vs Kuwait U20 (HD JOHAN) [HD]
 https://live2.pro2cdnlive.com/live/channel-12.flv
@@ -464,26 +461,29 @@ https://live2.pro2cdnlive.com/live/channel27.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/08 Yemen U20 vs Cambodia U20 (HD TAGE) [HD]
 https://live2.pro2cdnlive.com/live/channel-27.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 31/08 Hồng Kông vs Singapore (ALAN)
-https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 31/08 Hồng Kông vs Singapore (HD 1) [HD]
+https://live2.pro2cdnlive.com/live/channel42.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 31/08 Hồng Kông vs Singapore (HD ALAN) [HD]
-https://live2.pro2cdnlive.com/live/channel-25.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 Hàn Quốc vs Ả Rập Xê Út (HD 1) [HD]
+https://live2.pro2cdnlive.com/live/channel45.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 Hàn Quốc vs Ả Rập Xê Út (STEP)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 31/08 Thái Lan vs Mông Cổ (HD 1) [HD]
+https://live2.pro2cdnlive.com/live/channel48.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 31/08 Trung Quốc vs Lebanon (HD 1) [HD]
+https://live2.pro2cdnlive.com/live/channel40.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 31/08 Nepal vs Oman (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 Hàn Quốc vs Ả Rập Xê Út (HD STEP) [HD]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 31/08 Nepal vs Oman (HD STEP) [HD]
 https://live2.pro2cdnlive.com/live/channel-26.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 31/08 Trung Quốc vs Lebanon (TOMMY)
-https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 01/09 Bồ Đào Nha vs Georgia (ALAN)
+https://live2.pro2cdnlive.com/live/channel25.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 31/08 Trung Quốc vs Lebanon (HD TOMMY) [HD]
-https://live2.pro2cdnlive.com/live/channel-29.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 31/08 Nepal vs Oman (HD 1) [HD]
-https://live2.pro2cdnlive.com/live/channel41.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 01/09 Bồ Đào Nha vs Georgia (HD ALAN) [HD]
+https://live2.pro2cdnlive.com/live/channel-25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 31/08 Aryna Sabalenka vs Maria Camila Osorio Serrano (VIC)
 https://live2.pro2cdnlive.com/live/channel32.flv
@@ -501,7 +501,7 @@ https://live2.pro2cdnlive.com/live/channel-33.flv
 https://live2.brenvoxedgenetwork.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 31/08 KT Rolster Challengers vs Kiwoom DRX Challengers (HD MARTY) [HD]
-https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001788143596-0-0-c26ea712d25df6208bd94714054f7b99
+https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001788144469-0-0-757373e5a123625fcf66d78a992c3e80
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 31/08 Nongshim Esports Academy vs DN SOOPers Challengers (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -719,11 +719,11 @@ https://live.inplyr.com/room/621840.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 31/08 FK Liepaja vs Riga FC (BLV A WIN) [geo]
 https://live.inplyr.com/room/536185.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/08 Torpedo Kutaisi vs FC Meshakhte Tkibuli (BÒ TƯƠI) [geo]
+https://live.inplyr.com/room/620797.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 31/08 Monterrey vs Atletico San Luis (Trĩ) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788096625_hd/1788096625_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 31/08 Dallas Wings vs Connecticut Sun (Vịt) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1788096553_hd/1788096553_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:20 31/08 Deportivo Cali vs Atletico Bucaramanga (Bón) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788096589_hd/1788096589_hd@720p.m3u8
@@ -731,11 +731,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1788096589_hd/1788096589_hd@720p.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 31/08 Vietnam vs Fiji (blv-can) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Indonesia U20 vs Malaysia U20 (Văn Minh) [hls]
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Japan U20 vs Kuwait U20 (Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 31/08 Indonesia U20 vs Malaysia U20 (Văn Minh) [hls]
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 31/08 South Korea U20 vs Lebanon U20 (Tiểu Mây) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
