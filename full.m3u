@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80",16:30 | Paris Saint Germain nữ vs Eintracht Frankfurt Nữ
-https://live05.meung.app/live/07808742.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80",16:30 | Inter Nữ vs Wolfsburg Nữ
-https://live05.meung.app/live/16226575.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1250ea0fb6814e71bb08eb9996a01c99.png!w80",17:00 | CLB Abo Qair Semads vs Al Ittihad Alexandria
 https://live05.meung.app/live/18812304.m3u8
 
@@ -17,8 +11,14 @@ https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a0da10be11be5910b71c5ca79af53350.png!w80",18:00 | AGF Aarhus vs Midtjylland
 https://live05.meung.app/live/14707124.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80",18:00 | Real Madrid Nữ vs Ajax Nữ
+https://live05.meung.app/live/07808742.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80",18:45 | VfL Osnabruck vs FC Bayern München
 https://live05.meung.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ae228b68fbaf8bb4accc5fafe482a43.png!w80",18:45 | Millwall vs CLB Wrexham
+https://live05.meung.app/live/16226575.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/701e0713c180fa36266b425447d2f9c0.png!w80",18:45 | Queens Park Rangers vs Cardiff City
 https://live05.meung.app/live/97885009.m3u8
@@ -227,8 +227,11 @@ https://live05.meung.app/live/87379114.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 thể thao vs Nublense (BLV Cozy) [hls 2]
 https://live05.miekgo.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Red Bull Salzburg vs Rapid Vienna (Chuối Kem) [FHD] [FHD]
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs Bayern München (Trốc Tru) [FHD] [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Millwall vs Wrexham (Chuối Lá) [FHD] [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (A Ngao) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
@@ -236,11 +239,8 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid W vs Ajax W (Chuối To) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs Bayern München (Trốc Tru) [FHD] [FHD]
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Millwall vs Wrexham (Chuối Lá) [FHD] [FHD]
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Red Bull Salzburg vs Rapid Vienna (Chuối Kem) [FHD] [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (Chuối Chao) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
@@ -248,149 +248,14 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo vs Mirassol (Chuối Tây) [FHD] [FHD]
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Luzern vs Vaduz (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1688e63dba127b8eedcc72dfc87eda35/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Barnsley vs Blackpool (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6fab0af9193658e42548dabc5294acc4/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Arges vs Fotbal Club FCSB (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7c433e7b4aacdc8e44dd7340663a4642/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Queens Park Rangers vs Cardiff City (Triệu Hằng)
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Thun vs Lausanne Sports (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/33ba754836de61cf008c86c08e72d18b/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Widzew lodz vs Korona Kielce (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/06f72ae7b747c1a69a60255e5bd94cd3/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 NK Siroki Brijeg vs Sarajevo (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1a764d17924a96ce714afdddbbaf881c/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Borac Banja Luka vs FK Zeljeznicar (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/080fdd002b5d76799e6e1a62e2120e0e/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Grasshopper vs St. Gallen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6cd0c9fcf05bb36678bb7ba3d24ff88a/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Sint-Truidense vs Union Saint-Gilloise (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/95de7958e3de44d4b11846466afe0a55/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Znicz Pruszkow vs Cracovia Krakow (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0baf52c05d6c20fc168fdfd42c73a0f2/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 AS Sorrento Calcio vs Cosenza Calcio 1914 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/f88d7f9f73ceb985eab488340a3a5c95/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Paris Saint Germain Women vs Eintracht Frankfurt Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9b32321e2aa02d6b4d22942c4ff3ad41/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Inter Milan Women vs VfL Wolfsburg Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/70e1a4d050a9c6538c544de1d61865b7/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Carpi vs Pro Vercelli (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3ca4ee3f7c4d94faea32e3e1f0c225eb/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Arzignano Valchiampo vs AC Dolomiti Bellunesi (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/38c9cd6ee576a3a48ef42fc9c9d458af/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Lưu Triệt)
-https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/74fe082cb867a1f587ba0e100d9bbee0/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 02/09 Servette Women vs Sparta Praha Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/5d104184c13b5edbde627164cbcd169e/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Feyenoord Rotterdam Women vs Anderlecht Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/e905bb06dbd8ce47d59199bc98a7a26e/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Karagumruk vs Kayserispor (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/dbdee5c0724347f94890996f51ce8991/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sivasspor vs Mardin 1969 Spor (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/18561d5e078fe73fe75fe2d6f3fb955d/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria SC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/ab19627e4f2ae59536aeef9e9d8b39f2/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Real Sociedad Women vs Chelsea FC Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/caec2ab18c053531c85245f45004f18f/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Miedz Legnica vs Chrobry Glogow (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7fa027bb45fea2d57217dfb48b5bca11/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Panserraikos vs Atromitos Athens (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/41bfec56ed041e718ed78116f9fb6728/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sokol Ostroda vs Sokol Kleczew (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0e534141c89afdb139fcc2d47cf6ef01/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 HB Koge Women vs PSV Eindhoven Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8bb792eed245b09a40c3023551e38448/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-68d2dfbd3493fbbe0348/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 AEL Larisa vs Olympiacos Piraeus (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/eefef32b45ef925f4c12672eb85b6afe/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sanat-Naft vs Sepahan (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/4116cfa8b0c7a8bdeb80840295ebf497/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Ceramica Cleopatra FC vs Modern Sport FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/efe31e3a195500dbc42717d2e55dd32f/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Hapoel Beer Sheva vs Hapoel Haifa (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/e9d33d66c66c5a87ecc6da3d27823fae/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:05 03/09 Resovia Rzeszow vs Arka Gdynia (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6bcdecd0bac4836746670549e1dd3555/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 03/09 Dinamo Minsk vs Naftan Novopolotsk (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/ad9926d935d8430331b2c87dc4c93731/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 03/09 HNK Cibalia vs HNK Orijent 1919 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/17a3737c21ebed0086aef5f717bc7af8/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:40 03/09 Al Ula FC vs Al-Raed SFC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c36526d7836389afdfdec6496f99c1fe/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (Trần Hoàng)
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/36d9d3601025688e9088834a5119a761/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/0d3ca7ded66566d62058ed1a90ab67bf/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Oud Heverlee Leuven Women vs Czarni Sosnowiec Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/906ec441fdac779dcfa740330cc658b7/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 NK Aluminij vs NK Publikum Celje (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/eae8c463590176f26d2c933bf1782c7e/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid Women vs Ajax Amsterdam Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/18148cfb963a0c30679234b0902529f3/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 CS Cerrito vs Deportivo Maldonado (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c8c90c138a0b2d1550c710376b6935cb/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/207f05ca337f4baed8c39b16558702b2/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Bohemians 1905 vs Baumit Jablonec (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/fb7a73afe49c125b66de562ffcabba3d/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Central Espanol vs CA Juventud (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/24e7c7beb5936ff8109078b1037914ac/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Dundee vs Saint Johnstone (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7a8f18a127b55ca81e115f05842f58f6/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Celtic FC vs Aberdeen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/777a2b9e36e7f66a2630235c96972862/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Burton vs AFC Wimbledon (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/b1ed0bc288e00e968b874727973b82d4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Queens Park Rangers vs Cardiff City (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/493fe358cc194a7b1e351efe3251dc51/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Kilmarnock vs Saint Mirren (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/17596ef1d1149973f3a915e041c23aec/playlist.m3u8
@@ -398,8 +263,26 @@ https://station1-global.ebaclofen.org/live/17596ef1d1149973f3a915e041c23aec/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Motherwell vs Dundee United (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/c0f6105be53bab6270b55f6db02c8756/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 West Bromwich Albion vs Charlton Athletic (Trần Cảnh)
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 West Bromwich Albion vs Charlton Athletic (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a6744c2c05e99a0c3aa078c0cee1198b/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Luton Town vs Stockport County (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c0117bb1c7dc57f6ba7a0b4bdf630d07/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Wigan Athletic vs Milton Keynes Dons (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/d89cfb8d054a2b62c1ced02a2a03827b/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Celtic FC vs Aberdeen (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/777a2b9e36e7f66a2630235c96972862/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Burton vs AFC Wimbledon (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/b1ed0bc288e00e968b874727973b82d4/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Dundee vs Saint Johnstone (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7a8f18a127b55ca81e115f05842f58f6/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs FC Bayern Munich (Lưu Bang)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
@@ -413,26 +296,125 @@ https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Millwall vs Wrexham (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/e9732400fbb6bb6960eb80195809256c/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Queens Park Rangers vs Cardiff City (Triệu Hằng)
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Paris Saint Germain Women vs Eintracht Frankfurt Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/9b32321e2aa02d6b4d22942c4ff3ad41/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Queens Park Rangers vs Cardiff City (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/493fe358cc194a7b1e351efe3251dc51/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 02/09 Servette Women vs Sparta Praha Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/5d104184c13b5edbde627164cbcd169e/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 West Bromwich Albion vs Charlton Athletic (Trần Cảnh)
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Panserraikos vs Atromitos Athens (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/41bfec56ed041e718ed78116f9fb6728/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 West Bromwich Albion vs Charlton Athletic (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/a6744c2c05e99a0c3aa078c0cee1198b/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sanat-Naft vs Sepahan (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/4116cfa8b0c7a8bdeb80840295ebf497/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Luton Town vs Stockport County (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c0117bb1c7dc57f6ba7a0b4bdf630d07/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sokol Ostroda vs Sokol Kleczew (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0e534141c89afdb139fcc2d47cf6ef01/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Barnsley vs Blackpool (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6fab0af9193658e42548dabc5294acc4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Feyenoord Rotterdam Women vs Anderlecht Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e905bb06dbd8ce47d59199bc98a7a26e/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Catania FC vs FC Savoia 1908 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/de6d03e89c0ace353db5017ff4eecd7d/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-68d2dfbd3493fbbe0348/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Karagumruk vs Kayserispor (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/dbdee5c0724347f94890996f51ce8991/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Ceramica Cleopatra FC vs Modern Sport FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/efe31e3a195500dbc42717d2e55dd32f/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 AEL Larisa vs Olympiacos Piraeus (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/eefef32b45ef925f4c12672eb85b6afe/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria SC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ab19627e4f2ae59536aeef9e9d8b39f2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Real Sociedad Women vs Chelsea FC Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/caec2ab18c053531c85245f45004f18f/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Hapoel Beer Sheva vs Hapoel Haifa (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/e9d33d66c66c5a87ecc6da3d27823fae/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 HB Koge Women vs PSV Eindhoven Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8bb792eed245b09a40c3023551e38448/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sivasspor vs Mardin 1969 Spor (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/18561d5e078fe73fe75fe2d6f3fb955d/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Miedz Legnica vs Chrobry Glogow (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7fa027bb45fea2d57217dfb48b5bca11/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:05 03/09 Resovia Rzeszow vs Arka Gdynia (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6bcdecd0bac4836746670549e1dd3555/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 03/09 HNK Cibalia vs HNK Orijent 1919 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/17a3737c21ebed0086aef5f717bc7af8/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 03/09 Dinamo Minsk vs Naftan Novopolotsk (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ad9926d935d8430331b2c87dc4c93731/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:40 03/09 Al Ula FC vs Al-Raed SFC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c36526d7836389afdfdec6496f99c1fe/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (Trần Hoàng)
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/36d9d3601025688e9088834a5119a761/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0d3ca7ded66566d62058ed1a90ab67bf/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 CS Cerrito vs Deportivo Maldonado (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c8c90c138a0b2d1550c710376b6935cb/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Bohemians 1905 vs Baumit Jablonec (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/fb7a73afe49c125b66de562ffcabba3d/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid Women vs Ajax Amsterdam Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/18148cfb963a0c30679234b0902529f3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Central Espanol vs CA Juventud (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/24e7c7beb5936ff8109078b1037914ac/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 NK Aluminij vs NK Publikum Celje (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/eae8c463590176f26d2c933bf1782c7e/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Oud Heverlee Leuven Women vs Czarni Sosnowiec Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/906ec441fdac779dcfa740330cc658b7/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/207f05ca337f4baed8c39b16558702b2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Arges vs Fotbal Club FCSB (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7c433e7b4aacdc8e44dd7340663a4642/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Thun vs Lausanne Sports (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/33ba754836de61cf008c86c08e72d18b/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Juventus Women vs St. Polten Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2bd807812a9ead9a56d47b91b9fd2ff3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Borac Banja Luka vs FK Zeljeznicar (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/080fdd002b5d76799e6e1a62e2120e0e/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Widzew lodz vs Korona Kielce (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/06f72ae7b747c1a69a60255e5bd94cd3/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Grasshopper vs St. Gallen (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6cd0c9fcf05bb36678bb7ba3d24ff88a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Luzern vs Vaduz (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/1688e63dba127b8eedcc72dfc87eda35/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Sint-Truidense vs Union Saint-Gilloise (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/95de7958e3de44d4b11846466afe0a55/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 NK Siroki Brijeg vs Sarajevo (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/1a764d17924a96ce714afdddbbaf881c/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Altamura vs US Sambenedettese (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/238361a8ba03978a01a6d4dd40941159/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Gualberto Villarroel Deportivo San José vs Bolivar (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/06722f8be0580798293581e98a431e8a/playlist.m3u8
@@ -440,26 +422,29 @@ https://station1-global.ebaclofen.org/live/06722f8be0580798293581e98a431e8a/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Spezia vs FC Vado (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/8d91d978a4cb6f76da038ce81fe07738/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Falkirk vs Rangers (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/dab356abb8b4c4502959f350d2a4ad92/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Macara vs Manta FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/34067bfd20323f6ef0efae349a0b0bfa/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Reading vs Mansfield Town (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1f977a3d7056230d831ab4df19e680b8/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Catania FC vs FC Savoia 1908 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/de6d03e89c0ace353db5017ff4eecd7d/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (Nguyễn Nhạc)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/6f5118e6c6ea080f4f7d653b7bdffd8a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Reading vs Mansfield Town (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/1f977a3d7056230d831ab4df19e680b8/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Falkirk vs Rangers (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/dab356abb8b4c4502959f350d2a4ad92/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Sportivo Ameliano vs Club Sportivo Trinidense (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/194a2122fe55f5aefd4a4ca33b5ecc00/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Macara vs Manta FC (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/34067bfd20323f6ef0efae349a0b0bfa/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 FC Nacional Asuncion vs Club Libertad Asunción (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5832df1e2892aba842c190f83a1754d6/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Altamura vs US Sambenedettese (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/238361a8ba03978a01a6d4dd40941159/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:15 03/09 PAOK Saloniki vs OFI Crete (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/cb725557b30f8b78dbdabb4f91c07941/playlist.m3u8
@@ -490,6 +475,9 @@ https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:55 03/09 Al Fayha vs Al Kholood (Lê Lợi)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 03/09 Palermo vs Mantova (Lưu Triệt)
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/slavia-levski-bul1st/index.m3u8
@@ -561,55 +549,55 @@ https://live2.pro2cdnlive.com/live/channel-21.flv
 https://live2.domainkqt.cc/live/channel18.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Nữ PSG vs Nữ Eintracht Frankfurt (HD KEN) [HD]
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001788372990-0-0-fb134b65ec87ca10228be4d50bd1329a
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (FELIX)
-https://live2.domainkqt.cc/live/channel24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (HD FELIX) [HD]
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001788373015-0-0-9969b2d070aeaebd130e6350ef8d1fe4
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001788373897-0-0-0ad415a36ba62aeebb18add007bc14fa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 02/09 Nữ Servette vs Nữ Sparta Praha (XMEN)
 https://live2.domainkqt.cc/live/channel13.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:45 02/09 Nữ Servette vs Nữ Sparta Praha (HD XMEN) [HD]
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001788373028-0-0-3041cafb9b7127199eac3cfd81901c61
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001788373914-0-0-fda560dc02a9658b22bb8d0152a1b474
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Nữ Real Sociedad vs Nữ Chelsea (ASTRA)
 https://live2.domainkqt.cc/live/channel11.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Nữ Real Sociedad vs Nữ Chelsea (HD ASTRA) [HD]
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001788373037-0-0-9060787bc06ff96563724aa0d1d280df
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria (POLO)
-https://live2.domainkqt.cc/live/channel10.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria (HD POLO) [HD]
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001788373056-0-0-8a8c85da5c3a60a854715f3cc200c6ca
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001788373933-0-0-5cf3aa358b1ef82df827ba3efa19a546
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Ceramica Cleopatra vs Future FC (NEMO)
 https://live2.domainkqt.cc/live/channel17.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Ceramica Cleopatra vs Future FC (HD NEMO) [HD]
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001788373071-0-0-46e1587fa9ceee397484dcdd31f7505b
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001788373940-0-0-a377ed3826a6c5365551954f71148493
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria (POLO)
+https://live2.domainkqt.cc/live/channel10.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Abou Qir Fertilizers SC vs Ittihad Alexandria (HD POLO) [HD]
+https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001788373954-0-0-2fc6fcd1e0560aab9bceeb89269b5a27
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (RIO)
+https://live2.domainkqt.cc/live/channel16.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (HD RIO) [HD]
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001788373980-0-0-f59b4d7eb601c6cc071f7e52ff75ada9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:40 02/09 Marta Kostyuk vs Sloane Stephens (LUCAS)
 https://live2.domainkqt.cc/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:40 02/09 Marta Kostyuk vs Sloane Stephens (HD LUCAS) [HD]
-https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001788373077-0-0-6f5477618692a93fdf6b707c49b56253
+https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001788373988-0-0-a40499c0185888350803e2cbbfcb25cf
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Nữ Italy vs Nữ Thụy Điển (TYSON)
 https://live2.domainkqt.cc/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Nữ Italy vs Nữ Thụy Điển (HD TYSON) [HD]
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788373088-0-0-b51f171d677f3c23b454e0be2a164068
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788373994-0-0-f4fe2d06b9c063c034132920d1caa9a0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Galions vs TLN Pirates (MARTY)
 https://live2.domainkqt.cc/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Galions vs TLN Pirates (HD MARTY) [HD]
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001788373099-0-0-2d91755f2b67f9fea70e3fc6090b8da1
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001788374008-0-0-e46258aa9a2740044f706a2f189576df
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 03/09 Puerto Montt vs Colo Colo (ALAN)
 https://live2.pro2cdnlive.com/live/channel25.flv
@@ -671,221 +659,20 @@ https://cdnflv.xbdbotv.live/live/ZjE5NzI5MTIyc2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2R
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough FC (Vịt Nướng) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzI5MTIyc2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2RvcmVxbjU5OTZ3YWs5YjR6Y3dmcHl6YjM/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Sint-Truidense vs Union Saint-Gilloise (BLV BÉO) [geo]
-https://live.inplyr.com/room/459401.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Sint-Truidense vs Union Saint-Gilloise (TUẤN CÙI) [geo]
-https://live.inplyr.com/room/400722.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Red Bull Salzburg vs SK Rapid Wien (BLV A WIN) [geo]
-https://live.inplyr.com/room/536185.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Red Bull Salzburg vs SK Rapid Wien (BOSS) [geo]
-https://live.inplyr.com/room/620504.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 02/09 Nestos Chrysoupoli F.C. vs AEK Athens (CƠM NẾP) [geo]
-https://live.inplyr.com/room/618950.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 02/09 Nestos Chrysoupoli F.C. vs AEK Athens (BLV VOI) [geo]
-https://live.inplyr.com/room/552716.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (BLV CUỘI) [geo]
-https://live.inplyr.com/room/256080.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (LOKA) [geo]
-https://live.inplyr.com/room/589848.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (A BỆU) [geo]
-https://live.inplyr.com/room/484845.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (BLV TOMIA) [geo]
-https://live.inplyr.com/room/187579.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (BLV LONG) [geo]
-https://live.inplyr.com/room/132343.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Zenit St. Petersburg vs Dynamo Makhachkala (BLV PIRLO) [geo]
-https://live.inplyr.com/room/351530.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 02/09 Maxline Vitebsk vs FC Belshina Babruisk (CACAO) [geo]
-https://live.inplyr.com/room/620661.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:40 02/09 Hajer vs Al-Anwar Club (CÔNG CHẤT) [geo]
-https://live.inplyr.com/room/291277.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:40 02/09 Hajer vs Al-Anwar Club (T REX) [geo]
-https://live.inplyr.com/room/619672.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 FC Zbrojovka Brno vs FC Hradec Králové (VINFAST) [geo]
-https://live.inplyr.com/room/617313.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 FC Zbrojovka Brno vs FC Hradec Králové (XUÂN SON) [geo]
-https://live.inplyr.com/room/501412.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 FC Zbrojovka Brno vs FC Hradec Králové (BLV A TINH) [geo]
-https://live.inplyr.com/room/598119.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Udinese vs Venezia (BLV RÔSI) [geo]
-https://live.inplyr.com/room/139384.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Udinese vs Venezia (A PÁO) [geo]
-https://live.inplyr.com/room/235232.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Udinese vs Venezia (BLV LUCAS) [geo]
-https://live.inplyr.com/room/304148.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Udinese vs Venezia (BÁ PHÚ) [geo]
-https://live.inplyr.com/room/118206.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 Udinese vs Venezia (BLV PEWPEW) [geo]
-https://live.inplyr.com/room/109053.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 02/09 FC Flora Tallinn vs Tartu JK Maag Tammeka (ĐỖ TÚ TÀI) [geo]
-https://live.inplyr.com/room/607552.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 02/09 Al Wehda Mecca vs Damac (BLV COCA) [geo]
-https://live.inplyr.com/room/327159.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:15 02/09 Al Wehda Mecca vs Damac (BLV CÒ) [geo]
-https://live.inplyr.com/room/582342.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (NEKO) [geo]
-https://live.inplyr.com/room/625920.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (BLV BẢY) [geo]
-https://live.inplyr.com/room/621843.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (BLV LION) [geo]
-https://live.inplyr.com/room/603255.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (RỒNG ĐẤT) [geo]
-https://live.inplyr.com/room/620649.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (BLV GIÓ) [geo]
-https://live.inplyr.com/room/321443.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Karagumruk vs Kayserispor (BLV ANH TÀI) [geo]
-https://live.inplyr.com/room/406865.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sivasspor vs Mardin 1969 Spor (CHÍ PHÈO) [geo]
-https://live.inplyr.com/room/273736.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Sivasspor vs Mardin 1969 Spor (MP3) [geo]
-https://live.inplyr.com/room/621840.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (BLV ROBBEN) [geo]
-https://live.inplyr.com/room/527383.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (BLV A TÚ) [geo]
-https://live.inplyr.com/room/557845.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (GRAP) [geo]
-https://live.inplyr.com/room/622093.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Baltika Kaliningrad vs Krylya Sovetov (BÒ TƯƠI) [geo]
-https://live.inplyr.com/room/620797.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (XUÂN TÓC ĐỎ) [geo]
-https://live.inplyr.com/room/610518.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (SEVEN) [geo]
-https://live.inplyr.com/room/618546.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs FC Bayern Munich (BLV MESSI) [geo]
-https://live.inplyr.com/room/494201.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (BLV FIREMAN) [geo]
-https://live.inplyr.com/room/250874.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 03/09 Coquimbo Unido vs Universidad de Concepcion (BLV CHIVAS) [geo]
-https://live.inplyr.com/room/485739.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 03/09 Coquimbo Unido vs Universidad de Concepcion (BLV RAMBO) [geo]
-https://live.inplyr.com/room/534055.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 03/09 Coquimbo Unido vs Universidad de Concepcion (HÀ DUY KIÊN) [geo]
-https://live.inplyr.com/room/607400.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo _ RJ vs Mirassol _ SP (CHAN ĐÊ) [geo]
-https://live.inplyr.com/room/621887.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo _ RJ vs Mirassol _ SP (CR Bưởi) [geo]
-https://live.inplyr.com/room/387694.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo _ RJ vs Mirassol _ SP (BLV YONE) [geo]
-https://live.inplyr.com/room/372746.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo _ RJ vs Mirassol _ SP (KENCHU) [geo]
-https://live.inplyr.com/room/622602.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 03/09 Charleston Battery vs Hartford Athletic (BLV VIP) [geo]
-https://live.inplyr.com/room/491873.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 03/09 Charleston Battery vs Hartford Athletic (BLV RYO) [geo]
-https://live.inplyr.com/room/602019.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 03/09 Velez Sarsfield vs Boca Juniors (TRÀ ĐÁ) [geo]
-https://live.inplyr.com/room/603914.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 03/09 Velez Sarsfield vs Boca Juniors (BLV XO) [geo]
-https://live.inplyr.com/room/472241.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 03/09 Velez Sarsfield vs Boca Juniors (BLV HEHE) [geo]
-https://live.inplyr.com/room/622241.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 Deportes Limache vs Nublense (BLV KAN) [geo]
-https://live.inplyr.com/room/283501.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 Santos FC _ SP vs Palmeiras _ SP (BLV Củ Cải) [geo]
-https://live.inplyr.com/room/360663.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 Santos FC _ SP vs Palmeiras _ SP (HẢI THANH) [geo]
-https://live.inplyr.com/room/599634.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 Santos FC _ SP vs Palmeiras _ SP (NGƯỜI CÁ) [geo]
-https://live.inplyr.com/room/595335.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 03/09 Santos FC _ SP vs Palmeiras _ SP (LOGAN) [geo]
-https://live.inplyr.com/room/552832.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/09 Toluca vs Club Leon (BLV ZOWIE) [geo]
-https://live.inplyr.com/room/434982.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/09 Toluca vs Club Leon (BLV ENZO) [geo]
-https://live.inplyr.com/room/380460.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/09 Toluca vs Club Leon (LÃO LÂM) [geo]
-https://live.inplyr.com/room/527384.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 03/09 Vancouver Whitecaps vs Montreal Impact (THOMAS) [geo]
-https://live.inplyr.com/room/414317.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 03/09 Vancouver Whitecaps vs Montreal Impact (SAO LA) [geo]
-https://live.inplyr.com/room/462413.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 03/09 Vancouver Whitecaps vs Montreal Impact (BLV ALEX) [geo]
-https://live.inplyr.com/room/532081.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 03/09 Vancouver Whitecaps vs Montreal Impact (QUỐC KHÁNH) [geo]
-https://live.inplyr.com/room/602153.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:30 03/09 Club America vs Rayados de Monterrey (BLV TAP) [geo]
-https://live.inplyr.com/room/147801.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 03/09 Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (BRIAN) [geo]
-https://live.inplyr.com/room/122591.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 03/09 Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (KING) [geo]
-https://live.inplyr.com/room/168964.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 03/09 Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (BLV HENRY) [geo]
-https://live.inplyr.com/room/428392.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 03/09 Flamengo vs Mirassol FC (blv-ngong) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabruck vs Bayern Munich (Lưu Bị) [hls]
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Italy vs Thuỵ Điển (KaKa) [hls]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Celtic vs Aberdeen (Kevin) [hls]
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid W vs Ajax W (Tiểu Mây) [hls]
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 St. Truiden vs Royale Union SG (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
@@ -893,35 +680,23 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Salzburg vs SK Rapid (Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid W vs Ajax W (Tiểu Mây) [hls]
-https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabruck vs Bayern Munich (Lưu Bị) [hls]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Celtic vs Aberdeen (Kevin) [hls]
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 03/09 India U20 vs Uzbekistan U20 (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 03/09 Salzburg vs Rapid Wien (Mơ) [hls]
-https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs Bayern München (Bút Chì) [hls]
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Millwall vs Wrexham (Củ Cải) [hls]
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia (Ba Rọi Béo) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Real Madrid (W) vs Ajax (W) (Ricky) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 VfL Osnabrück vs Bayern München (Bút Chì) [hls]
-https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 03/09 Millwall vs Wrexham (Củ Cải) [hls]
-https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 03/09 Burnley vs Middlesbrough (Cà Rốt) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
@@ -931,18 +706,6 @@ https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 03/09 Toluca vs León (Quang Huy) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Thichduthu) (FHD) [hls]
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Thichduthu) (FHD) [flv]
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Thichduthu) (HD) [hls]
-https://playback.livetl001.com/live/6a704ad865997681f18c2160.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 02/09 Austria Vienna vs WSG Tirol (Thichduthu) (HD) [flv]
-https://playback.livetl001.com/live/6a704ad865997681f18c2160.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Cleopatra FC vs Modern Sport FC (Mán Núi) (FHD) [hls]
 https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
@@ -967,28 +730,4 @@ https://playback.livetl001.com/live/6a9527d0d9be608784fce9c9.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 03/09 Slavia Sofia vs Levski Sofia ( Jack97) (HD) [flv]
 https://playback.livetl001.com/live/6a9527d0d9be608784fce9c9.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (A Long) (FHD) [hls]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (A Long) (FHD) [flv]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (A Long) (HD) [hls]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:45 03/09 Spartak Moscow vs Rodina Moscow (A Long) (HD) [flv]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Khang Hi) (FHD) [hls]
-https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Khang Hi) (FHD) [flv]
-https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Khang Hi) (HD) [hls]
-https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 03/09 Aarhus AGF vs Midtjylland (Khang Hi) (HD) [flv]
-https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4.flv
 
