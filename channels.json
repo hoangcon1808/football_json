@@ -24,6 +24,106 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Buriram vs Chiangrai Utd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Buriram vs Chiangrai Utd",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Bac Ninh vs Thành phố Hồ Chí Minh",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Bac Ninh vs Thành phố Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Vissel Kobe vs Kashima Antlers",
           "type": "single",
@@ -214,106 +314,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Bac Ninh vs Thành phố Hồ Chí Minh",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Bac Ninh vs Thành phố Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Buriram vs Chiangrai Utd",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Buriram vs Chiangrai Utd",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/59444581.m3u8"
                         }
                       ]
                     }
@@ -5033,7 +5033,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Garudayaksa vs Persik Kediri | 15:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5056,15 +5056,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Garudayaksa vs Persik Kediri | 15:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5083,7 +5083,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Ninh Bình FC vs Thanh Hóa | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5106,15 +5106,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Ninh Bình FC vs Thanh Hóa | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5133,7 +5133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ SHB Đà Nẵng vs Thép Xanh Nam Định | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5156,15 +5156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "SHB Đà Nẵng vs Thép Xanh Nam Định | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5183,7 +5183,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5206,15 +5206,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5233,7 +5233,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Adhyaksa vs Bali United | 15:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5248,33 +5248,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Adhyaksa vs Bali United | 15:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096320_hd/1789096320_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5283,7 +5275,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5298,33 +5290,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789115480_hd/1789115480_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5333,7 +5317,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5348,33 +5332,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789116756_hd/1789116756_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5383,7 +5359,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Tanzania U20 vs Canada U20 | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5398,33 +5374,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Tanzania U20 vs Canada U20 | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096534_hd/1789096534_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5433,7 +5401,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Al Arabi vs Al Urooba | 21:55 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5448,33 +5416,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Al Arabi vs Al Urooba | 21:55 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096612_hd/1789096612_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5483,7 +5443,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Parma U20 vs Genoa U20 | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5498,33 +5458,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Parma U20 vs Genoa U20 | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096716_hd/1789096716_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5533,7 +5485,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5548,33 +5500,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096849_hd/1789096849_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5583,7 +5527,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5598,33 +5542,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096816_hd/1789096816_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5633,7 +5569,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ New Mexico United vs Indy Eleven | 08:30 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5656,15 +5592,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "New Mexico United vs Indy Eleven | 08:30 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5675,7 +5611,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5698,15 +5634,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5717,7 +5653,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Saudi Arabia vs Japan | 17:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5732,33 +5668,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Saudi Arabia vs Japan | 17:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096980_hd/1789096980_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5767,7 +5695,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Nhật Bản vs Ấn Độ | 17:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5782,33 +5710,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Nhật Bản vs Ấn Độ | 17:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789097056_hd/1789097056_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5817,7 +5737,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Ukraine vs North Macedonia | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5832,33 +5752,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Ukraine vs North Macedonia | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789097367_hd/1789097367_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5867,7 +5779,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ Nedtherlands vs Belgium | 21:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5882,33 +5794,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "Nedtherlands vs Belgium | 21:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789097485_hd/1789097485_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5917,7 +5821,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ FURIA vs G2 | 16:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5932,33 +5836,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "FURIA vs G2 | 16:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789115769_hd/1789115769_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -5967,7 +5863,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5982,33 +5878,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789097610_hd/1789097610_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -6017,7 +5905,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-105115",
+          "id": "GIỜ VÀNG-110146",
           "name": "⚽ F1 vs F1 | 18:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -6032,33 +5920,25 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-105115",
+              "id": "GIỜ VÀNG-110146",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-105115",
+                  "id": "GIỜ VÀNG-110146",
                   "name": "F1 vs F1 | 18:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-105115",
+                      "id": "GIỜ VÀNG-110146",
                       "name": "Mặc định",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1788596037_hd/1788596037_hd@720p.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
