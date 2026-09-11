@@ -5033,7 +5033,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5056,15 +5056,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5083,7 +5083,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5106,15 +5106,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5133,7 +5133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5156,15 +5156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5183,7 +5183,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Tanzania U20 vs Canada U20 | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5206,15 +5206,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Tanzania U20 vs Canada U20 | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5233,7 +5233,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Adhyaksa vs Bali United | 15:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5248,25 +5248,33 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Adhyaksa vs Bali United | 15:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789096320_hd/1789096320_hd@720p.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5275,7 +5283,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Al Arabi vs Al Urooba | 21:55 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5298,15 +5306,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Al Arabi vs Al Urooba | 21:55 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5325,7 +5333,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Parma U20 vs Genoa U20 | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5348,15 +5356,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Parma U20 vs Genoa U20 | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5375,7 +5383,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5398,15 +5406,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5425,7 +5433,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5448,15 +5456,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5475,7 +5483,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ New Mexico United vs Indy Eleven | 08:30 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5498,15 +5506,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "New Mexico United vs Indy Eleven | 08:30 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5525,7 +5533,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5548,15 +5556,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5575,7 +5583,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Ukraine vs North Macedonia | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5598,15 +5606,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Ukraine vs North Macedonia | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5625,7 +5633,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ Nedtherlands vs Belgium | 21:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5648,15 +5656,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "Nedtherlands vs Belgium | 21:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5675,7 +5683,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-131152",
+          "id": "GIỜ VÀNG-132117",
           "name": "⚽ ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5698,15 +5706,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-131152",
+              "id": "GIỜ VÀNG-132117",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-131152",
+                  "id": "GIỜ VÀNG-132117",
                   "name": "ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-131152",
+                      "id": "GIỜ VÀNG-132117",
                       "name": "Mặc định",
                       "stream_links": [
                         {
