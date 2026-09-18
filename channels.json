@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-031500",
+          "name": "⚽ 03:15 | Olimpia vs CLB Luis Angel Firpo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/4519ae1d1e9015ef859c968090bbd9de.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-031500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-031500",
+                  "name": "03:15 | Olimpia vs CLB Luis Angel Firpo",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-031500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-020000",
           "name": "⚽ 02:00 | Seattle Storm vs Las Vegas Aces",
           "type": "single",
@@ -114,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-031500",
-          "name": "⚽ 03:15 | Olimpia vs CLB Luis Angel Firpo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/4519ae1d1e9015ef859c968090bbd9de.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-031500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-031500",
-                  "name": "03:15 | Olimpia vs CLB Luis Angel Firpo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-031500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
@@ -3533,7 +3533,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Vanraure Hachinohe FC vs Miyazaki | 11:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3556,15 +3556,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Vanraure Hachinohe FC vs Miyazaki | 11:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3583,7 +3583,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ U23 Philippies vs U23 Việt Nam | 13:30 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3606,15 +3606,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "U23 Philippies vs U23 Việt Nam | 13:30 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3633,7 +3633,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Portland Fire vs Phoenix Mercury | 09:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3656,15 +3656,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Portland Fire vs Phoenix Mercury | 09:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3683,7 +3683,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Seattle Storm vs Las Vegas Aces | 09:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3706,15 +3706,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Seattle Storm vs Las Vegas Aces | 09:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3733,7 +3733,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Atlanta Dream vs Connecticut Sun | 06:30 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3756,15 +3756,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Atlanta Dream vs Connecticut Sun | 06:30 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3783,7 +3783,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Chinese Taipei (W) vs Mongolia (W) | 11:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3806,15 +3806,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Chinese Taipei (W) vs Mongolia (W) | 11:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3833,7 +3833,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Kazakhstan vs China | 11:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3856,15 +3856,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Kazakhstan vs China | 11:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3883,7 +3883,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Quatar vs Hồng Kông | 11:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3906,15 +3906,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Quatar vs Hồng Kông | 11:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3933,7 +3933,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Việt Nam vs Hàn Quốc | 14:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3956,15 +3956,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Việt Nam vs Hàn Quốc | 14:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3983,7 +3983,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Mông Cổ vs Kyrgyzstan | 14:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4006,15 +4006,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Mông Cổ vs Kyrgyzstan | 14:00 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4033,7 +4033,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Buffalo Bills vs Detroit Lions | 07:15 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4056,15 +4056,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Buffalo Bills vs Detroit Lions | 07:15 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4083,7 +4083,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4106,15 +4106,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4133,7 +4133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Van vs Pantoja 2 | 04:00 20/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4156,15 +4156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Van vs Pantoja 2 | 04:00 20/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4183,7 +4183,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4206,15 +4206,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4233,7 +4233,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4256,15 +4256,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4283,7 +4283,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Rosas Jr. vs Barcelos | 02:00 27/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4306,15 +4306,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Rosas Jr. vs Barcelos | 02:00 27/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4333,7 +4333,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-031115",
+          "id": "GIỜ VÀNG-032118",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4356,15 +4356,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-031115",
+              "id": "GIỜ VÀNG-032118",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-031115",
+                  "id": "GIỜ VÀNG-032118",
                   "name": "Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-031115",
+                      "id": "GIỜ VÀNG-032118",
                       "name": "Mặc định",
                       "stream_links": [
                         {
