@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-093000",
-          "name": "⚽ 09:30 | Cairns Taipans vs Tasmania JackJumpers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-093000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-093000",
-                  "name": "09:30 | Cairns Taipans vs Tasmania JackJumpers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-093000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-103000",
           "name": "⚽ 10:30 | Nhật Bản U23 vs Thái Lan U23",
           "type": "single",
@@ -164,6 +114,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-093000",
+          "name": "⚽ 09:30 | Cairns Taipans vs Tasmania JackJumpers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-093000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-093000",
+                  "name": "09:30 | Cairns Taipans vs Tasmania JackJumpers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-093000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
                         }
                       ]
                     }
