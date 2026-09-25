@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Los Angeles Sparks vs Golden State Valkyries",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Los Angeles Sparks vs Golden State Valkyries",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/90865415_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-050000",
           "name": "⚽ 05:00 | KCC Egis vs LG Sakers",
           "type": "single",
@@ -3274,6 +3224,106 @@
           ]
         },
         {
+          "id": "CO LA TV-184500",
+          "name": "⚽ 18:45 | Cộng hòa Séc vs Croatia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-184500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-184500",
+                  "name": "18:45 | Cộng hòa Séc vs Croatia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-184500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-080000",
+          "name": "⚽ 08:00 | Sydney vs Illawarra Hawks",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-080000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-080000",
+                  "name": "08:00 | Sydney vs Illawarra Hawks",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-080000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-090000",
           "name": "⚽ 09:00 | Đồng Tháp vs Thai Nguyen",
           "type": "single",
@@ -3314,6 +3364,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/16226575_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | ĐTQG Áo vs ĐTQG Kosovo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | ĐTQG Áo vs ĐTQG Kosovo",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
                         }
                       ]
                     }
