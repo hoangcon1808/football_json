@@ -224,56 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-183000",
-          "name": "⚽ 18:30 | CLB Girona vs CLB Albacete",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/006ce259b33ef72dd5570cfa8dc39f38.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-183000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-183000",
-                  "name": "18:30 | CLB Girona vs CLB Albacete",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-183000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-184500",
           "name": "⚽ 18:45 | ĐTQG Ba Lan vs ĐTQG Bosnia Herzegovina",
           "type": "single",
@@ -314,6 +264,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Ma Rốc vs Gabon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Ma Rốc vs Gabon",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
                         }
                       ]
                     }
@@ -374,8 +374,8 @@
           ]
         },
         {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | Ma Rốc vs Gabon",
+          "id": "CO LA TV-183000",
+          "name": "⚽ 18:30 | CLB Girona vs CLB Albacete",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -383,7 +383,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
+            "url": "https://img.gvapi.cc/football/team/006ce259b33ef72dd5570cfa8dc39f38.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -397,15 +397,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-190000",
+              "id": "CO LA TV-183000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | Ma Rốc vs Gabon",
+                  "id": "CO LA TV-183000",
+                  "name": "18:30 | CLB Girona vs CLB Albacete",
                   "streams": [
                     {
-                      "id": "CO LA TV-190000",
+                      "id": "CO LA TV-183000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -413,7 +413,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
                         }
                       ]
                     }
