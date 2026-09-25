@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Anyang KGC vs Busan KTF Sonicboom",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Anyang KGC vs Busan KTF Sonicboom",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/90865415_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-090000",
           "name": "⚽ 09:00 | Bangladesh vs Malaysia",
           "type": "single",
@@ -114,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Anyang KGC vs Busan KTF Sonicboom",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Anyang KGC vs Busan KTF Sonicboom",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/90865415_tsc.m3u8"
                         }
                       ]
                     }
@@ -625,7 +625,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | ĐTQG U21 Iceland vs Đội tuyển U21 Pháp",
+          "name": "⚽ 15:00 | U21 Iceland vs U21 Pháp",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -652,7 +652,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | ĐTQG U21 Iceland vs Đội tuyển U21 Pháp",
+                  "name": "15:00 | U21 Iceland vs U21 Pháp",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
@@ -2625,7 +2625,7 @@
         },
         {
           "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Đội tuyển bóng đá quốc gia Kenya vs Eritrea",
+          "name": "⚽ 13:00 | Kenya vs Eritrea",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2652,7 +2652,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-130000",
-                  "name": "13:00 | Đội tuyển bóng đá quốc gia Kenya vs Eritrea",
+                  "name": "13:00 | Kenya vs Eritrea",
                   "streams": [
                     {
                       "id": "CO LA TV-130000",
@@ -2725,7 +2725,7 @@
         },
         {
           "id": "CO LA TV-141500",
-          "name": "⚽ 14:15 | Câu lạc bộ bóng đá Granada vs Andorra",
+          "name": "⚽ 14:15 | Granada vs Andorra",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2752,7 +2752,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-141500",
-                  "name": "14:15 | Câu lạc bộ bóng đá Granada vs Andorra",
+                  "name": "14:15 | Granada vs Andorra",
                   "streams": [
                     {
                       "id": "CO LA TV-141500",
@@ -3275,7 +3275,7 @@
         },
         {
           "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Đội tuyển QG Bắc Macedonia vs Thụy Sĩ",
+          "name": "⚽ 18:45 | Bắc Macedonia vs Thụy Sĩ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3302,7 +3302,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-184500",
-                  "name": "18:45 | Đội tuyển QG Bắc Macedonia vs Thụy Sĩ",
+                  "name": "18:45 | Bắc Macedonia vs Thụy Sĩ",
                   "streams": [
                     {
                       "id": "CO LA TV-184500",
@@ -3375,7 +3375,7 @@
         },
         {
           "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Đội tuyển Quốc gia Slovakia vs ĐTQG Moldova",
+          "name": "⚽ 18:45 | Slovakia vs Moldova",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3402,7 +3402,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-184500",
-                  "name": "18:45 | Đội tuyển Quốc gia Slovakia vs ĐTQG Moldova",
+                  "name": "18:45 | Slovakia vs Moldova",
                   "streams": [
                     {
                       "id": "CO LA TV-184500",
@@ -3675,7 +3675,7 @@
         },
         {
           "id": "CO LA TV-233000",
-          "name": "⚽ 23:30 | New York Red Bulls vs Thành phố St. Louis SC",
+          "name": "⚽ 23:30 | New York Red Bulls vs St. Louis City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3702,7 +3702,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-233000",
-                  "name": "23:30 | New York Red Bulls vs Thành phố St. Louis SC",
+                  "name": "23:30 | New York Red Bulls vs St. Louis City",
                   "streams": [
                     {
                       "id": "CO LA TV-233000",
