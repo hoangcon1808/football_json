@@ -174,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-233000",
-          "name": "⚽ 23:30 | Everton vs U. De Chile",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-233000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-233000",
-                  "name": "23:30 | Everton vs U. De Chile",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-233000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-000000",
           "name": "⚽ 00:00 | Minnesota Lynx vs Indiana Fever",
           "type": "single",
@@ -314,6 +264,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-233000",
+          "name": "⚽ 23:30 | Everton vs U. De Chile",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-233000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-233000",
+                  "name": "23:30 | Everton vs U. De Chile",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-233000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
                         }
                       ]
                     }
