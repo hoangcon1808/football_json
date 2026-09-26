@@ -24,6 +24,106 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-000000",
+          "name": "⚽ 00:00 | Barbados vs Saint Lucia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/5e56343dada029d40a90b44e1ca3d495.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-000000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-000000",
+                  "name": "00:00 | Barbados vs Saint Lucia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-000000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-000000",
+          "name": "⚽ 00:00 | Jamaica vs Guatemala",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-000000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-000000",
+                  "name": "00:00 | Jamaica vs Guatemala",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-000000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-223000",
           "name": "⚽ 22:30 | CLB Gremio Novorizontin vs Sao Bernardo",
           "type": "single",
@@ -125,56 +225,6 @@
         },
         {
           "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Barbados vs Saint Lucia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/5e56343dada029d40a90b44e1ca3d495.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-000000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | Barbados vs Saint Lucia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-000000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-000000",
           "name": "⚽ 00:00 | Bonaire vs Saint Kitts & Nevis",
           "type": "single",
           "display": "thumbnail-only",
@@ -214,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Jamaica vs Guatemala",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-000000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | Jamaica vs Guatemala",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-000000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
                         }
                       ]
                     }
@@ -806,56 +806,6 @@
                   "streams": [
                     {
                       "id": "CO LA TV-103000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Niva Dolbizno vs Volna Pinsk",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/f509d6bfe4b8077bb1be2fdaf58be503.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Niva Dolbizno vs Volna Pinsk",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
                       "name": "Chính",
                       "stream_links": [
                         {
