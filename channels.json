@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-090000",
+          "name": "⚽ 09:00 | Pakistan vs Thái Lan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-090000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-090000",
+                  "name": "09:00 | Pakistan vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-090000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/14830711_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | CLB Omiya Ardija vs CLB Ventforet",
           "type": "single",
@@ -114,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-090000",
-          "name": "⚽ 09:00 | Pakistan vs Thái Lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-090000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-090000",
-                  "name": "09:00 | Pakistan vs Thái Lan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-090000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/78905744_tsc.m3u8"
                         }
                       ]
                     }
@@ -413,7 +413,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -1163,7 +1163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -3463,7 +3463,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/78905744_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
                         }
                       ]
                     }
@@ -4513,7 +4513,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
