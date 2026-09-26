@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "CO LA TV-223000",
-          "name": "⚽ 22:30 | CLB Gremio Novorizontin vs Sao Bernardo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-223000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-223000",
-                  "name": "22:30 | CLB Gremio Novorizontin vs Sao Bernardo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-223000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-230000",
           "name": "⚽ 23:00 | Hartford Athletic vs Louisville City FC",
           "type": "single",
@@ -275,56 +225,6 @@
         },
         {
           "id": "CO LA TV-010000",
-          "name": "⚽ 01:00 | CLB Atlante vs Monterrey",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-010000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-010000",
-                  "name": "01:00 | CLB Atlante vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-010000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-010000",
           "name": "⚽ 01:00 | Honduras vs Suriname",
           "type": "single",
           "display": "thumbnail-only",
@@ -364,6 +264,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-010000",
+          "name": "⚽ 01:00 | CLB Atlante vs Monterrey",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-010000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-010000",
+                  "name": "01:00 | CLB Atlante vs Monterrey",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-010000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
                         }
                       ]
                     }
