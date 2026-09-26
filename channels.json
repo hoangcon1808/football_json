@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "CO LA TV-093000",
-          "name": "⚽ 09:30 | Turkmenistan vs Palestine",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/366c97caa1e66d39a0c21edb8fdc9caf.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-093000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-093000",
-                  "name": "09:30 | Turkmenistan vs Palestine",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-093000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | CLB Omiya Ardija vs CLB Ventforet",
           "type": "single",
@@ -2074,6 +2024,56 @@
           ]
         },
         {
+          "id": "CO LA TV-023000",
+          "name": "⚽ 02:30 | CLB LA Galaxy vs Colorado Rapids",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-023000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-023000",
+                  "name": "02:30 | CLB LA Galaxy vs Colorado Rapids",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-023000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-030500",
           "name": "⚽ 03:05 | Santos Laguna vs Pachuca",
           "type": "single",
@@ -2764,6 +2764,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-120000",
+          "name": "⚽ 12:00 | Manchester Utd Nữ vs West Ham Nữ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/db33359c11033fc28c9bedec0a4a89d9.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-120000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-120000",
+                  "name": "12:00 | Manchester Utd Nữ vs West Ham Nữ",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-120000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
