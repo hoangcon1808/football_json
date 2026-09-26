@@ -25,56 +25,6 @@
       "channels": [
         {
           "id": "CO LA TV-030000",
-          "name": "⚽ 03:00 | El Salvador vs Martinique",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030000",
-                  "name": "03:00 | El Salvador vs Martinique",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-030000",
           "name": "⚽ 03:00 | Club Tijuana vs Atlas",
           "type": "single",
           "display": "thumbnail-only",
