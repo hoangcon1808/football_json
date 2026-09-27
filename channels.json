@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-123000",
-          "name": "⚽ 12:30 | Hanoi buffalo vs Sài Gòn Heat",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-123000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-123000",
-                  "name": "12:30 | Hanoi buffalo vs Sài Gòn Heat",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-123000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-141500",
           "name": "⚽ 14:15 | RCD Mallorca vs CLB Almeria",
           "type": "single",
