@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Antigua and Barbuda vs Anguilla",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/04f82a7b2f5afd90b0e0672f7cbbf2da.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | Antigua and Barbuda vs Anguilla",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-004000",
           "name": "⚽ 00:40 | Houston Dynamo vs Kansas City",
           "type": "single",
@@ -214,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-225000",
-          "name": "⚽ 22:50 | Cruz Azul vs Toluca",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-225000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-225000",
-                  "name": "22:50 | Cruz Azul vs Toluca",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-225000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
