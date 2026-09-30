@@ -3624,6 +3624,56 @@
           ]
         },
         {
+          "id": "CO LA TV-131500",
+          "name": "⚽ 13:15 | Al Ain vs Ajman",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-131500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-131500",
+                  "name": "13:15 | Al Ain vs Ajman",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-131500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-133000",
           "name": "⚽ 13:30 | Eintracht Frankfurt vs Braunschweig",
           "type": "single",
@@ -3756,6 +3806,56 @@
                   "streams": [
                     {
                       "id": "CO LA TV-142500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-154500",
+          "name": "⚽ 15:45 | CLB Al Ahli vs Al Nasr Dubai",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-154500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-154500",
+                  "name": "15:45 | CLB Al Ahli vs Al Nasr Dubai",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-154500",
                       "name": "Chính",
                       "stream_links": [
                         {
