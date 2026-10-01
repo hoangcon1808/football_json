@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | ĐTQG Đan Mạch vs Bồ Đào Nha",
+          "id": "CO LA TV-210000",
+          "name": "⚽ 21:00 | Dominica vs Guyana",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
+            "url": "https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-184500",
+              "id": "CO LA TV-210000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | ĐTQG Đan Mạch vs Bồ Đào Nha",
+                  "id": "CO LA TV-210000",
+                  "name": "21:00 | Dominica vs Guyana",
                   "streams": [
                     {
-                      "id": "CO LA TV-184500",
+                      "id": "CO LA TV-210000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,207 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Đức vs Serbia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-184500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | Đức vs Serbia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-184500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | CLB Greece vs ĐTQG Hà Lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-184500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | CLB Greece vs ĐTQG Hà Lan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-184500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Ireland vs ĐTQG Áo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-184500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | Ireland vs ĐTQG Áo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-184500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | ĐTQG Israel vs ĐTQG Kosovo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a370afda41a7ae62dcb8d1b721b92bed.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-184500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | ĐTQG Israel vs ĐTQG Kosovo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-184500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
                         }
                       ]
                     }
@@ -314,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Dominica vs Guyana",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Dominica vs Guyana",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
                         }
                       ]
                     }
@@ -1563,7 +1313,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
