@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-131000",
-          "name": "⚽ 13:10 | CLB Al Ahli vs Dubai Hoa Kỳ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-131000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-131000",
-                  "name": "13:10 | CLB Al Ahli vs Dubai Hoa Kỳ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-131000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-131000",
-          "name": "⚽ 13:10 | Al Ain vs Ittihad Kalba",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-131000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-131000",
-                  "name": "13:10 | Al Ain vs Ittihad Kalba",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-131000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-140000",
           "name": "⚽ 14:00 | Arab Contractors vs El Gouna",
           "type": "single",
@@ -2224,6 +2124,56 @@
           ]
         },
         {
+          "id": "CO LA TV-123000",
+          "name": "⚽ 12:30 | Veres-Rivne vs Câu lạc bộ bóng đá Shakhtar Donetsk",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a707913a6243a0bf393035cbdbfbccf0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-123000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-123000",
+                  "name": "12:30 | Veres-Rivne vs Câu lạc bộ bóng đá Shakhtar Donetsk",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-123000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-131000",
           "name": "⚽ 13:10 | Al Wahda vs CLB Al Dhafra",
           "type": "single",
@@ -2264,56 +2214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-133000",
-          "name": "⚽ 13:30 | Veres-Rivne vs Câu lạc bộ bóng đá Shakhtar Donetsk",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a707913a6243a0bf393035cbdbfbccf0.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-133000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-133000",
-                  "name": "13:30 | Veres-Rivne vs Câu lạc bộ bóng đá Shakhtar Donetsk",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-133000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/08552895_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-141500",
+          "name": "⚽ 14:15 | Alaves vs Atlético Madrid",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-141500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-141500",
+                  "name": "14:15 | Alaves vs Atlético Madrid",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-141500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-151500",
+          "name": "⚽ 15:15 | Lille OSC vs Le Havre",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-151500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-151500",
+                  "name": "15:15 | Lille OSC vs Le Havre",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-151500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
