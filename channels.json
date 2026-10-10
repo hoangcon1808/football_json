@@ -4874,8 +4874,8 @@
           ]
         },
         {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Charlotte Hornets vs Milwaukee Bucks",
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | CLB San Lorenzo vs Dep. Riestra",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4883,7 +4883,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
+            "url": "https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4897,15 +4897,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-230000",
+              "id": "CO LA TV-174500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | Charlotte Hornets vs Milwaukee Bucks",
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | CLB San Lorenzo vs Dep. Riestra",
                   "streams": [
                     {
-                      "id": "CO LA TV-230000",
+                      "id": "CO LA TV-174500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4913,7 +4913,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -4924,8 +4924,8 @@
           ]
         },
         {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Arab Contractors vs ZED FC",
+          "id": "CO LA TV-180000",
+          "name": "⚽ 18:00 | Al-Shabab vs Al-Taawoun",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4933,7 +4933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80",
+            "url": "https://img.gvapi.cc/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4947,15 +4947,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-140000",
+              "id": "CO LA TV-180000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Arab Contractors vs ZED FC",
+                  "id": "CO LA TV-180000",
+                  "name": "18:00 | Al-Shabab vs Al-Taawoun",
                   "streams": [
                     {
-                      "id": "CO LA TV-140000",
+                      "id": "CO LA TV-180000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4963,7 +4963,57 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-184500",
+          "name": "⚽ 18:45 | CLB Cagliari vs Juventus F.C.",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/dba65c184e03c860ed919ce192b86c5e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-184500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-184500",
+                  "name": "18:45 | CLB Cagliari vs Juventus F.C.",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-184500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
                         }
                       ]
                     }
