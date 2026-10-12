@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-184500",
+          "name": "⚽ 18:45 | Torino F.C. vs Udinese Calcio",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-184500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-184500",
+                  "name": "18:45 | Torino F.C. vs Udinese Calcio",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-184500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/78905744_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-181500",
           "name": "⚽ 18:15 | Al-Nassr vs Neftchi Fargona",
           "type": "single",
@@ -64,6 +114,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/07428422_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | CLB Coventry City vs Câu lạc bộ bóng đá Newcastle United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | CLB Coventry City vs Câu lạc bộ bóng đá Newcastle United",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8"
                         }
                       ]
                     }
@@ -374,56 +474,6 @@
           ]
         },
         {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Torino F.C. vs Udinese Calcio",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-184500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | Torino F.C. vs Udinese Calcio",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-184500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/78905744_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-190000",
           "name": "⚽ 19:00 | CLB Levante vs Sevilla FC",
           "type": "single",
@@ -464,56 +514,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | CLB Coventry City vs Câu lạc bộ bóng đá Newcastle United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-190000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | CLB Coventry City vs Câu lạc bộ bóng đá Newcastle United",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-190000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8"
                         }
                       ]
                     }
