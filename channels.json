@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-134500",
-          "name": "⚽ 13:45 | CLB Nasaf Qarshi vs Al Wahda",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/bef3a45bcf56447c8acfb7b077820022.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-134500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-134500",
-                  "name": "13:45 | CLB Nasaf Qarshi vs Al Wahda",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-134500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-140000",
           "name": "⚽ 14:00 | Manchester City U19 vs Paris Saint Germain U19",
           "type": "single",
@@ -175,56 +125,6 @@
         },
         {
           "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Al Jazira vs FC bạn bè",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Al Jazira vs FC bạn bè",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | Al-Taawoun vs Al Rayyan",
           "type": "single",
           "display": "thumbnail-only",
@@ -264,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Jazira vs Arkadag",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Jazira vs Arkadag",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
                         }
                       ]
                     }
