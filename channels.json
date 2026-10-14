@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Manchester City U19 vs Paris Saint Germain U19",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/f2c086fbf1d76565658571e7e9bccf2b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-140000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Manchester City U19 vs Paris Saint Germain U19",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-140000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-153000",
           "name": "⚽ 15:30 | Akhmat Grozny vs Dynamo Moscow",
           "type": "single",
@@ -175,56 +125,6 @@
         },
         {
           "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Al Jazira vs Arkadag",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Al Jazira vs Arkadag",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | Al-Muharraq vs Gol Gohar",
           "type": "single",
           "display": "thumbnail-only",
@@ -264,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/14707124_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Jazira vs Arkadag",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Jazira vs Arkadag",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
                         }
                       ]
                     }
@@ -925,7 +875,7 @@
         },
         {
           "id": "CO LA TV-233000",
-          "name": "⚽ 23:30 | Đội bóng rổ Boston Celtics vs Charlotte Hornets",
+          "name": "⚽ 23:30 | Boston Celtics vs Charlotte Hornets",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -952,7 +902,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-233000",
-                  "name": "23:30 | Đội bóng rổ Boston Celtics vs Charlotte Hornets",
+                  "name": "23:30 | Boston Celtics vs Charlotte Hornets",
                   "streams": [
                     {
                       "id": "CO LA TV-233000",
@@ -975,7 +925,7 @@
         },
         {
           "id": "CO LA TV-233000",
-          "name": "⚽ 23:30 | CLB Toronto  vs Orlando City",
+          "name": "⚽ 23:30 | CLB Toronto vs Orlando City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1002,7 +952,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-233000",
-                  "name": "23:30 | CLB Toronto  vs Orlando City",
+                  "name": "23:30 | CLB Toronto vs Orlando City",
                   "streams": [
                     {
                       "id": "CO LA TV-233000",
