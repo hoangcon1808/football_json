@@ -4972,6 +4972,56 @@
               ]
             }
           ]
+        },
+        {
+          "id": "CO LA TV-040000",
+          "name": "⚽ 04:00 | Tasmania JackNgười Nhảy vs New Zealand Breakers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-040000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-040000",
+                  "name": "04:00 | Tasmania JackNgười Nhảy vs New Zealand Breakers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-040000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/19919577_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
