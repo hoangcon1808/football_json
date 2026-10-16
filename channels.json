@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-131500",
+          "name": "⚽ 13:15 | Al Qadisiya vs Abha",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-131500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-131500",
+                  "name": "13:15 | Al Qadisiya vs Abha",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-131500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-130500",
           "name": "⚽ 13:05 | CLB Al Dhafra vs Dubai Hoa Kỳ",
           "type": "single",
@@ -274,8 +324,8 @@
           ]
         },
         {
-          "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Tanjong Pagar vs Hougang",
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | CLB Kuruvchi Kokand Qoqon vs Neftchi Fargona",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -283,7 +333,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80",
+            "url": "https://img.gvapi.cc/football/team/e353807a23ce0c8d0d21e091d5f21972.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -297,15 +347,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-113000",
+              "id": "CO LA TV-140000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-113000",
-                  "name": "11:30 | Tanjong Pagar vs Hougang",
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | CLB Kuruvchi Kokand Qoqon vs Neftchi Fargona",
                   "streams": [
                     {
-                      "id": "CO LA TV-113000",
+                      "id": "CO LA TV-140000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -313,57 +363,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.zhwpg.app/live/90865415_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-131500",
-          "name": "⚽ 13:15 | Al Qadisiya vs Abha",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-131500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-131500",
-                  "name": "13:15 | Al Qadisiya vs Abha",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-131500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8"
+                          "url": "https://live05.zhwpg.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -464,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | CLB Kuruvchi Kokand Qoqon vs Neftchi Fargona",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/e353807a23ce0c8d0d21e091d5f21972.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-140000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | CLB Kuruvchi Kokand Qoqon vs Neftchi Fargona",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-140000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/14830711_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | CLB Seoul vs Gimcheon Sangmu FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | CLB Seoul vs Gimcheon Sangmu FC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/99121525_tsc.m3u8"
                         }
                       ]
                     }
