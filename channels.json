@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Everton vs Chelsea",
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | CLB Venezia vs S.S.C. Napoli",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",
+            "url": "https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-113000",
+              "id": "CO LA TV-130000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-113000",
-                  "name": "11:30 | Everton vs Chelsea",
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | CLB Venezia vs S.S.C. Napoli",
                   "streams": [
                     {
-                      "id": "CO LA TV-113000",
+                      "id": "CO LA TV-130000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8"
+                          "url": "https://live05.zhwpg.app/live/75748097_tsc.m3u8"
                         }
                       ]
                     }
@@ -224,56 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | CLB Venezia vs S.S.C. Napoli",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-130000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | CLB Venezia vs S.S.C. Napoli",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-130000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-120000",
           "name": "⚽ 12:00 | Shandong Taishan vs Zhejiang Professional",
           "type": "single",
@@ -424,56 +374,6 @@
           ]
         },
         {
-          "id": "CO LA TV-133000",
-          "name": "⚽ 13:30 | SV Werder Bremen vs Paderborn",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-133000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-133000",
-                  "name": "13:30 | SV Werder Bremen vs Paderborn",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-133000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/87379114_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-140000",
           "name": "⚽ 14:00 | CLB Swansea City vs West Ham United",
           "type": "single",
@@ -525,7 +425,7 @@
         },
         {
           "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Câu lạc bộ bóng đá Brentford vs Liverpool",
+          "name": "⚽ 14:00 | Brentford vs Liverpool",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -552,7 +452,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-140000",
-                  "name": "14:00 | Câu lạc bộ bóng đá Brentford vs Liverpool",
+                  "name": "14:00 | Brentford vs Liverpool",
                   "streams": [
                     {
                       "id": "CO LA TV-140000",
@@ -575,7 +475,7 @@
         },
         {
           "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Câu lạc bộ bóng đá thành phố Manchester vs CLB Ipswich Town",
+          "name": "⚽ 14:00 | Manchester City vs CLB Ipswich Town",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -602,7 +502,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-140000",
-                  "name": "14:00 | Câu lạc bộ bóng đá thành phố Manchester vs CLB Ipswich Town",
+                  "name": "14:00 | Manchester City vs CLB Ipswich Town",
                   "streams": [
                     {
                       "id": "CO LA TV-140000",
@@ -625,7 +525,7 @@
         },
         {
           "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Birmingham City vs Câu lạc bộ bóng đá Queens Park Rangers",
+          "name": "⚽ 14:00 | Birmingham City vs Queens Park Rangers",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -652,7 +552,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-140000",
-                  "name": "14:00 | Birmingham City vs Câu lạc bộ bóng đá Queens Park Rangers",
+                  "name": "14:00 | Birmingham City vs Queens Park Rangers",
                   "streams": [
                     {
                       "id": "CO LA TV-140000",
@@ -675,7 +575,7 @@
         },
         {
           "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Câu lạc bộ bóng đá Fulham vs CLB Hull City",
+          "name": "⚽ 14:00 | Fulham vs CLB Hull City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -702,7 +602,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-140000",
-                  "name": "14:00 | Câu lạc bộ bóng đá Fulham vs CLB Hull City",
+                  "name": "14:00 | Fulham vs CLB Hull City",
                   "streams": [
                     {
                       "id": "CO LA TV-140000",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | El Gouna vs Smouha",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/35e665fa4086e183fda582249d625c2b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | El Gouna vs Smouha",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | CLB Manisa BB Spor vs CLB Muglaspor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/952ab041b861b04dee0bc92f155a2a32.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | CLB Manisa BB Spor vs CLB Muglaspor",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
