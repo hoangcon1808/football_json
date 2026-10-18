@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-045500",
-          "name": "⚽ 04:55 | Fagiano Okayama vs Vissel Kobe",
+          "id": "CO LA TV-070000",
+          "name": "⚽ 07:00 | Machida vs Avispa Fukuoka",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80",
+            "url": "https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-045500",
+              "id": "CO LA TV-070000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-045500",
-                  "name": "04:55 | Fagiano Okayama vs Vissel Kobe",
+                  "id": "CO LA TV-070000",
+                  "name": "07:00 | Machida vs Avispa Fukuoka",
                   "streams": [
                     {
-                      "id": "CO LA TV-045500",
+                      "id": "CO LA TV-070000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.zhwpg.app/live/07428422_tsc.m3u8"
+                          "url": "https://live05.zhwpg.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -75,7 +75,7 @@
         },
         {
           "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd",
+          "name": "⚽ 05:00 | Seoul Knights vs Goyang Carrot Jumpers",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
+            "url": "https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -102,7 +102,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-050000",
-                  "name": "05:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd",
+                  "name": "05:00 | Seoul Knights vs Goyang Carrot Jumpers",
                   "streams": [
                     {
                       "id": "CO LA TV-050000",
@@ -113,7 +113,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.zhwpg.app/live/02456966_tsc.m3u8"
+                          "url": "https://live05.zhwpg.app/live/90865415_tsc.m3u8"
                         }
                       ]
                     }
@@ -175,7 +175,7 @@
         },
         {
           "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | Seoul Knights vs Goyang Carrot Jumpers",
+          "name": "⚽ 05:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
+            "url": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -202,7 +202,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-050000",
-                  "name": "05:00 | Seoul Knights vs Goyang Carrot Jumpers",
+                  "name": "05:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd",
                   "streams": [
                     {
                       "id": "CO LA TV-050000",
@@ -213,7 +213,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.zhwpg.app/live/90865415_tsc.m3u8"
+                          "url": "https://live05.zhwpg.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -264,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/87379114_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-070000",
-          "name": "⚽ 07:00 | Machida vs Avispa Fukuoka",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-070000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-070000",
-                  "name": "07:00 | Machida vs Avispa Fukuoka",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-070000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/14830711_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-151000",
+          "name": "⚽ 15:10 | Al-Taawoun vs Al Qadisiya",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/440da1fad5d16ada9a9742bf5d14c98e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-151000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-151000",
+                  "name": "15:10 | Al-Taawoun vs Al Qadisiya",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-151000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
