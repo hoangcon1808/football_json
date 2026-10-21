@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Persija Jakarta vs Arema Malang",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Persija Jakarta vs Arema Malang",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Lille U19 vs Galatasaray U19",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/ada208e7101560665bdcb350110f7fe3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Lille U19 vs Galatasaray U19",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-123000",
           "name": "⚽ 12:30 | Hang Yuen vs Manila Digger FC",
           "type": "single",
@@ -275,7 +175,7 @@
         },
         {
           "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Bayern U19 vs Arsenal U19",
+          "name": "⚽ 14:00 | Inter Milan U19 vs FC Shakhtar Donetsk U19",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -302,7 +202,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-140000",
-                  "name": "14:00 | Bayern U19 vs Arsenal U19",
+                  "name": "14:00 | Inter Milan U19 vs FC Shakhtar Donetsk U19",
                   "streams": [
                     {
                       "id": "CO LA TV-140000",
