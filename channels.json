@@ -25,56 +25,6 @@
       "channels": [
         {
           "id": "CO LA TV-164500",
-          "name": "⚽ 16:45 | Lech Poznan vs Sunderland",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-164500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-164500",
-                  "name": "16:45 | Lech Poznan vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-164500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-164500",
           "name": "⚽ 16:45 | Juventus F.C. vs Stade Rennais",
           "type": "single",
           "display": "thumbnail-only",
@@ -114,56 +64,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-164500",
-          "name": "⚽ 16:45 | OFI Crete vs Bayer 04 Leverkusen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/01d8746ddbb161bab93cb42dd8f1d1db.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-164500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-164500",
-                  "name": "16:45 | OFI Crete vs Bayer 04 Leverkusen",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-164500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
@@ -225,6 +125,206 @@
         },
         {
           "id": "CO LA TV-164500",
+          "name": "⚽ 16:45 | Lech Poznan vs Sunderland",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-164500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-164500",
+                  "name": "16:45 | Lech Poznan vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-164500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-164500",
+          "name": "⚽ 16:45 | OFI Crete vs Bayer 04 Leverkusen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/01d8746ddbb161bab93cb42dd8f1d1db.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-164500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-164500",
+                  "name": "16:45 | OFI Crete vs Bayer 04 Leverkusen",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-164500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-164500",
+          "name": "⚽ 16:45 | Sturm Graz vs Olympique de Marseille",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/4cc9044aed34f71c4e79bd260ea938fb.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-164500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-164500",
+                  "name": "16:45 | Sturm Graz vs Olympique de Marseille",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-164500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/02456966_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-164500",
+          "name": "⚽ 16:45 | Dinamo Zagreb vs CLB NEC Nijmegen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-164500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-164500",
+                  "name": "16:45 | Dinamo Zagreb vs CLB NEC Nijmegen",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-164500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-164500",
           "name": "⚽ 16:45 | FC Ararat-Armenia vs AZ Alkmaar",
           "type": "single",
           "display": "thumbnail-only",
@@ -275,7 +375,7 @@
         },
         {
           "id": "CO LA TV-164500",
-          "name": "⚽ 16:45 | Câu lạc bộ Bóng đá Sao Đỏ vs FC Copenhagen",
+          "name": "⚽ 16:45 | Crvena zvezda vs FC Copenhagen",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -302,7 +402,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-164500",
-                  "name": "16:45 | Câu lạc bộ Bóng đá Sao Đỏ vs FC Copenhagen",
+                  "name": "16:45 | Crvena zvezda vs FC Copenhagen",
                   "streams": [
                     {
                       "id": "CO LA TV-164500",
@@ -375,56 +475,6 @@
         },
         {
           "id": "CO LA TV-164500",
-          "name": "⚽ 16:45 | Sturm Graz vs Olympique de Marseille",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4cc9044aed34f71c4e79bd260ea938fb.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-164500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-164500",
-                  "name": "16:45 | Sturm Graz vs Olympique de Marseille",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-164500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-164500",
           "name": "⚽ 16:45 | CLB Trabzonspor vs CLB Hearts",
           "type": "single",
           "display": "thumbnail-only",
@@ -464,56 +514,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-164500",
-          "name": "⚽ 16:45 | Câu lạc bộ bóng đá Dinamo Zagreb vs CLB NEC Nijmegen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-164500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-164500",
-                  "name": "16:45 | Câu lạc bộ bóng đá Dinamo Zagreb vs CLB NEC Nijmegen",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-164500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
