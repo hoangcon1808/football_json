@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Gia Dinh vs PVF CAND",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Gia Dinh vs PVF CAND",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Mobis Phoebus vs LG Sakers",
           "type": "single",
@@ -114,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Gia Dinh vs PVF CAND",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Gia Dinh vs PVF CAND",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/07808742_tsc.m3u8"
                         }
                       ]
                     }
@@ -1164,56 +1164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-180000",
-          "name": "⚽ 18:00 | Al Ahli SC vs Al Khaleej",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-180000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-180000",
-                  "name": "18:00 | Al Ahli SC vs Al Khaleej",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-180000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-084000",
+          "name": "⚽ 08:40 | Melbourne Victory vs Clb Melbourne city",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-084000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-084000",
+                  "name": "08:40 | Melbourne Victory vs Clb Melbourne city",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-084000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
