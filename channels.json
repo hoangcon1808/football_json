@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Shanxi Fenjiu vs Shanghai",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Shanxi Fenjiu vs Shanghai",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/87379114_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Al Jazira vs Ajman",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/07808742_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-113000",
+          "name": "⚽ 11:30 | Aston Villa vs Câu lạc bộ bóng đá thành phố Manchester ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-113000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-113000",
+                  "name": "11:30 | Aston Villa vs Câu lạc bộ bóng đá thành phố Manchester ",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-113000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/33982309_tsc.m3u8"
                         }
                       ]
                     }
