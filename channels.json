@@ -74,6 +74,56 @@
           ]
         },
         {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Adelaide City FC vs APIA Tigers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Adelaide City FC vs APIA Tigers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ",
           "type": "single",
@@ -164,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Adelaide City FC vs APIA Tigers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Adelaide City FC vs APIA Tigers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8"
                         }
                       ]
                     }
@@ -425,7 +425,7 @@
         },
         {
           "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Câu lạc bộ bóng đá Dynamo Kyiv vs Lái xe đi",
+          "name": "⚽ 10:00 | Dynamo Kyiv vs Kudrivka",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -452,7 +452,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-100000",
-                  "name": "10:00 | Câu lạc bộ bóng đá Dynamo Kyiv vs Lái xe đi",
+                  "name": "10:00 | Dynamo Kyiv vs Kudrivka",
                   "streams": [
                     {
                       "id": "CO LA TV-100000",
@@ -1725,7 +1725,7 @@
         },
         {
           "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | CLB Ipswich Town vs Câu lạc bộ Bóng đá Nottingham Forest",
+          "name": "⚽ 19:00 | Ipswich Town vs Nottingham Forest",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1752,7 +1752,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-190000",
-                  "name": "19:00 | CLB Ipswich Town vs Câu lạc bộ Bóng đá Nottingham Forest",
+                  "name": "19:00 | Ipswich Town vs Nottingham Forest",
                   "streams": [
                     {
                       "id": "CO LA TV-190000",
