@@ -74,6 +74,56 @@
           ]
         },
         {
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-100000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-100000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-083000",
           "name": "⚽ 08:30 | Adelaide City FC vs APIA Tigers",
           "type": "single",
@@ -124,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-080000",
-          "name": "⚽ 08:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-080000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-080000",
-                  "name": "08:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-080000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/33982309_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-083000",
           "name": "⚽ 08:30 | South Melbourne vs Sydney Utd",
           "type": "single",
@@ -214,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/08552895_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/82054853_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | Atlanta Hawks vs Houston Rockets",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-003000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | Atlanta Hawks vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-003000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/87379114_tsc.m3u8"
                         }
                       ]
                     }
