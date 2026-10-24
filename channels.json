@@ -24,58 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-194000",
-          "name": "⚽ 19:40 | CLB Columbus Crew vs CLB Toronto",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194000",
-                  "name": "19:40 | CLB Columbus Crew vs CLB Toronto",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-213000",
-          "name": "⚽ 21:30 | New York Red Bulls vs Inter Miami",
+          "id": "CO LA TV-214000",
+          "name": "⚽ 21:40 | New York Red Bulls vs Inter Miami",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -97,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-213000",
+              "id": "CO LA TV-214000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-213000",
-                  "name": "21:30 | New York Red Bulls vs Inter Miami",
+                  "id": "CO LA TV-214000",
+                  "name": "21:40 | New York Red Bulls vs Inter Miami",
                   "streams": [
                     {
-                      "id": "CO LA TV-213000",
+                      "id": "CO LA TV-214000",
                       "name": "Chính",
                       "stream_links": [
                         {
