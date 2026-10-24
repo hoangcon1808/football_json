@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Chelsea vs Tottenham Hotspur",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-163000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Chelsea vs Tottenham Hotspur",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-163000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | S.S.C. Napoli vs A.S. Roma",
           "type": "single",
@@ -64,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-141500",
-          "name": "⚽ 14:15 | CLB Racing Santander vs CLB Espanyol",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-141500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-141500",
-                  "name": "14:15 | CLB Racing Santander vs CLB Espanyol",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-141500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
                         }
                       ]
                     }
@@ -264,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Chelsea vs Tottenham Hotspur",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Chelsea vs Tottenham Hotspur",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
                         }
                       ]
                     }
