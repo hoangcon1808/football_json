@@ -24,6 +24,106 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | Arsenal vs Everton",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | Arsenal vs Everton",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | Coventry City vs Fulham",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | Coventry City vs Fulham",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Calcio Como vs U.S. Sassuolo Calcio",
           "type": "single",
@@ -74,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-133000",
-          "name": "⚽ 13:30 | RB Leipzig vs CLB Elversberg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-133000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-133000",
-                  "name": "13:30 | RB Leipzig vs CLB Elversberg",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-133000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | CLB Cagliari vs Bologna F.C. 1909",
           "type": "single",
@@ -164,6 +214,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-133000",
+          "name": "⚽ 13:30 | RB Leipzig vs CLB Elversberg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-133000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-133000",
+                  "name": "13:30 | RB Leipzig vs CLB Elversberg",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-133000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -414,106 +514,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Arsenal vs Everton",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-140000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Arsenal vs Everton",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-140000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Coventry City vs Fulham",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-140000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Coventry City vs Fulham",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-140000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
