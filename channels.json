@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-024000",
-          "name": "⚽ 02:40 | Portland Timbers vs Charlotte FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024000",
-                  "name": "02:40 | Portland Timbers vs Charlotte FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-040000",
           "name": "⚽ 04:00 | Sydney FC vs CLB Adelaide United",
           "type": "single",
@@ -114,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-024000",
+          "name": "⚽ 02:40 | Portland Timbers vs Charlotte FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-024000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-024000",
+                  "name": "02:40 | Portland Timbers vs Charlotte FC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-024000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
@@ -4924,8 +4924,8 @@
           ]
         },
         {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Shandong Hi-Speed vs Beijing Shougang",
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | CLB Johor Darul Takzim vs Port FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4933,7 +4933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80",
+            "url": "https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4947,15 +4947,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-113500",
+              "id": "CO LA TV-100000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Shandong Hi-Speed vs Beijing Shougang",
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | CLB Johor Darul Takzim vs Port FC",
                   "streams": [
                     {
-                      "id": "CO LA TV-113500",
+                      "id": "CO LA TV-100000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4963,7 +4963,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
@@ -4974,8 +4974,8 @@
           ]
         },
         {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Zhejiang East Sunshine Medicine vs Liaoning Bengang",
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Estoril U23 vs Santa Clara U23",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4983,7 +4983,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png!w80",
+            "url": "https://img.cltvap.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4997,15 +4997,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-113500",
+              "id": "CO LA TV-110000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Zhejiang East Sunshine Medicine vs Liaoning Bengang",
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Estoril U23 vs Santa Clara U23",
                   "streams": [
                     {
-                      "id": "CO LA TV-113500",
+                      "id": "CO LA TV-110000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -5013,7 +5013,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/14707124_tsc.m3u8"
                         }
                       ]
                     }
