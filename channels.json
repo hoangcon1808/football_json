@@ -24,6 +24,106 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-181500",
+          "name": "⚽ 18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-181500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-181500",
+                  "name": "18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-181500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-181500",
+          "name": "⚽ 18:15 | Al Qadisiya vs CLB Al Sadd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-181500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-181500",
+                  "name": "18:15 | Al Qadisiya vs CLB Al Sadd",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-181500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-164500",
           "name": "⚽ 16:45 | Al Ula FC vs Al-Orubah",
           "type": "single",
@@ -114,106 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-181500",
-          "name": "⚽ 18:15 | Al Qadisiya vs CLB Al Sadd",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-181500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-181500",
-                  "name": "18:15 | Al Qadisiya vs CLB Al Sadd",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-181500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-181500",
-          "name": "⚽ 18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-181500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-181500",
-                  "name": "18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-181500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
                         }
                       ]
                     }
