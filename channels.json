@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-193000",
+          "name": "⚽ 19:30 | Paris Saint-Germain vs Olympique Lyonnais",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-193000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-193000",
+                  "name": "19:30 | Paris Saint-Germain vs Olympique Lyonnais",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-193000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-181500",
           "name": "⚽ 18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
           "type": "single",
@@ -114,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-193000",
-          "name": "⚽ 19:30 | Paris Saint-Germain vs Olympique Lyonnais",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-193000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-193000",
-                  "name": "19:30 | Paris Saint-Germain vs Olympique Lyonnais",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-193000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
                         }
                       ]
                     }
