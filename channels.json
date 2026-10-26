@@ -4972,6 +4972,56 @@
               ]
             }
           ]
+        },
+        {
+          "id": "CO LA TV-150500",
+          "name": "⚽ 15:05 | Al Najma vs Al Zulfi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/fde877e452f79f75955ad4e4f326c654.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150500",
+                  "name": "15:05 | Al Najma vs Al Zulfi",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
