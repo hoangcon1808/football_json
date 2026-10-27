@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | CLB Al Ahli vs Esteghlal FC",
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80",
+            "url": "https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,115 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-160000",
+              "id": "CO LA TV-173000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | CLB Al Ahli vs Esteghlal FC",
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
                   "streams": [
                     {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Al Seeb vs East Bengal",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Al Seeb vs East Bengal",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-152500",
-          "name": "⚽ 15:25 | Al Wehda vs Al-Saqer",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/b510505e58cd138df949e152ab1c85f4.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-152500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-152500",
-                  "name": "15:25 | Al Wehda vs Al-Saqer",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-152500",
+                      "id": "CO LA TV-173000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -164,106 +64,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | Asteras Tripolis vs Kifisias",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/dbd8fbe82c9a39a85054bd7a2ac99b24.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-153000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-153000",
-                  "name": "15:30 | Asteras Tripolis vs Kifisias",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-153000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Al-Adalah vs Al Jeel",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Al-Adalah vs Al Jeel",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
@@ -374,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | CLB Al Ahli vs Esteghlal FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -383,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
+            "url": "https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -397,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-173000",
+              "id": "CO LA TV-160000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | CLB Al Ahli vs Esteghlal FC",
                   "streams": [
                     {
-                      "id": "CO LA TV-173000",
+                      "id": "CO LA TV-160000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -413,7 +213,107 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Seeb vs East Bengal",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Seeb vs East Bengal",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Al-Adalah vs Al Jeel",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-163000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Al-Adalah vs Al Jeel",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-163000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
@@ -2763,7 +2663,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
@@ -3163,7 +3063,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
                         }
                       ]
                     }
