@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Moreirense U23 vs Gil Vicente U23",
+          "id": "CO LA TV-144500",
+          "name": "⚽ 14:45 | Al-Shabab vs NEOM Sports Club",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80",
+            "url": "https://img.cltvap.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-130000",
+              "id": "CO LA TV-144500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Moreirense U23 vs Gil Vicente U23",
+                  "id": "CO LA TV-144500",
+                  "name": "14:45 | Al-Shabab vs NEOM Sports Club",
                   "streams": [
                     {
-                      "id": "CO LA TV-130000",
+                      "id": "CO LA TV-144500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
                         }
                       ]
                     }
@@ -124,6 +124,56 @@
           ]
         },
         {
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | Moreirense U23 vs Gil Vicente U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-130000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | Moreirense U23 vs Gil Vicente U23",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-130000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-143000",
           "name": "⚽ 14:30 | Kazma SC vs Ajman",
           "type": "single",
@@ -164,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-144500",
-          "name": "⚽ 14:45 | Al-Shabab vs NEOM Sports Club",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-144500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-144500",
-                  "name": "14:45 | Al-Shabab vs NEOM Sports Club",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-144500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
                         }
                       ]
                     }
