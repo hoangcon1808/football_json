@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Becamex Ho Chi Minh City vs Thép Cần Thơ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/8781d3f729c7f3a9baacbee4385f7c84.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Becamex Ho Chi Minh City vs Thép Cần Thơ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-113500",
           "name": "⚽ 11:35 | Shandong Hi-Speed vs Beijing Shougang",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-121500",
+          "name": "⚽ 12:15 | Wofoo Tai Po vs Pathum United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-121500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-121500",
+                  "name": "12:15 | Wofoo Tai Po vs Pathum United",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-121500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8"
                         }
                       ]
                     }
