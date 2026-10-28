@@ -324,56 +324,6 @@
           ]
         },
         {
-          "id": "CO LA TV-181500",
-          "name": "⚽ 18:15 | Al-Faisaly Amman vs Al-Taawoun",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-181500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-181500",
-                  "name": "18:15 | Al-Faisaly Amman vs Al-Taawoun",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-181500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-194500",
           "name": "⚽ 19:45 | Bayer 04 Leverkusen vs Nurnberg",
           "type": "single",
