@@ -324,6 +324,56 @@
           ]
         },
         {
+          "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | Erbil vs Al Ettifaq",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3a52398498773a8ed0006583046d8050.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-143000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | Erbil vs Al Ettifaq",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-143000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-150500",
           "name": "⚽ 15:05 | Al Najma vs Al Zulfi",
           "type": "single",
@@ -4964,56 +5014,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Persebaya vs Persijap Jepara",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Persebaya vs Persijap Jepara",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
