@@ -24,58 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-220000",
-          "name": "⚽ 22:00 | Argentinos Jrs vs Independiente Rivadavia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-220000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-220000",
-                  "name": "22:00 | Argentinos Jrs vs Independiente Rivadavia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-220000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-233000",
-          "name": "⚽ 23:30 | Đội bóng rổ Boston Celtics vs Brooklyn Nets",
+          "name": "⚽ 23:30 | Boston Celtics vs Brooklyn Nets",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -102,7 +52,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-233000",
-                  "name": "23:30 | Đội bóng rổ Boston Celtics vs Brooklyn Nets",
+                  "name": "23:30 | Boston Celtics vs Brooklyn Nets",
                   "streams": [
                     {
                       "id": "CO LA TV-233000",
@@ -1264,56 +1214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-143000",
-          "name": "⚽ 14:30 | Erbil vs Al Ettifaq",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3a52398498773a8ed0006583046d8050.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-143000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-143000",
-                  "name": "14:30 | Erbil vs Al Ettifaq",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-143000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
                         }
                       ]
                     }
@@ -2574,6 +2474,106 @@
           ]
         },
         {
+          "id": "CO LA TV-223000",
+          "name": "⚽ 22:30 | Fluminense RJ vs CLB Sport Club Internacional",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-223000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-223000",
+                  "name": "22:30 | Fluminense RJ vs CLB Sport Club Internacional",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-223000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-223000",
+          "name": "⚽ 22:30 | CLB Santos vs Palmeiras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-223000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-223000",
+                  "name": "22:30 | CLB Santos vs Palmeiras",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-223000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-230000",
           "name": "⚽ 23:00 | Atlanta Hawks vs Miami Heat",
           "type": "single",
@@ -2974,6 +2974,56 @@
           ]
         },
         {
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | Bahia vs CLB Sao Paulo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-003000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | Bahia vs CLB Sao Paulo",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-003000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-013000",
           "name": "⚽ 01:30 | Dallas Mavericks vs Oklahoma City Thunder",
           "type": "single",
@@ -3174,6 +3224,56 @@
           ]
         },
         {
+          "id": "CO LA TV-030000",
+          "name": "⚽ 03:00 | Club America vs Club Tijuana",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-030000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-030000",
+                  "name": "03:00 | Club America vs Club Tijuana",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-030000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-074500",
           "name": "⚽ 07:45 | CLB Adelaide United vs Lion City",
           "type": "single",
@@ -3214,6 +3314,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Canberra Croatia vs South Melbourne",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0e8a5b04bcb76a376d0f0ddf9f54fbaa.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Canberra Croatia vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
