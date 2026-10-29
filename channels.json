@@ -275,56 +275,6 @@
         },
         {
           "id": "CO LA TV-023000",
-          "name": "⚽ 02:30 | Los Angeles Clippers vs Los Angeles Lakers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-023000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-023000",
-                  "name": "02:30 | Los Angeles Clippers vs Los Angeles Lakers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-023000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-023000",
           "name": "⚽ 02:30 | San Jose Earthquakes vs Colorado Rapids",
           "type": "single",
           "display": "thumbnail-only",
@@ -364,6 +314,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/89756030.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-023000",
+          "name": "⚽ 02:30 | Los Angeles Clippers vs Los Angeles Lakers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-023000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-023000",
+                  "name": "02:30 | Los Angeles Clippers vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-023000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
                         }
                       ]
                     }
