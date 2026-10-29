@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-090000",
-          "name": "⚽ 09:00 | Brisbane Bullets vs Cairns Taipans",
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | Gangwon vs Kuching City FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
+            "url": "https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-090000",
+              "id": "CO LA TV-100000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-090000",
-                  "name": "09:00 | Brisbane Bullets vs Cairns Taipans",
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | Gangwon vs Kuching City FC",
                   "streams": [
                     {
-                      "id": "CO LA TV-090000",
+                      "id": "CO LA TV-100000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/87379114.m3u8"
+                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
                         }
                       ]
                     }
@@ -114,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Gangwon vs Kuching City FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Gangwon vs Kuching City FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/07808742.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-060000",
+          "name": "⚽ 06:00 | Kashima Antlers vs Cerezo Osaka",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-060000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-060000",
+                  "name": "06:00 | Kashima Antlers vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-060000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
