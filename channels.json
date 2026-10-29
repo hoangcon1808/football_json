@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-023000",
-          "name": "⚽ 02:30 | Seattle Sounders vs Houston Dynamo",
+          "id": "CO LA TV-024000",
+          "name": "⚽ 02:40 | Seattle Sounders vs Houston Dynamo",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-023000",
+              "id": "CO LA TV-024000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-023000",
-                  "name": "02:30 | Seattle Sounders vs Houston Dynamo",
+                  "id": "CO LA TV-024000",
+                  "name": "02:40 | Seattle Sounders vs Houston Dynamo",
                   "streams": [
                     {
-                      "id": "CO LA TV-023000",
+                      "id": "CO LA TV-024000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -74,8 +74,8 @@
           ]
         },
         {
-          "id": "CO LA TV-023000",
-          "name": "⚽ 02:30 | San Jose Earthquakes vs Colorado Rapids",
+          "id": "CO LA TV-024000",
+          "name": "⚽ 02:40 | San Jose Earthquakes vs Colorado Rapids",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -97,15 +97,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-023000",
+              "id": "CO LA TV-024000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-023000",
-                  "name": "02:30 | San Jose Earthquakes vs Colorado Rapids",
+                  "id": "CO LA TV-024000",
+                  "name": "02:40 | San Jose Earthquakes vs Colorado Rapids",
                   "streams": [
                     {
-                      "id": "CO LA TV-023000",
+                      "id": "CO LA TV-024000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -114,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/89756030.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Minnesota Timberwolves vs Golden State Warriors",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-000000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | Minnesota Timberwolves vs Golden State Warriors",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-000000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/90865415.m3u8"
                         }
                       ]
                     }
