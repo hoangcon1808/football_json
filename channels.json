@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Everton vs Câu lạc bộ bóng đá Newcastle United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Everton vs Câu lạc bộ bóng đá Newcastle United",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-180000",
           "name": "⚽ 18:00 | Al-Nassr vs Al Kholood",
           "type": "single",
@@ -64,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Frosinone vs U.S. Lecce",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Frosinone vs U.S. Lecce",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
                         }
                       ]
                     }
@@ -264,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-194500",
-          "name": "⚽ 19:45 | Everton vs Câu lạc bộ bóng đá Newcastle United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194500",
-                  "name": "19:45 | Everton vs Câu lạc bộ bóng đá Newcastle United",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/18812304.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | FC Schalke 04 vs RB Leipzig",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-143000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | FC Schalke 04 vs RB Leipzig",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-143000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/75748097.m3u8"
                         }
                       ]
                     }
