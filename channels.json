@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Alajuelense vs Motagua",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Alajuelense vs Motagua",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/14830711.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-063000",
           "name": "⚽ 06:30 | New Zealand Breakers vs Adelaide 36ers",
           "type": "single",
@@ -5003,6 +4953,56 @@
                 {
                   "id": "CO LA TV-050000",
                   "name": "05:00 | CLB Ulsan Hyundai  vs Gangwon",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-050000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-050000",
+          "name": "⚽ 05:00 | CLB Pohang Steelers vs Jeju Utd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-050000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-050000",
+                  "name": "05:00 | CLB Pohang Steelers vs Jeju Utd",
                   "streams": [
                     {
                       "id": "CO LA TV-050000",
