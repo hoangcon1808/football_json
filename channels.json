@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | CLB Gremio vs Athletico-PR",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | CLB Gremio vs Athletico-PR",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-020000",
           "name": "⚽ 02:00 | Alajuelense vs Motagua",
           "type": "single",
@@ -224,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | New Orleans Pelicans vs Sacramento Kings",
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | CLB Gremio vs Athletico-PR",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -233,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",
+            "url": "https://img.cltvap.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -247,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-000000",
+              "id": "CO LA TV-003000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | New Orleans Pelicans vs Sacramento Kings",
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | CLB Gremio vs Athletico-PR",
                   "streams": [
                     {
-                      "id": "CO LA TV-000000",
+                      "id": "CO LA TV-003000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -263,7 +213,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
+                          "url": "https://live05.miekgo.app/live/75748097.m3u8"
                         }
                       ]
                     }
