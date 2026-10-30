@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-090000",
-          "name": "⚽ 09:00 | CLB Brisbane Roar vs Auckland FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-090000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-090000",
-                  "name": "09:00 | CLB Brisbane Roar vs Auckland FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-090000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/14830711.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Đông Á Thanh Hóa vs Hồng Lĩnh Hà Tĩnh",
           "type": "single",
@@ -713,7 +663,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
+                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-203000",
+          "name": "⚽ 20:30 | Porto vs CLB Estoril",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-203000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-203000",
+                  "name": "20:30 | Porto vs CLB Estoril",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-203000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33860426.m3u8"
                         }
                       ]
                     }
