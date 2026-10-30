@@ -1313,7 +1313,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                          "url": "https://live05.miekgo.app/live/18812304.m3u8"
                         }
                       ]
                     }
@@ -4674,6 +4674,56 @@
           ]
         },
         {
+          "id": "CO LA TV-193000",
+          "name": "⚽ 19:30 | Luzern vs Sion",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/54b45ccae7dea1e4b2d74dab279e4620.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-193000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-193000",
+                  "name": "19:30 | Luzern vs Sion",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-193000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-194500",
           "name": "⚽ 19:45 | Troyes AC vs Le Mans",
           "type": "single",
@@ -4964,56 +5014,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-220000",
-          "name": "⚽ 22:00 | Charlotte Hornets vs Philadelphia 76ers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-220000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-220000",
-                  "name": "22:00 | Charlotte Hornets vs Philadelphia 76ers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-220000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87379114.m3u8"
                         }
                       ]
                     }
