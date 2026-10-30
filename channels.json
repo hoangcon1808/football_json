@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | New Zealand Breakers vs Adelaide 36ers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-063000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | New Zealand Breakers vs Adelaide 36ers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-063000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | DPMM vs Negeri Sembilan",
           "type": "single",
@@ -124,8 +74,8 @@
           ]
         },
         {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Malut United vs Bhayangkara Solo",
+          "id": "CO LA TV-063000",
+          "name": "⚽ 06:30 | New Zealand Breakers vs Adelaide 36ers",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -133,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -147,15 +97,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-083000",
+              "id": "CO LA TV-063000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Malut United vs Bhayangkara Solo",
+                  "id": "CO LA TV-063000",
+                  "name": "06:30 | New Zealand Breakers vs Adelaide 36ers",
                   "streams": [
                     {
-                      "id": "CO LA TV-083000",
+                      "id": "CO LA TV-063000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -163,7 +113,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                          "url": "https://live05.miekgo.app/live/82054853.m3u8"
                         }
                       ]
                     }
@@ -214,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Malut United vs Bhayangkara Solo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Malut United vs Bhayangkara Solo",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
                         }
                       ]
                     }
