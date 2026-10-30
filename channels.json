@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-193000",
-          "name": "⚽ 19:30 | CLB Elversberg vs 1. FSV Mainz 05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-193000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-193000",
-                  "name": "19:30 | CLB Elversberg vs 1. FSV Mainz 05",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-193000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-200500",
           "name": "⚽ 20:05 | Lille OSC vs RC Lens",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-113500",
+          "name": "⚽ 11:35 | Câu lạc bộ bóng đá Yuxi Yukun vs Câu lạc bộ bóng đá Zhixing Đại Liên",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-113500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-113500",
+                  "name": "11:35 | Câu lạc bộ bóng đá Yuxi Yukun vs Câu lạc bộ bóng đá Zhixing Đại Liên",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-113500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/18812304.m3u8"
                         }
                       ]
                     }
