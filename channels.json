@@ -425,56 +425,6 @@
         },
         {
           "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Seoul Samsung Thunders vs Seoul Knights",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Seoul Samsung Thunders vs Seoul Knights",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
           "name": "⚽ 07:30 | FC Anyang vs Bucheon FC 1995",
           "type": "single",
           "display": "thumbnail-only",
@@ -514,6 +464,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Seoul Samsung Thunders vs Seoul Knights",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Seoul Samsung Thunders vs Seoul Knights",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/87379114.m3u8"
                         }
                       ]
                     }
@@ -925,7 +925,7 @@
         },
         {
           "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Câu lạc bộ bóng đá Yuxi Yukun vs Câu lạc bộ bóng đá Zhixing Đại Liên",
+          "name": "⚽ 11:35 | Yunnan Yukun vs Dalian Yingbo",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -952,7 +952,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-113500",
-                  "name": "11:35 | Câu lạc bộ bóng đá Yuxi Yukun vs Câu lạc bộ bóng đá Zhixing Đại Liên",
+                  "name": "11:35 | Yunnan Yukun vs Dalian Yingbo",
                   "streams": [
                     {
                       "id": "CO LA TV-113500",
@@ -2175,7 +2175,7 @@
         },
         {
           "id": "CO LA TV-203000",
-          "name": "⚽ 20:30 | Orlando Magic vs Đội bóng rổ Boston Celtics",
+          "name": "⚽ 20:30 | Orlando Magic vs Boston Celtics",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2202,7 +2202,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-203000",
-                  "name": "20:30 | Orlando Magic vs Đội bóng rổ Boston Celtics",
+                  "name": "20:30 | Orlando Magic vs Boston Celtics",
                   "streams": [
                     {
                       "id": "CO LA TV-203000",
