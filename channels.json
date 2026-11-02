@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | U.S. Sassuolo Calcio vs ACF Fiorentina",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | U.S. Sassuolo Calcio vs ACF Fiorentina",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-181500",
           "name": "⚽ 18:15 | Al-Ittihad FC vs Al Ain",
           "type": "single",
@@ -164,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/18812304.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Real Valladolid vs CLB Leganes",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Real Valladolid vs CLB Leganes",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Ghazl El Mahallah vs Al Ittihad Alexandria",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Ghazl El Mahallah vs Al Ittihad Alexandria",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33860426.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Dortmund U19 vs Real Betis U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1c99cfa824629a2c1039a7a61c41ef56.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Dortmund U19 vs Real Betis U19",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
                         }
                       ]
                     }
