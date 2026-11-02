@@ -74,6 +74,56 @@
           ]
         },
         {
+          "id": "CO LA TV-013000",
+          "name": "⚽ 01:30 | Los Angeles FC vs Minnesota United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-013000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-013000",
+                  "name": "01:30 | Los Angeles FC vs Minnesota United",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-013000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-011000",
           "name": "⚽ 01:10 | Cruz Azul vs Club Leon",
           "type": "single",
@@ -174,8 +224,8 @@
           ]
         },
         {
-          "id": "CO LA TV-013000",
-          "name": "⚽ 01:30 | Los Angeles FC vs Minnesota United",
+          "id": "CO LA TV-020000",
+          "name": "⚽ 02:00 | Los Angeles Lakers vs Toronto Raptors",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +233,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -197,15 +247,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-013000",
+              "id": "CO LA TV-020000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-013000",
-                  "name": "01:30 | Los Angeles FC vs Minnesota United",
+                  "id": "CO LA TV-020000",
+                  "name": "02:00 | Los Angeles Lakers vs Toronto Raptors",
                   "streams": [
                     {
-                      "id": "CO LA TV-013000",
+                      "id": "CO LA TV-020000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -213,7 +263,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                          "url": "https://live05.miekgo.app/live/89756030.m3u8"
                         }
                       ]
                     }
@@ -263,57 +313,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Los Angeles Lakers vs Toronto Raptors",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Los Angeles Lakers vs Toronto Raptors",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/89756030.m3u8"
+                          "url": "https://live05.miekgo.app/live/07428422.m3u8"
                         }
                       ]
                     }
