@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-092500",
-          "name": "⚽ 09:25 | Bukhara State University vs Jayhun",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/59d954b4e0f648530960462a6ca6a835.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-092500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-092500",
-                  "name": "09:25 | Bukhara State University vs Jayhun",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-092500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Empoli U19 vs Cagliari U19",
           "type": "single",
@@ -114,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-092500",
+          "name": "⚽ 09:25 | Bukhara State University vs Jayhun",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/59d954b4e0f648530960462a6ca6a835.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-092500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-092500",
+                  "name": "09:25 | Bukhara State University vs Jayhun",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-092500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
                         }
                       ]
                     }
@@ -174,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Kryvbas vs Câu lạc bộ bóng đá Dynamo Kyiv",
+          "id": "CO LA TV-113000",
+          "name": "⚽ 11:30 | Kryvbas vs Câu lạc bộ bóng đá Dynamo Kyiv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -197,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-110000",
+              "id": "CO LA TV-113000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Kryvbas vs Câu lạc bộ bóng đá Dynamo Kyiv",
+                  "id": "CO LA TV-113000",
+                  "name": "11:30 | Kryvbas vs Câu lạc bộ bóng đá Dynamo Kyiv",
                   "streams": [
                     {
-                      "id": "CO LA TV-110000",
+                      "id": "CO LA TV-113000",
                       "name": "Chính",
                       "stream_links": [
                         {
