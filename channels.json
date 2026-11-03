@@ -75,6 +75,56 @@
         },
         {
           "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | Kashiwa Reysol vs Daejeon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-100000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | Kashiwa Reysol vs Daejeon",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-100000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Jeonbuk Hyundai Motors vs Johor Darul Takzim",
           "type": "single",
           "display": "thumbnail-only",
@@ -214,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Kashiwa Reysol vs Daejeon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Kashiwa Reysol vs Daejeon",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
                         }
                       ]
                     }
@@ -1125,7 +1125,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Maritimo U23 vs 摩里伦斯U23",
+          "name": "⚽ 15:00 | Maritimo U23 vs Moreirense U23",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1152,7 +1152,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | Maritimo U23 vs 摩里伦斯U23",
+                  "name": "15:00 | Maritimo U23 vs Moreirense U23",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
