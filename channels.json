@@ -125,56 +125,6 @@
         },
         {
           "id": "CO LA TV-090000",
-          "name": "⚽ 09:00 | Malut United vs Putra Sinar Giri",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-090000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-090000",
-                  "name": "09:00 | Malut United vs Putra Sinar Giri",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-090000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-090000",
           "name": "⚽ 09:00 | Brisbane Bullets vs Perth Wildcats",
           "type": "single",
           "display": "thumbnail-only",
@@ -1625,7 +1575,7 @@
         },
         {
           "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | RB Leipzig vs Câu lạc bộ bóng đá thành phố Manchester ",
+          "name": "⚽ 20:00 | RB Leipzig vs Manchester City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1652,7 +1602,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-200000",
-                  "name": "20:00 | RB Leipzig vs Câu lạc bộ bóng đá thành phố Manchester ",
+                  "name": "20:00 | RB Leipzig vs Manchester City",
                   "streams": [
                     {
                       "id": "CO LA TV-200000",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/18812304.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-221500",
+          "name": "⚽ 22:15 | CLB Gimnasia La Plata vs Belgrano",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/f323884c2481d25aa4b316a43583b733.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-221500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-221500",
+                  "name": "22:15 | CLB Gimnasia La Plata vs Belgrano",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-221500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
                         }
                       ]
                     }
