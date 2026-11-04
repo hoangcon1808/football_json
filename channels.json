@@ -224,56 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-181500",
-          "name": "⚽ 18:15 | Al-Taawoun vs Al-Faisaly Amman",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/440da1fad5d16ada9a9742bf5d14c98e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-181500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-181500",
-                  "name": "18:15 | Al-Taawoun vs Al-Faisaly Amman",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-181500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-200000",
           "name": "⚽ 20:00 | RC Lens vs Calcio Como",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33860426.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-142500",
+          "name": "⚽ 14:25 | Al-Fahaheel vs CLB Al Salibikhaet",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/807ed0a936bb4d9a8de9810fb66f8ccf.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-142500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-142500",
+                  "name": "14:25 | Al-Fahaheel vs CLB Al Salibikhaet",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-142500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
                         }
                       ]
                     }
