@@ -3824,6 +3824,56 @@
           ]
         },
         {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Chindia Targoviste vs Popesti Leordeni",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/275c4eca0c3dd431c353013d073479b9.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Chindia Targoviste vs Popesti Leordeni",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-153000",
           "name": "⚽ 15:30 | Mosul FC vs Duhok",
           "type": "single",
@@ -4474,6 +4524,56 @@
           ]
         },
         {
+          "id": "CO LA TV-184500",
+          "name": "⚽ 18:45 | Hapoel Tel-Aviv vs FC Barcelona",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/ca224b11d94be0f26e2043aa8584db09.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-184500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-184500",
+                  "name": "18:45 | Hapoel Tel-Aviv vs FC Barcelona",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-184500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-193000",
           "name": "⚽ 19:30 | Olimpia Milano vs Pamesa Valencia",
           "type": "single",
@@ -4864,106 +4964,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Sunderland vs Câu lạc bộ bóng đá Dinamo Zagreb",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | Sunderland vs Câu lạc bộ bóng đá Dinamo Zagreb",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Sturm Graz vs Celje",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4cc9044aed34f71c4e79bd260ea938fb.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | Sturm Graz vs Celje",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
                         }
                       ]
                     }
