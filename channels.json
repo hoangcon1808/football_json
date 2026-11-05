@@ -174,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-093000",
-          "name": "⚽ 09:30 | Pakistan vs Đội tuyển quốc gia Ấn Độ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-093000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-093000",
-                  "name": "09:30 | Pakistan vs Đội tuyển quốc gia Ấn Độ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-093000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Mobis Phoebus vs Seoul Samsung Thunders",
           "type": "single",
@@ -264,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/56998120.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Churchill Brothers vs North East Utd",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/0be01f850871a2273ca03ce2d085ab47.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113000",
-                  "name": "11:30 | Churchill Brothers vs North East Utd",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/82054853.m3u8"
                         }
                       ]
                     }
@@ -1625,7 +1525,7 @@
         },
         {
           "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Câu lạc bộ AGF Aarhus vs Braga",
+          "name": "⚽ 17:45 | AGF Aarhus vs Braga",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1652,7 +1552,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-174500",
-                  "name": "17:45 | Câu lạc bộ AGF Aarhus vs Braga",
+                  "name": "17:45 | AGF Aarhus vs Braga",
                   "streams": [
                     {
                       "id": "CO LA TV-174500",
@@ -2225,7 +2125,7 @@
         },
         {
           "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Sunderland vs Câu lạc bộ bóng đá Dinamo Zagreb",
+          "name": "⚽ 20:00 | Sunderland vs Dinamo Zagreb",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2252,7 +2152,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-200000",
-                  "name": "20:00 | Sunderland vs Câu lạc bộ bóng đá Dinamo Zagreb",
+                  "name": "20:00 | Sunderland vs Dinamo Zagreb",
                   "streams": [
                     {
                       "id": "CO LA TV-200000",
@@ -2475,7 +2375,7 @@
         },
         {
           "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Necaxa Nữ vs CLB nữ Atlas ",
+          "name": "⚽ 23:00 | Necaxa Nữ vs CLB nữ Atlas",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2502,7 +2402,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-230000",
-                  "name": "23:00 | Necaxa Nữ vs CLB nữ Atlas ",
+                  "name": "23:00 | Necaxa Nữ vs CLB nữ Atlas",
                   "streams": [
                     {
                       "id": "CO LA TV-230000",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33860426.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-204500",
+          "name": "⚽ 20:45 | Famalicao vs Arouca",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/abd59f62f69ef9f59a8121c3baadd882.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-204500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-204500",
+                  "name": "20:45 | Famalicao vs Arouca",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-204500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/07808742.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-221500",
+          "name": "⚽ 22:15 | Union de Santa Fe vs CLB Velez Sarsfield",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-221500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-221500",
+                  "name": "22:15 | Union de Santa Fe vs CLB Velez Sarsfield",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-221500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/82054853.m3u8"
                         }
                       ]
                     }
