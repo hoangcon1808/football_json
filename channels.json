@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | NBE SC vs Bur Fouad",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/31f3149a6e207008059cd6bb40a4a423.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | NBE SC vs Bur Fouad",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Chindia Targoviste vs Popesti Leordeni",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/275c4eca0c3dd431c353013d073479b9.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Chindia Targoviste vs Popesti Leordeni",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-153000",
           "name": "⚽ 15:30 | Mosul FC vs Duhok",
           "type": "single",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-063000",
+          "name": "⚽ 06:30 | Adelaide 36ers vs Illawarra Hawks",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-063000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-063000",
+                  "name": "06:30 | Adelaide 36ers vs Illawarra Hawks",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-063000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-070000",
+          "name": "⚽ 07:00 | Kashiwa Reysol vs Kawasaki Frontale",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-070000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-070000",
+                  "name": "07:00 | Kashiwa Reysol vs Kawasaki Frontale",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-070000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
