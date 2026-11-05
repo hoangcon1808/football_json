@@ -4724,6 +4724,106 @@
           ]
         },
         {
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | Braunschweig vs Energie Cottbus",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-173000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | Braunschweig vs Energie Cottbus",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-173000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | SG Dynamo Dresden vs Greuther Furth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/5b8a3bb282d72348c18e6338dd8d284c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-173000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | SG Dynamo Dresden vs Greuther Furth",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-173000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-193000",
           "name": "⚽ 19:30 | Virtus Pallacanestro Bologna vs dubai",
           "type": "single",
@@ -4824,8 +4924,8 @@
           ]
         },
         {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Phu Dong Ninh Binh vs Bac Ninh",
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Toulouse FC vs RC Strasbourg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4833,7 +4933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
+            "url": "https://img.cltvap.cc/football/team/2947fe2f42551a5b7eccca7fc948f879.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4847,15 +4947,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-110000",
+              "id": "CO LA TV-194500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Phu Dong Ninh Binh vs Bac Ninh",
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Toulouse FC vs RC Strasbourg",
                   "streams": [
                     {
-                      "id": "CO LA TV-110000",
+                      "id": "CO LA TV-194500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4863,7 +4963,57 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
+                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-200000",
+          "name": "⚽ 20:00 | Sevilla FC vs Alaves",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-200000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-200000",
+                  "name": "20:00 | Sevilla FC vs Alaves",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-200000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
                         }
                       ]
                     }
