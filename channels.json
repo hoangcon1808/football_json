@@ -4574,6 +4574,56 @@
           ]
         },
         {
+          "id": "CO LA TV-193000",
+          "name": "⚽ 19:30 | Hamburger SV vs Borussia Mönchengladbach",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-193000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-193000",
+                  "name": "19:30 | Hamburger SV vs Borussia Mönchengladbach",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-193000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-194500",
           "name": "⚽ 19:45 | CLB Oxford City vs Leicester City",
           "type": "single",
@@ -4874,8 +4924,8 @@
           ]
         },
         {
-          "id": "CO LA TV-010000",
-          "name": "⚽ 01:00 | New Orleans Pelicans vs Minnesota Timberwolves",
+          "id": "CO LA TV-230000",
+          "name": "⚽ 23:00 | CLB Boyaca Chico vs La Equidad",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4883,7 +4933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",
+            "url": "https://img.cltvap.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4897,15 +4947,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-010000",
+              "id": "CO LA TV-230000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-010000",
-                  "name": "01:00 | New Orleans Pelicans vs Minnesota Timberwolves",
+                  "id": "CO LA TV-230000",
+                  "name": "23:00 | CLB Boyaca Chico vs La Equidad",
                   "streams": [
                     {
-                      "id": "CO LA TV-010000",
+                      "id": "CO LA TV-230000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4913,7 +4963,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/90865415.m3u8"
+                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
                         }
                       ]
                     }
@@ -4924,8 +4974,8 @@
           ]
         },
         {
-          "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | LG Sakers vs Goyang Carrot Jumpers",
+          "id": "CO LA TV-000000",
+          "name": "⚽ 00:00 | Charlotte Hornets vs Đội bóng rổ Boston Celtics",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4933,7 +4983,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -4947,15 +4997,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-050000",
+              "id": "CO LA TV-000000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | LG Sakers vs Goyang Carrot Jumpers",
+                  "id": "CO LA TV-000000",
+                  "name": "00:00 | Charlotte Hornets vs Đội bóng rổ Boston Celtics",
                   "streams": [
                     {
-                      "id": "CO LA TV-050000",
+                      "id": "CO LA TV-000000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4963,57 +5013,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Busan KTF Sonicboom vs Incheon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Busan KTF Sonicboom vs Incheon",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/56998120.m3u8"
+                          "url": "https://live05.miekgo.app/live/89756030.m3u8"
                         }
                       ]
                     }
