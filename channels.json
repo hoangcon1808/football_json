@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-084000",
-          "name": "⚽ 08:40 | Sydney FC vs CLB Central Coast",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-084000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-084000",
-                  "name": "08:40 | Sydney FC vs CLB Central Coast",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-084000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/14830711.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Đại học Văn Hiến vs Huế",
           "type": "single",
@@ -225,6 +175,56 @@
         },
         {
           "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Hồng Lĩnh Hà Tĩnh vs Nam Định",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Hồng Lĩnh Hà Tĩnh vs Nam Định",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-110000",
           "name": "⚽ 11:00 | Van vs Pyunik Yerevan",
           "type": "single",
           "display": "thumbnail-only",
@@ -314,56 +314,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Hồng Lĩnh Hà Tĩnh vs Nam Định",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Hồng Lĩnh Hà Tĩnh vs Nam Định",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -774,56 +724,6 @@
           ]
         },
         {
-          "id": "CO LA TV-143500",
-          "name": "⚽ 14:35 | Al-Adalah vs Al-Orubah",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/56eaace9b1e134a8a019029f1fbaa0c5.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-143500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-143500",
-                  "name": "14:35 | Al-Adalah vs Al-Orubah",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-143500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-145500",
           "name": "⚽ 14:55 | Al Zulfi vs CLB AL Rabeea Jeddah",
           "type": "single",
@@ -913,7 +813,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/88508431.m3u8"
+                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
                         }
                       ]
                     }
@@ -4964,6 +4864,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-200500",
+          "name": "⚽ 20:05 | Paris Saint-Germain vs Troyes AC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-200500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-200500",
+                  "name": "20:05 | Paris Saint-Germain vs Troyes AC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-200500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-203000",
+          "name": "⚽ 20:30 | Sporting vs Moreirense",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-203000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-203000",
+                  "name": "20:30 | Sporting vs Moreirense",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-203000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
                         }
                       ]
                     }
