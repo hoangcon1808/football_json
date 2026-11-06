@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-080000",
-          "name": "⚽ 08:00 | Adelaide Nữ vs Wellington Phoenix Women",
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | PSIM Yogyakarta vs Dewa United FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png!w80",
+            "url": "https://img.cltvap.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-080000",
+              "id": "CO LA TV-083000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-080000",
-                  "name": "08:00 | Adelaide Nữ vs Wellington Phoenix Women",
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | PSIM Yogyakarta vs Dewa United FC",
                   "streams": [
                     {
-                      "id": "CO LA TV-080000",
+                      "id": "CO LA TV-083000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
+                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -124,8 +124,8 @@
           ]
         },
         {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | PSIM Yogyakarta vs Dewa United FC",
+          "id": "CO LA TV-080000",
+          "name": "⚽ 08:00 | Adelaide Nữ vs Wellington Phoenix Women",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -133,7 +133,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
+            "url": "https://img.cltvap.cc/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -147,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-083000",
+              "id": "CO LA TV-080000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | PSIM Yogyakarta vs Dewa United FC",
+                  "id": "CO LA TV-080000",
+                  "name": "08:00 | Adelaide Nữ vs Wellington Phoenix Women",
                   "streams": [
                     {
-                      "id": "CO LA TV-083000",
+                      "id": "CO LA TV-080000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -163,7 +163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
+                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
