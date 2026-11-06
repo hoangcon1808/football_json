@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-010000",
-          "name": "⚽ 01:00 | CLB Cancun vs Piratas FC",
+          "id": "CO LA TV-030000",
+          "name": "⚽ 03:00 | Alacranes de Durango vs CLB Leones Univ Guadalajara",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/6fe27a17397454cb43b104a6657e90d7.png!w80",
+            "url": "https://img.cltvap.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-010000",
+              "id": "CO LA TV-030000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-010000",
-                  "name": "01:00 | CLB Cancun vs Piratas FC",
+                  "id": "CO LA TV-030000",
+                  "name": "03:00 | Alacranes de Durango vs CLB Leones Univ Guadalajara",
                   "streams": [
                     {
-                      "id": "CO LA TV-010000",
+                      "id": "CO LA TV-030000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
@@ -164,56 +164,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-030500",
-          "name": "⚽ 03:05 | Alacranes de Durango vs CLB Leones Univ Guadalajara",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030500",
-                  "name": "03:05 | Alacranes de Durango vs CLB Leones Univ Guadalajara",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-170000",
+          "name": "⚽ 17:00 | Odense BK vs Viborg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/de4422160e9ec4e8e9e1f9517ca0e51a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-170000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-170000",
+                  "name": "17:00 | Odense BK vs Viborg",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-170000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/33860426.m3u8"
                         }
                       ]
                     }
