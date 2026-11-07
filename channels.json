@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Valencia CF vs Real Madrid CF",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3b54543c1a584e2e9948d655142996d3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | Valencia CF vs Real Madrid CF",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-200500",
-          "name": "⚽ 20:05 | Paris Saint-Germain vs Troyes AC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200500",
-                  "name": "20:05 | Paris Saint-Germain vs Troyes AC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-203000",
           "name": "⚽ 20:30 | Sporting vs Moreirense",
           "type": "single",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Napredak vs Bor 1919",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Napredak vs Bor 1919",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | ZED FC vs Samanod (EG)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | ZED FC vs Samanod (EG)",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/78905744.m3u8"
                         }
                       ]
                     }
