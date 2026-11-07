@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | CLB Tokyo vs Kashima Antlers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | CLB Tokyo vs Kashima Antlers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-070000",
           "name": "⚽ 07:00 | Kashiwa Reysol vs Kawasaki Frontale",
           "type": "single",
@@ -1325,7 +1275,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Câu lạc bộ bóng đá Fulham vs Câu lạc bộ bóng đá Newcastle United",
+          "name": "⚽ 15:00 | Fulham vs Newcastle United",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1352,7 +1302,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | Câu lạc bộ bóng đá Fulham vs Câu lạc bộ bóng đá Newcastle United",
+                  "name": "15:00 | Fulham vs Newcastle United",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
@@ -1556,56 +1506,6 @@
                   "streams": [
                     {
                       "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Krasnodar vs CSKA Moscow",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Krasnodar vs CSKA Moscow",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75915087.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Sturm Graz vs FC Red Bull Salzburg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/4cc9044aed34f71c4e79bd260ea938fb.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Sturm Graz vs FC Red Bull Salzburg",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07808742.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-161500",
+          "name": "⚽ 16:15 | Stade Brestois 29 vs Olympique Lyonnais",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/bb7e6346a3860008e4ff266ba3b655e8.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-161500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-161500",
+                  "name": "16:15 | Stade Brestois 29 vs Olympique Lyonnais",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-161500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33860426.m3u8"
                         }
                       ]
                     }
