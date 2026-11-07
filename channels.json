@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-220000",
-          "name": "⚽ 22:00 | Indiana Pacers vs Denver Nuggets",
+          "id": "CO LA TV-000000",
+          "name": "⚽ 00:00 | Real Salt Lake vs CLB LA Galaxy",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
+            "url": "https://img.cltvap.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-220000",
+              "id": "CO LA TV-000000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-220000",
-                  "name": "22:00 | Indiana Pacers vs Denver Nuggets",
+                  "id": "CO LA TV-000000",
+                  "name": "00:00 | Real Salt Lake vs CLB LA Galaxy",
                   "streams": [
                     {
-                      "id": "CO LA TV-220000",
+                      "id": "CO LA TV-000000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/82054853.m3u8"
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -124,8 +124,8 @@
           ]
         },
         {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Real Salt Lake vs CLB LA Galaxy",
+          "id": "CO LA TV-220000",
+          "name": "⚽ 22:00 | Indiana Pacers vs Denver Nuggets",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -133,7 +133,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -147,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-000000",
+              "id": "CO LA TV-220000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | Real Salt Lake vs CLB LA Galaxy",
+                  "id": "CO LA TV-220000",
+                  "name": "22:00 | Indiana Pacers vs Denver Nuggets",
                   "streams": [
                     {
-                      "id": "CO LA TV-000000",
+                      "id": "CO LA TV-220000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -163,7 +163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                          "url": "https://live05.wecile.app/live/82054853.m3u8"
                         }
                       ]
                     }
