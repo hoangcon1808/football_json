@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Việt Nam U23 vs Thái Lan U23",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Việt Nam U23 vs Thái Lan U23",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Santa Clara U23 vs Torreense U23",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/e7f496f594add2954bb58b2132e1e788.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Santa Clara U23 vs Torreense U23",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Algeria U17 vs Ma Rốc U17",
           "type": "single",
@@ -2074,8 +1974,8 @@
           ]
         },
         {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Bỉ U19 vs Kosovo U19",
+          "id": "CO LA TV-111500",
+          "name": "⚽ 11:15 | Bỉ U19 vs Kosovo U19",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2097,15 +1997,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-110000",
+              "id": "CO LA TV-111500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Bỉ U19 vs Kosovo U19",
+                  "id": "CO LA TV-111500",
+                  "name": "11:15 | Bỉ U19 vs Kosovo U19",
                   "streams": [
                     {
-                      "id": "CO LA TV-110000",
+                      "id": "CO LA TV-111500",
                       "name": "Chính",
                       "stream_links": [
                         {
