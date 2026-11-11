@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Guam U17 vs Palestine U17",
+          "id": "CO LA TV-093000",
+          "name": "⚽ 09:30 | Đội tuyển quốc gia Ấn Độ vs Maldives",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d261a0cca7c0457614ade49f83fa0cf2.png!w80",
+            "url": "https://img.cltvap.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-073000",
+              "id": "CO LA TV-093000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Guam U17 vs Palestine U17",
+                  "id": "CO LA TV-093000",
+                  "name": "09:30 | Đội tuyển quốc gia Ấn Độ vs Maldives",
                   "streams": [
                     {
-                      "id": "CO LA TV-073000",
+                      "id": "CO LA TV-093000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,57 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | South East Melbourne vs Illawarra Hawks",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | South East Melbourne vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/90865415.m3u8"
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -175,6 +125,56 @@
         },
         {
           "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | South East Melbourne vs Illawarra Hawks",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | South East Melbourne vs Illawarra Hawks",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/90865415.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
           "name": "⚽ 08:30 | Cambodia U17 vs Afghanistan U17",
           "type": "single",
           "display": "thumbnail-only",
@@ -214,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-093000",
-          "name": "⚽ 09:30 | Đội tuyển quốc gia Ấn Độ vs Maldives",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-093000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-093000",
-                  "name": "09:30 | Đội tuyển quốc gia Ấn Độ vs Maldives",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-093000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
