@@ -125,7 +125,7 @@
         },
         {
           "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Cộng hòa Séc U19 vs Hà Lan U19",
+          "name": "⚽ 13:00 | U19 Séc vs Hà Lan U19",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -152,7 +152,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-130000",
-                  "name": "13:00 | Cộng hòa Séc U19 vs Hà Lan U19",
+                  "name": "13:00 | U19 Séc vs Hà Lan U19",
                   "streams": [
                     {
                       "id": "CO LA TV-130000",
@@ -264,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Lebanon U17 vs Oman U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a576eafbce762079f7d1f77fca1c5cc2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-130000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Lebanon U17 vs Oman U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-130000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33860426.m3u8"
                         }
                       ]
                     }
@@ -4964,6 +4914,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-141000",
+          "name": "⚽ 14:10 | United Arab Emirates vs Honduras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-141000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-141000",
+                  "name": "14:10 | United Arab Emirates vs Honduras",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-141000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/97885009.m3u8"
                         }
                       ]
                     }
