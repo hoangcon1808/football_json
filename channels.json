@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Malta vs Eswatini",
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | ĐTQG Ý vs Pháp",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",
+            "url": "https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,65 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-173000",
+              "id": "CO LA TV-194500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Malta vs Eswatini",
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | ĐTQG Ý vs Pháp",
                   "streams": [
                     {
-                      "id": "CO LA TV-173000",
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Cộng hòa Séc vs Tây Ban Nha",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Cộng hòa Séc vs Tây Ban Nha",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -64,6 +114,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | ĐTQG Anh vs Croatia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | ĐTQG Anh vs Croatia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -375,56 +475,6 @@
         },
         {
           "id": "CO LA TV-194500",
-          "name": "⚽ 19:45 | ĐTQG Ý vs Pháp",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194500",
-                  "name": "19:45 | ĐTQG Ý vs Pháp",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-194500",
           "name": "⚽ 19:45 | CLB San Marino vs Belarus",
           "type": "single",
           "display": "thumbnail-only",
@@ -564,106 +614,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-194500",
-          "name": "⚽ 19:45 | Cộng hòa Séc vs Tây Ban Nha",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194500",
-                  "name": "19:45 | Cộng hòa Séc vs Tây Ban Nha",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-194500",
-          "name": "⚽ 19:45 | ĐTQG Anh vs Croatia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194500",
-                  "name": "19:45 | ĐTQG Anh vs Croatia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/82054853.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-113500",
+          "name": "⚽ 11:35 | Trung Quốc U19 vs Tajikistan U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-113500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-113500",
+                  "name": "11:35 | Trung Quốc U19 vs Tajikistan U19",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-113500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }
