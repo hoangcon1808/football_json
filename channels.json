@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Cairns Taipans vs Sydney",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Cairns Taipans vs Sydney",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100000",
           "name": "⚽ 10:00 | Wonju Dongbu Promy vs Busan KTF Sonicboom",
           "type": "single",
@@ -474,8 +424,8 @@
           ]
         },
         {
-          "id": "CO LA TV-141000",
-          "name": "⚽ 14:10 | United Arab Emirates vs Honduras",
+          "id": "CO LA TV-141500",
+          "name": "⚽ 14:15 | United Arab Emirates vs Honduras",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -497,15 +447,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-141000",
+              "id": "CO LA TV-141500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-141000",
-                  "name": "14:10 | United Arab Emirates vs Honduras",
+                  "id": "CO LA TV-141500",
+                  "name": "14:15 | United Arab Emirates vs Honduras",
                   "streams": [
                     {
-                      "id": "CO LA TV-141000",
+                      "id": "CO LA TV-141500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Thụy Điển vs ĐTQG Bosnia Herzegovina",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Thụy Điển vs ĐTQG Bosnia Herzegovina",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07428422.m3u8"
                         }
                       ]
                     }
