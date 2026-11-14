@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | R. Oviedo vs CLB Girona",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/21551996567bcd206ee574043d509a84.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | R. Oviedo vs CLB Girona",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-220000",
           "name": "⚽ 22:00 | CLB Banfield vs Boca Juniors",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Trung Phi vs Benin",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Trung Phi vs Benin",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33860426.m3u8"
                         }
                       ]
                     }
