@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Brisbane Bullets vs Tasmania JackJumpers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Brisbane Bullets vs Tasmania JackJumpers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-073000",
           "name": "⚽ 07:30 | LG Sakers vs Busan KTF Sonicboom",
           "type": "single",
@@ -513,7 +463,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/18812304.m3u8"
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-060000",
+          "name": "⚽ 06:00 | Yemen vs Malaysia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-060000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-060000",
+                  "name": "06:00 | Yemen vs Malaysia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-060000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
