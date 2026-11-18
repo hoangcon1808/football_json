@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | Thành phố Hồ Chí Minh vs Buriram",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | Thành phố Hồ Chí Minh vs Buriram",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-093000",
           "name": "⚽ 09:30 | C-Osaka Nữ vs Urawa Nữ (Jpn)",
           "type": "single",
@@ -74,8 +124,8 @@
           ]
         },
         {
-          "id": "CO LA TV-095500",
-          "name": "⚽ 09:55 | Suwon FMC Nữ vs Gyeongju FC Nữ",
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | Suwon FMC Nữ vs Gyeongju FC Nữ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -97,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-095500",
+              "id": "CO LA TV-100000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-095500",
-                  "name": "09:55 | Suwon FMC Nữ vs Gyeongju FC Nữ",
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | Suwon FMC Nữ vs Gyeongju FC Nữ",
                   "streams": [
                     {
-                      "id": "CO LA TV-095500",
+                      "id": "CO LA TV-100000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -214,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | Thành phố Hồ Chí Minh vs Buriram",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-110000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | Thành phố Hồ Chí Minh vs Buriram",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-110000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
                         }
                       ]
                     }
