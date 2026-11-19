@@ -174,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-124500",
-          "name": "⚽ 12:45 | Al Wasl vs CLB Hatta",
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | Pháp U17 vs Haiti U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80",
+            "url": "https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -197,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-124500",
+              "id": "CO LA TV-130000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-124500",
-                  "name": "12:45 | Al Wasl vs CLB Hatta",
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | Pháp U17 vs Haiti U17",
                   "streams": [
                     {
-                      "id": "CO LA TV-124500",
+                      "id": "CO LA TV-130000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -213,7 +213,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                          "url": "https://live05.wecile.app/live/88508431.m3u8"
                         }
                       ]
                     }
@@ -274,6 +274,56 @@
           ]
         },
         {
+          "id": "CO LA TV-124500",
+          "name": "⚽ 12:45 | Al Wasl vs CLB Hatta",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-124500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-124500",
+                  "name": "12:45 | Al Wasl vs CLB Hatta",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-124500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | CLB Termez Surkhon vs CLB FK Andijon",
           "type": "single",
@@ -314,56 +364,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Pháp U17 vs Haiti U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-130000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Pháp U17 vs Haiti U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-130000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/88508431.m3u8"
                         }
                       ]
                     }
