@@ -425,56 +425,6 @@
         },
         {
           "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Áo Vienna phụ nữ vs CLB nữ Bayern Munchen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Áo Vienna phụ nữ vs CLB nữ Bayern Munchen",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
           "name": "⚽ 17:45 | Paris FC Nữ vs Koge Nữ",
           "type": "single",
           "display": "thumbnail-only",
@@ -514,6 +464,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33860426.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Áo Vienna phụ nữ vs CLB nữ Bayern Munchen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Áo Vienna phụ nữ vs CLB nữ Bayern Munchen",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
                         }
                       ]
                     }
