@@ -1874,6 +1874,56 @@
           ]
         },
         {
+          "id": "CO LA TV-192500",
+          "name": "⚽ 19:25 | Progreso vs Montevideo City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0b168930b9b0cf269daf08a53170b27a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-192500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-192500",
+                  "name": "19:25 | Progreso vs Montevideo City",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-192500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07808742.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-200000",
           "name": "⚽ 20:00 | Pamesa Valencia vs Virtus Pallacanestro Bologna",
           "type": "single",
@@ -4964,56 +5014,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Fiji U17 vs Ma Rốc U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/231eb5a29f502174b938f4bd140e19c6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Fiji U17 vs Ma Rốc U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
                         }
                       ]
                     }
