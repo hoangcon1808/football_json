@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Preston Lions vs South Hobart",
+          "id": "CO LA TV-103000",
+          "name": "⚽ 10:30 | Dempo vs Lajong",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",
+            "url": "https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-083000",
+              "id": "CO LA TV-103000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Preston Lions vs South Hobart",
+                  "id": "CO LA TV-103000",
+                  "name": "10:30 | Dempo vs Lajong",
                   "streams": [
                     {
-                      "id": "CO LA TV-083000",
+                      "id": "CO LA TV-103000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,107 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Queensland Lions SC vs Wollongong Wolves",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Queensland Lions SC vs Wollongong Wolves",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | Illawarra Hawks vs Adelaide 36ers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | Illawarra Hawks vs Adelaide 36ers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -414,56 +314,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/14707124.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-103000",
-          "name": "⚽ 10:30 | Dempo vs Lajong",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-103000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-103000",
-                  "name": "10:30 | Dempo vs Lajong",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-103000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -1313,7 +1163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/82054853.m3u8"
+                          "url": "https://live05.wecile.app/live/07808742.m3u8"
                         }
                       ]
                     }
@@ -4613,7 +4463,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/07808742.m3u8"
+                          "url": "https://live05.wecile.app/live/82054853.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4864,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Fiji U17 vs Ma Rốc U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/231eb5a29f502174b938f4bd140e19c6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Fiji U17 vs Ma Rốc U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-161500",
+          "name": "⚽ 16:15 | Duhok vs Erbil",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/7befd62affd9e077714c9942164be43c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-161500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-161500",
+                  "name": "16:15 | Duhok vs Erbil",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-161500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Câu lạc bộ bóng đá Rostov vs CLB Krylya Sovetov",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-163000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Câu lạc bộ bóng đá Rostov vs CLB Krylya Sovetov",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-163000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/87547578.m3u8"
                         }
                       ]
                     }
