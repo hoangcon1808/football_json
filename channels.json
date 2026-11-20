@@ -325,7 +325,7 @@
         },
         {
           "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Albirex Niigata vs Balestier Khalsa",
+          "name": "⚽ 11:30 | FC Jurong vs Balestier Khalsa",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -352,7 +352,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-113000",
-                  "name": "11:30 | Albirex Niigata vs Balestier Khalsa",
+                  "name": "11:30 | FC Jurong vs Balestier Khalsa",
                   "streams": [
                     {
                       "id": "CO LA TV-113000",
@@ -464,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Dewa United FC vs Persita",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Dewa United FC vs Persita",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }
@@ -664,6 +614,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-120000",
+          "name": "⚽ 12:00 | Dewa United FC vs Persita",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-120000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-120000",
+                  "name": "12:00 | Dewa United FC vs Persita",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-120000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }
