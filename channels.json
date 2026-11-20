@@ -224,56 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | CLB Al Gharafa vs Al Arabi",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-153000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-153000",
-                  "name": "15:30 | CLB Al Gharafa vs Al Arabi",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-153000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | Câu lạc bộ bóng đá Shakhtar Donetsk vs FC Livyi Bereh",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-030000",
+          "name": "⚽ 03:00 | Sacramento Kings vs Đội bóng rổ Boston Celtics",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-030000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-030000",
+                  "name": "03:00 | Sacramento Kings vs Đội bóng rổ Boston Celtics",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-030000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/89756030.m3u8"
                         }
                       ]
                     }
