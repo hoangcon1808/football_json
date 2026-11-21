@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Incheon United vs CLB Ulsan Hyundai",
+          "id": "CO LA TV-084000",
+          "name": "⚽ 08:40 | CLB Brisbane Roar vs Sydney FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80",
+            "url": "https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-073000",
+              "id": "CO LA TV-084000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Incheon United vs CLB Ulsan Hyundai",
+                  "id": "CO LA TV-084000",
+                  "name": "08:40 | CLB Brisbane Roar vs Sydney FC",
                   "streams": [
                     {
-                      "id": "CO LA TV-073000",
+                      "id": "CO LA TV-084000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,57 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Gangwon vs Daejeon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Gangwon vs Daejeon",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                          "url": "https://live05.wecile.app/live/14830711.m3u8"
                         }
                       ]
                     }
@@ -164,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-084000",
-          "name": "⚽ 08:40 | CLB Brisbane Roar vs Sydney FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-084000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-084000",
-                  "name": "08:40 | CLB Brisbane Roar vs Sydney FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-084000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14830711.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/14707124.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Atalanta B.C. vs Inter Milan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Atalanta B.C. vs Inter Milan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Olympique de Marseille vs Le Mans",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Olympique de Marseille vs Le Mans",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
                         }
                       ]
                     }
