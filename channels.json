@@ -24,156 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | CLB Central Coast vs CLB Perth Glory",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | CLB Central Coast vs CLB Perth Glory",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Cerezo Osaka vs CLB Tokyo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Cerezo Osaka vs CLB Tokyo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Kawasaki Frontale vs Avispa Fukuoka",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Kawasaki Frontale vs Avispa Fukuoka",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-063000",
           "name": "⚽ 06:30 | Tasmania JackJumpers vs Illawarra Hawks",
           "type": "single",
@@ -5014,6 +4864,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75915087.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | Celta Vigo B vs Real Valladolid",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3090d2868936f0f73f36844a43d5ce8f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-173000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | Celta Vigo B vs Real Valladolid",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-173000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | CLB Girona vs CLB Eibar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/006ce259b33ef72dd5570cfa8dc39f38.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-173000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | CLB Girona vs CLB Eibar",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-173000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/88508431.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-181500",
+          "name": "⚽ 18:15 | Sarpsborg vs Lillestrom",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/97b182dc35a57e1fbfce5ab2382fe317.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-181500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-181500",
+                  "name": "18:15 | Sarpsborg vs Lillestrom",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-181500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
