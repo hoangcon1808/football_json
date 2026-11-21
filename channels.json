@@ -25,7 +25,7 @@
       "channels": [
         {
           "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Câu lạc bộ bóng đá Newcastle United vs Arsenal",
+          "name": "⚽ 17:30 | Newcastle United vs Arsenal",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -52,7 +52,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-173000",
-                  "name": "17:30 | Câu lạc bộ bóng đá Newcastle United vs Arsenal",
+                  "name": "17:30 | Newcastle United vs Arsenal",
                   "streams": [
                     {
                       "id": "CO LA TV-173000",
@@ -174,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | CLB NEC Nijmegen vs PSV Eindhoven",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d22de494a1ff648e90892c249c5aed12.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-153000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-153000",
-                  "name": "15:30 | CLB NEC Nijmegen vs PSV Eindhoven",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-153000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | CLB Kocaelispor vs Fenerbahce",
           "type": "single",
@@ -324,56 +274,6 @@
           ]
         },
         {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Feyenoord vs Excelsior",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Feyenoord vs Excelsior",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-173000",
           "name": "⚽ 17:30 | FC Schalke 04 vs VfB Stuttgart",
           "type": "single",
@@ -414,6 +314,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87547578.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Feyenoord vs Excelsior",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Feyenoord vs Excelsior",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-123000",
+          "name": "⚽ 12:30 | Tây Ban Nha U17 vs Fiji U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-123000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-123000",
+                  "name": "12:30 | Tây Ban Nha U17 vs Fiji U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-123000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
