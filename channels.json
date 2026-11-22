@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Getafe CF vs Atlético Madrid",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | Getafe CF vs Atlético Madrid",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | Burgos CF vs CLB Albacete",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/1e888ca542d892600d3b2818d1c40e22.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | Burgos CF vs CLB Albacete",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-204500",
           "name": "⚽ 20:45 | Torreense vs Benfica",
           "type": "single",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/14707124.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | CLB Al Ahli vs Al Qadisiya",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | CLB Al Ahli vs Al Qadisiya",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Seeb vs CLB AI Shorta",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/99436fc30d359790afbd11fe602a5a45.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Seeb vs CLB AI Shorta",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/78905744.m3u8"
                         }
                       ]
                     }
