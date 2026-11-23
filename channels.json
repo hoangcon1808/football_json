@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-234000",
-          "name": "⚽ 23:40 | CLB Chicago Fire vs Charlotte FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-234000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-234000",
-                  "name": "23:40 | CLB Chicago Fire vs Charlotte FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-234000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-000000",
           "name": "⚽ 00:00 | Chicago Bulls vs Denver Nuggets",
           "type": "single",
@@ -225,56 +175,6 @@
         },
         {
           "id": "CO LA TV-013000",
-          "name": "⚽ 01:30 | Vancouver Whitecaps vs Real Salt Lake",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-013000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-013000",
-                  "name": "01:30 | Vancouver Whitecaps vs Real Salt Lake",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-013000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-013000",
           "name": "⚽ 01:30 | Golden State Warriors vs Đội bóng rổ Boston Celtics",
           "type": "single",
           "display": "thumbnail-only",
@@ -314,6 +214,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-014000",
+          "name": "⚽ 01:40 | Vancouver Whitecaps vs Real Salt Lake",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-014000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-014000",
+                  "name": "01:40 | Vancouver Whitecaps vs Real Salt Lake",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-014000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
