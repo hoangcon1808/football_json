@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-110000",
-          "name": "⚽ 11:00 | LNZ Lebedyn vs Polissya Zhytomyr",
+          "id": "CO LA TV-123000",
+          "name": "⚽ 12:30 | Tây Ban Nha U17 vs Fiji U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/02519d3273de70817fb862c6955f11ee.png!w80",
+            "url": "https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-110000",
+              "id": "CO LA TV-123000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-110000",
-                  "name": "11:00 | LNZ Lebedyn vs Polissya Zhytomyr",
+                  "id": "CO LA TV-123000",
+                  "name": "12:30 | Tây Ban Nha U17 vs Fiji U17",
                   "streams": [
                     {
-                      "id": "CO LA TV-110000",
+                      "id": "CO LA TV-123000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,57 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Shandong Nữ vs SiChuan JinQiang Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/7a5dd1e3f6bffdc47b90bea563134aa2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113000",
-                  "name": "11:30 | Shandong Nữ vs SiChuan JinQiang Women",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -174,8 +124,8 @@
           ]
         },
         {
-          "id": "CO LA TV-123000",
-          "name": "⚽ 12:30 | Tây Ban Nha U17 vs Fiji U17",
+          "id": "CO LA TV-113000",
+          "name": "⚽ 11:30 | Shandong Nữ vs SiChuan JinQiang Women",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +133,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/7a5dd1e3f6bffdc47b90bea563134aa2.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -197,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-123000",
+              "id": "CO LA TV-113000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-123000",
-                  "name": "12:30 | Tây Ban Nha U17 vs Fiji U17",
+                  "id": "CO LA TV-113000",
+                  "name": "11:30 | Shandong Nữ vs SiChuan JinQiang Women",
                   "streams": [
                     {
-                      "id": "CO LA TV-123000",
+                      "id": "CO LA TV-113000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -213,7 +163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                          "url": "https://live05.wecile.app/live/56998120.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-030000",
+          "name": "⚽ 03:00 | FC Ryukyu vs Roasso Kumamoto",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/78032edddbd8c3c0c21c79f259b2185a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-030000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-030000",
+                  "name": "03:00 | FC Ryukyu vs Roasso Kumamoto",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-030000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
                         }
                       ]
                     }
