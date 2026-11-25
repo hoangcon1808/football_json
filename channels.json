@@ -24,106 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-033000",
-          "name": "⚽ 03:30 | San Jose Earthquakes vs Houston Dynamo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-033000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-033000",
-                  "name": "03:30 | San Jose Earthquakes vs Houston Dynamo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-033000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-030000",
-          "name": "⚽ 03:00 | FC Ryukyu vs Roasso Kumamoto",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/78032edddbd8c3c0c21c79f259b2185a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030000",
-                  "name": "03:00 | FC Ryukyu vs Roasso Kumamoto",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-030000",
           "name": "⚽ 03:00 | Denver Nuggets vs Dallas Mavericks",
           "type": "single",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87547578.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Besiktas JK vs Hapoel Beer Sheva",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Besiktas JK vs Hapoel Beer Sheva",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Câu lạc bộ AFC Ajax vs Thun",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Câu lạc bộ AFC Ajax vs Thun",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/99121525.m3u8"
                         }
                       ]
                     }
