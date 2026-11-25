@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-013000",
-          "name": "⚽ 01:30 | CLB America de Cali vs CLB Deportivo Cali",
+          "id": "CO LA TV-033000",
+          "name": "⚽ 03:30 | San Jose Earthquakes vs Houston Dynamo",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
+            "url": "https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-013000",
+              "id": "CO LA TV-033000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-013000",
-                  "name": "01:30 | CLB America de Cali vs CLB Deportivo Cali",
+                  "id": "CO LA TV-033000",
+                  "name": "03:30 | San Jose Earthquakes vs Houston Dynamo",
                   "streams": [
                     {
-                      "id": "CO LA TV-013000",
+                      "id": "CO LA TV-033000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
@@ -114,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-030000",
-          "name": "⚽ 03:00 | San Jose Earthquakes vs Houston Dynamo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030000",
-                  "name": "03:00 | San Jose Earthquakes vs Houston Dynamo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
@@ -4764,6 +4714,306 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Plzen vs Benfica",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/612bde1cd51faba4b31a568ea5bce334.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Plzen vs Benfica",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75915087.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1df992d91eb0877558c872a18ea605f0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-200000",
+          "name": "⚽ 20:00 | Crystal Palace vs Real Sociedad",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-200000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-200000",
+                  "name": "20:00 | Crystal Palace vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-200000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | Colombia U17 vs Srbija C.Gora U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-130000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | Colombia U17 vs Srbija C.Gora U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-130000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75915087.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | Costa Rica U17 vs Brazil U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | Costa Rica U17 vs Brazil U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | IMT Novi Beograd vs CLB Macva Sabac",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9c1777c5f9d29d3c8ce03960caa52a64.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | IMT Novi Beograd vs CLB Macva Sabac",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75915087.m3u8"
                         }
                       ]
                     }
