@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Saudi Arabia vs Trung quốc",
+          "id": "CO LA TV-142500",
+          "name": "⚽ 14:25 | Al Fateh vs Al-Riyadh",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/74598b2e0e004c9a8c87e221e8f65996.png!w80",
+            "url": "https://img.cltvap.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-130000",
+              "id": "CO LA TV-142500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Saudi Arabia vs Trung quốc",
+                  "id": "CO LA TV-142500",
+                  "name": "14:25 | Al Fateh vs Al-Riyadh",
                   "streams": [
                     {
-                      "id": "CO LA TV-130000",
+                      "id": "CO LA TV-142500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,57 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/82054853.m3u8"
+                          "url": "https://live05.wecile.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150500",
+          "name": "⚽ 15:05 | Abha vs Al-Shabab",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150500",
+                  "name": "15:05 | Abha vs Al-Shabab",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -224,56 +274,6 @@
           ]
         },
         {
-          "id": "CO LA TV-142500",
-          "name": "⚽ 14:25 | Al Fateh vs Al-Riyadh",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-142500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-142500",
-                  "name": "14:25 | Al Fateh vs Al-Riyadh",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-142500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-150000",
           "name": "⚽ 15:00 | Ma Rốc U17 vs Tây Ban Nha U17",
           "type": "single",
@@ -364,56 +364,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150500",
-          "name": "⚽ 15:05 | Abha vs Al-Shabab",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150500",
-                  "name": "15:05 | Abha vs Al-Shabab",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/90865415.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-014000",
+          "name": "⚽ 01:40 | CLB Millonarios vs CLB America de Cali",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-014000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-014000",
+                  "name": "01:40 | CLB Millonarios vs CLB America de Cali",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-014000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
