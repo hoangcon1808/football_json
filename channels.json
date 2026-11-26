@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | Kairat vs Mjallby",
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Celta Vigo vs Bournemouth",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3ef04912f88c3166f1a47864cde71949.png!w80",
+            "url": "https://img.cltvap.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,165 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-153000",
+              "id": "CO LA TV-174500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-153000",
-                  "name": "15:30 | Kairat vs Mjallby",
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Celta Vigo vs Bournemouth",
                   "streams": [
                     {
-                      "id": "CO LA TV-153000",
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/02456966.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Brighton & Hove Albion FC vs Univ. Craiova",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Brighton & Hove Albion FC vs Univ. Craiova",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1df992d91eb0877558c872a18ea605f0.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Plzen vs Benfica",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/612bde1cd51faba4b31a568ea5bce334.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Plzen vs Benfica",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -74,8 +224,8 @@
           ]
         },
         {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Dynamo Moscow vs F. Voronezh",
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Dinamo Zagreb vs Bayer 04 Leverkusen",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -83,7 +233,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80",
+            "url": "https://img.cltvap.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -97,15 +247,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-163000",
+              "id": "CO LA TV-174500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Dynamo Moscow vs F. Voronezh",
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Dinamo Zagreb vs Bayer 04 Leverkusen",
                   "streams": [
                     {
-                      "id": "CO LA TV-163000",
+                      "id": "CO LA TV-174500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -113,7 +263,57 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                          "url": "https://live05.wecile.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | CLB Hearts vs AS Monaco",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/eaf06359f42dcf69c7ac660731511239.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | CLB Hearts vs AS Monaco",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -274,8 +474,8 @@
           ]
         },
         {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Dynamo Moscow vs F. Voronezh",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -283,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/1df992d91eb0877558c872a18ea605f0.png!w80",
+            "url": "https://img.cltvap.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -297,15 +497,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-174500",
+              "id": "CO LA TV-163000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Câu lạc bộ bóng đá Olympiakos vs AC Milan",
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Dynamo Moscow vs F. Voronezh",
                   "streams": [
                     {
-                      "id": "CO LA TV-174500",
+                      "id": "CO LA TV-163000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -313,107 +513,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Dinamo Zagreb vs Bayer 04 Leverkusen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Dinamo Zagreb vs Bayer 04 Leverkusen",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Celta Vigo vs Bournemouth",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Celta Vigo vs Bournemouth",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/02456966.m3u8"
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
                         }
                       ]
                     }
@@ -675,106 +775,6 @@
         },
         {
           "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | CLB Hearts vs AS Monaco",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/eaf06359f42dcf69c7ac660731511239.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | CLB Hearts vs AS Monaco",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Brighton & Hove Albion FC vs Univ. Craiova",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Brighton & Hove Albion FC vs Univ. Craiova",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
           "name": "⚽ 17:45 | Saburtalo Tbilisi vs Getafe CF",
           "type": "single",
           "display": "thumbnail-only",
@@ -814,56 +814,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/97885009.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Plzen vs Benfica",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/612bde1cd51faba4b31a568ea5bce334.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Plzen vs Benfica",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75915087.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-050000",
+          "name": "⚽ 05:00 | Kyoto Sanga vs Cerezo Osaka",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-050000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-050000",
+                  "name": "05:00 | Kyoto Sanga vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-050000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
