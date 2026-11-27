@@ -25,56 +25,6 @@
       "channels": [
         {
           "id": "CO LA TV-080000",
-          "name": "⚽ 08:00 | Indonesia vs Thái Lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/8d4aca15bee632dc0709e24152c7f529.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-080000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-080000",
-                  "name": "08:00 | Indonesia vs Thái Lan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-080000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | UC Capitals Women vs Melbourne Boomers Nữ",
           "type": "single",
           "display": "thumbnail-only",
@@ -114,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/89756030.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | CLB Broadmeadow Magic vs CLB Queensland Lions SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | CLB Broadmeadow Magic vs CLB Queensland Lions SC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33860426.m3u8"
                         }
                       ]
                     }
@@ -174,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | CLB Broadmeadow Magic vs CLB Queensland Lions SC",
+          "id": "CO LA TV-080000",
+          "name": "⚽ 08:00 | Indonesia vs Thái Lan",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4f0ff310b253f34bfd414c5b2502082c.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/8d4aca15bee632dc0709e24152c7f529.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -197,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-083000",
+              "id": "CO LA TV-080000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | CLB Broadmeadow Magic vs CLB Queensland Lions SC",
+                  "id": "CO LA TV-080000",
+                  "name": "08:00 | Indonesia vs Thái Lan",
                   "streams": [
                     {
-                      "id": "CO LA TV-083000",
+                      "id": "CO LA TV-080000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -213,7 +213,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/33860426.m3u8"
+                          "url": "https://live05.wecile.app/live/87379114.m3u8"
                         }
                       ]
                     }
