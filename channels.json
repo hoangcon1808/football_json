@@ -325,56 +325,6 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Montenegro U17 vs Chilê U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Montenegro U17 vs Chilê U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150000",
           "name": "⚽ 15:00 | Algeria U17 vs Cộng hòa Dominican U17",
           "type": "single",
           "display": "thumbnail-only",
@@ -425,7 +375,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | FC Neftci Baku vs Zira FK",
+          "name": "⚽ 15:00 | Montenegro U17 vs Chilê U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,7 +383,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2d9ea2234c3ada82b3d0355791c45669.png!w80",
+            "url": "https://img.cltvap.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -452,7 +402,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | FC Neftci Baku vs Zira FK",
+                  "name": "15:00 | Montenegro U17 vs Chilê U17",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
@@ -463,7 +413,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                          "url": "https://live05.wecile.app/live/75748097.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33860426.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-010000",
+          "name": "⚽ 01:00 | Milwaukee Bucks vs Oklahoma City Thunder",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-010000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-010000",
+                  "name": "01:00 | Milwaukee Bucks vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-010000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/56998120.m3u8"
                         }
                       ]
                     }
