@@ -274,56 +274,6 @@
           ]
         },
         {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Câu lạc bộ Bóng đá Lokomotiv 1929 Sofia vs Slavia Sofia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/eddf8d0f309490d5e64ad445895eedb1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Câu lạc bộ Bóng đá Lokomotiv 1929 Sofia vs Slavia Sofia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-190000",
           "name": "⚽ 19:00 | Groningen vs Willem II",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Persita vs CLB Persib Bandung",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/da85ffb03146e72ce9928729dcabda51.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Persita vs CLB Persib Bandung",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75748097.m3u8"
                         }
                       ]
                     }
