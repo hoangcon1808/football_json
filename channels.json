@@ -24,206 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Al-Ittihad FC vs NEOM Sports Club",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Al-Ittihad FC vs NEOM Sports Club",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75748097.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | VfL Bochum vs Darmstadt",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | VfL Bochum vs Darmstadt",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Heidenheimer vs Nurnberg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Heidenheimer vs Nurnberg",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | Groningen vs Willem II",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/98a1646fa8a5b6f02b0505cf3857f6d5.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-190000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | Groningen vs Willem II",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-190000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/97885009.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-193000",
           "name": "⚽ 19:30 | SV Werder Bremen vs Borussia Mönchengladbach",
           "type": "single",
@@ -364,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Groningen vs Willem II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/98a1646fa8a5b6f02b0505cf3857f6d5.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Groningen vs Willem II",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/97885009.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4864,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Arema Malang vs Persebaya",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Arema Malang vs Persebaya",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75915087.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-090000",
+          "name": "⚽ 09:00 | Iran vs Philippines",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/77418e1cfd63306bf63717d76c23e910.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-090000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-090000",
+                  "name": "09:00 | Iran vs Philippines",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-090000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | Gazovik Orenburg vs CLB Rodina Moskva",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0f5f64c52541a333596d8892b25aa310.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-100000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | Gazovik Orenburg vs CLB Rodina Moskva",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-100000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
                         }
                       ]
                     }
