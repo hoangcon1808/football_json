@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-080000",
-          "name": "⚽ 08:00 | Bahrain vs Kazakhstan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/939045fc3f62477368f62d714ab67401.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-080000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-080000",
-                  "name": "08:00 | Bahrain vs Kazakhstan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-080000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-084000",
           "name": "⚽ 08:40 | CLB Central Coast vs Auckland FC",
           "type": "single",
@@ -275,7 +225,7 @@
         },
         {
           "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | CLB Holstein Kiel vs CLB Kaiserslautern",
+          "name": "⚽ 12:00 | Holstein Kiel vs Kaiserslautern",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -302,7 +252,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-120000",
-                  "name": "12:00 | CLB Holstein Kiel vs CLB Kaiserslautern",
+                  "name": "12:00 | Holstein Kiel vs Kaiserslautern",
                   "streams": [
                     {
                       "id": "CO LA TV-120000",
@@ -1075,7 +1025,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | West Ham United vs CLB Stoke City",
+          "name": "⚽ 15:00 | West Ham United vs Stoke City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1102,7 +1052,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | West Ham United vs CLB Stoke City",
+                  "name": "15:00 | West Ham United vs Stoke City",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
@@ -2025,7 +1975,7 @@
         },
         {
           "id": "CO LA TV-213000",
-          "name": "⚽ 21:30 | CLB Philadelphia Union vs CLB New England Revolution",
+          "name": "⚽ 21:30 | Philadelphia Union vs New England Revolution",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2052,7 +2002,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-213000",
-                  "name": "21:30 | CLB Philadelphia Union vs CLB New England Revolution",
+                  "name": "21:30 | Philadelphia Union vs New England Revolution",
                   "streams": [
                     {
                       "id": "CO LA TV-213000",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-173000",
+          "name": "⚽ 17:30 | Cadiz CF vs Cordoba",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/13ad117ddb310052841244f0d1ed3c1e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-173000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-173000",
+                  "name": "17:30 | Cadiz CF vs Cordoba",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-173000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/88508431.m3u8"
                         }
                       ]
                     }
