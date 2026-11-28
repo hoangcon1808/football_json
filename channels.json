@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Elche vs Atlético Madrid",
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Paris Saint-Germain vs FC Lorient",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/e5ecd0553885f1a3af731758dddce2ec.png!w80",
+            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-173000",
+              "id": "CO LA TV-194500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | Elche vs Atlético Madrid",
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Paris Saint-Germain vs FC Lorient",
                   "streams": [
                     {
-                      "id": "CO LA TV-173000",
+                      "id": "CO LA TV-194500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,107 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | VfB Stuttgart vs Eintracht Frankfurt",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-173000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-173000",
-                  "name": "17:30 | VfB Stuttgart vs Eintracht Frankfurt",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-173000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-180000",
-          "name": "⚽ 18:00 | CLB Viseu vs Alverca",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bd659fbcfc82ac233cc8e329f35f2b50.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-180000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-180000",
-                  "name": "18:00 | CLB Viseu vs Alverca",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-180000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07808742.m3u8"
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -274,6 +174,56 @@
           ]
         },
         {
+          "id": "CO LA TV-180000",
+          "name": "⚽ 18:00 | CLB Viseu vs Alverca",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/bd659fbcfc82ac233cc8e329f35f2b50.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-180000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-180000",
+                  "name": "18:00 | CLB Viseu vs Alverca",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-180000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07808742.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-194500",
           "name": "⚽ 19:45 | OGC Nice vs Troyes AC",
           "type": "single",
@@ -314,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/88508431.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-194500",
-          "name": "⚽ 19:45 | Paris Saint-Germain vs FC Lorient",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-194500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-194500",
-                  "name": "19:45 | Paris Saint-Germain vs FC Lorient",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-194500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/49572724.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-120000",
+          "name": "⚽ 12:00 | Songkhla FC vs Muang Thong Utd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/e468328a4c4e6599b345baba80b8c6d6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-120000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-120000",
+                  "name": "12:00 | Songkhla FC vs Muang Thong Utd",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-120000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/18812304.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-120500",
+          "name": "⚽ 12:05 | Al Anwar SA vs Al Zulfi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/112d2346959358934a9daf50169ba7b4.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-120500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-120500",
+                  "name": "12:05 | Al Anwar SA vs Al Zulfi",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-120500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
                         }
                       ]
                     }
