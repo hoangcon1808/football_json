@@ -24,6 +24,56 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "CO LA TV-140000",
+          "name": "⚽ 14:00 | Frosinone vs CLB Parma",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-140000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-140000",
+                  "name": "14:00 | Frosinone vs CLB Parma",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-140000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-121500",
           "name": "⚽ 12:15 | CLB Al Hazm vs Al-Nassr",
           "type": "single",
@@ -174,156 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | SG Dynamo Dresden vs St. Pauli",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5b8a3bb282d72348c18e6338dd8d284c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | SG Dynamo Dresden vs St. Pauli",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Holstein Kiel vs Kaiserslautern",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Holstein Kiel vs Kaiserslautern",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Hertha BSC vs CLB KSC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/1f74843bf2ffff474d23d387fa240102.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Hertha BSC vs CLB KSC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-123000",
           "name": "⚽ 12:30 | Lincoln vs Wolverhampton Wanderers",
           "type": "single",
@@ -424,8 +324,8 @@
           ]
         },
         {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Frosinone vs CLB Parma",
+          "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | Paderborn vs FC Schalke 04",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,7 +333,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80",
+            "url": "https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -447,15 +347,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-140000",
+              "id": "CO LA TV-143000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Frosinone vs CLB Parma",
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | Paderborn vs FC Schalke 04",
                   "streams": [
                     {
-                      "id": "CO LA TV-140000",
+                      "id": "CO LA TV-143000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -463,7 +363,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -564,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-143000",
-          "name": "⚽ 14:30 | Paderborn vs FC Schalke 04",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-143000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-143000",
-                  "name": "14:30 | Paderborn vs FC Schalke 04",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-143000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4864,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Liban vs Trung quốc",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/01fbdbd570011d3ff9420955163f2cbf.jpg!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Liban vs Trung quốc",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | CLB NEC Nijmegen vs Twente",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/d22de494a1ff648e90892c249c5aed12.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | CLB NEC Nijmegen vs Twente",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-194500",
+          "name": "⚽ 19:45 | Calcio Como vs Juventus F.C.",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-194500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-194500",
+                  "name": "19:45 | Calcio Como vs Juventus F.C.",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-194500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/02456966.m3u8"
                         }
                       ]
                     }
